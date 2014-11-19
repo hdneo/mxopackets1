@@ -1,0 +1,1684 @@
+Client->MRGN [13:55:09 07/28/09] packet size: 317
+81 3b 01 03 00 36 01 a6 97 ac 14 dc 3d 62 c9 ff 78 12 f5 29 90 a7 b7 49 36 cb 84 8d 15 de 23 68 
+c6 41 ef 57 48 f0 98 9a ab cc 9d bc 45 c3 c2 ee 5f 62 0f a4 e8 df 27 e1 1f 32 10 15 88 8e 28 73 
+fb 33 52 6c 3c 7f 80 8f 85 cb d9 97 57 81 c1 f2 33 86 c7 0b 3b 6c e3 11 c2 db 8d 57 42 cd a9 40 
+db ec cc 25 f7 2c c7 be 8e de dd fb e7 ef 1b d1 d9 f1 21 38 69 ad d9 9f 29 07 9f 8a 85 d3 0e d8 
+1a bb 6f 44 15 0f 14 01 51 4e 79 00 43 72 61 73 68 4f 76 65 72 32 6b 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 5c e9 6e 4a 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 17 ab 1c 76 11 3f 67 0e 
+21 61 0c 22 04 2c af 5d e8 ce bd 77 a0 26 41 03 eb f8 14 22 f7 55 3e 47 46 6e c6 42 1e 7b e9 b3 
+f3 3b fe f1 7b 18 b0 ae 84 3f c8 ea da 52 fd d0 2e c4 30 73 5f 44 c4 6f 79 d2 2e 95 4c 3d 4c 1d 
+28 0f 4a a6 4a c8 01 af be 67 f1 b1 d7 7a 20 25 9a 51 93 b2 46 2c 76 04 07 cb 10 19 26 
+.;...6......=b..x..)...I6.....#h.A.WH.......E..._b....'..2....(s.3Rl<.......W...3...;l.....WB..@
+...%.,............!8i...).........oD....QNy.CrashOver2k............................\.nJ.........
+...........................v.?g.!a.".,.]...w.&A....".U>GFn.B.{...;..{....?...R....0s_D.oy...L=L.
+(.J.J....g...z %.Q..F,v.....&
+
+MRGN->Client [13:55:09 07/28/09] packet size: 102
+65 02 03 00 60 00 7c 42 5b 8f 1c c8 f6 9f bf 21 62 a1 d1 f5 20 45 55 c8 05 0a d0 24 af d0 34 fb 
+22 4d 66 db 9f c8 d3 b1 9b 08 b1 aa 7d f1 c1 14 62 69 8d 8b fb 76 e9 8f a3 62 30 5e b3 b1 db b5 
+e9 54 8e 0f 90 07 fd ea b1 0f 6e 26 36 e2 df a8 24 c1 dc 8a 65 25 07 27 52 bd b5 f4 32 d7 f2 87 
+f9 bb 38 08 0c eb 
+e...`.|B[......!b... EU....$..4."Mf.........}...bi...v...b0^.....T........n&6...$...e%.'R...2...
+..8...
+
+Client->MRGN [13:55:09 07/28/09] packet size: 49
+30 a3 51 10 95 e6 57 c1 c1 d8 0a 0b bb 07 15 78 81 f5 5b a6 f5 de 20 d5 bc 02 b6 ca 91 e8 1f bc 
+eb c6 a8 d5 1d c5 64 8a 8c 66 05 ad 7b 14 41 c6 f6 
+0.Q...W........x..[... ...............d..f..{.A..
+
+MRGN->Client [13:55:09 07/28/09] packet size: 33
+20 23 96 1a 1b e1 60 19 15 7c 2b bb 5f 36 4d 6a 6c 16 52 00 dd c6 d0 46 6f ee d1 f0 36 aa cc b5 
+65 
+ #....`..|+._6Mjl.R....Fo...6...e
+
+Client->MRGN [13:55:09 07/28/09] packet size: 65
+40 ec ae 2d 87 95 80 87 37 a4 21 36 be 0c 33 57 c5 58 82 c9 cd 93 83 b4 2f fd 4c ee 92 ba 79 b7 
+78 4b 34 47 04 e5 e0 36 4a 24 7b cd e9 a4 1f 2f 73 bd 1a 31 7a 11 c0 72 a3 50 16 d6 ad 1d c2 4e 
+76 
+@..-....7.!6..3W.X....../.L...y.xK4G...6J${..../s..1z..r.P.....Nv
+
+MRGN->Client [13:55:09 07/28/09] packet size: 49
+30 b2 84 19 a3 aa f0 f0 43 cd 0a 74 05 45 3e d8 e7 ec 0e 87 d9 ca ca 99 f8 81 ed fd c0 1f 37 70 
+a5 be ab 13 19 0e 77 de 0b 34 94 50 15 f7 06 52 e5 
+0.......C..t.E>...............7p......w..4.P...R.
+
+Client->MRGN [13:55:09 07/28/09] packet size: 49
+30 05 b9 d2 22 2c 1e 3b 64 f1 24 67 a1 ca ee fc 61 a3 6f 0a 72 b2 c9 73 cd 64 1a b9 23 96 a8 47 
+4d 04 ef 8a d0 f1 38 42 60 93 69 20 b9 cc 24 61 45 
+0...",.;d.$g....a.o.r..s.d..#..GM.....8B`.i ..$aE
+
+MRGN->Client [13:55:09 07/28/09] packet size: 65
+40 0e 33 71 ce b7 41 58 77 ff b8 bb 84 67 d2 77 6f 40 75 a6 13 6f cd 0c fd 41 0f 7a c9 51 99 e2 
+09 f5 33 66 54 7f 4d 41 da 1e 7b ce fc 9e 65 a2 d3 78 ca 6b 8c 9f c0 80 0a 3e 0e a0 08 f6 fb ca 
+a8 
+@.3q..AXw....g.wo@u..o...A.z.Q....3fT.MA..{...e..x.k.....>.......
+
+Client->MRGN [13:55:09 07/28/09] packet size: 242
+80 f0 40 3e c2 42 08 5c 85 71 a2 0a da 6f ab 22 c5 f6 b4 b5 f6 8b 16 8a 24 84 0e 1e fc bd c5 c6 
+e8 bb cc 49 68 4a 60 8f 27 fa 2c 9b 2a 53 86 24 cb 54 bc 71 0a 64 b4 73 0f ee eb ef 82 b0 db 6a 
+23 ba 1e 9d ff 69 da 3d d1 77 fa 35 2a 11 a1 ef 40 a3 dc b5 e9 fa d5 72 08 af d9 a7 b9 b0 8a fd 
+e4 c2 41 2a 76 01 e9 69 09 9b f3 3b bf 8f c8 63 2d d0 4c fc 37 cf 33 9c 23 35 6d 47 7c 18 05 b5 
+49 93 40 e3 e0 82 b7 3b c0 7f 04 cf 3b 11 ce c8 a0 70 9a ed 4c 77 30 51 99 94 5c 5e 68 2d fd ad 
+04 f2 f8 fb 35 e5 57 bc 6b ea 9c 21 a7 25 29 50 4e 04 d5 1b 01 e1 2f 7f 3b 28 9f 75 4d 30 a8 ff 
+e1 52 4e 69 58 46 7b 8b d1 f0 ac 5a 98 75 7a 0c ca c2 d4 f3 03 63 1f 29 46 fc 77 83 bc 22 59 0b 
+b0 6b 49 90 3e cd 9a 48 97 6e 88 df 60 aa 14 bb 42 9d 
+..@>.B.\.q...o."........$..........IhJ`.'.,.*S.$.T.q.d.s.......j#....i.=.w.5*...@......r........
+..A*v..i...;...c-.L.7.3.#5mG|...I.@....;....;....p..Lw0Q..\^h-......5.W.k..!.%)PN...../.;(.uM0..
+.RNiXF{....Z.uz......c.)F.w.."Y..kI.>..H.n..`...B.
+
+MRGN->Client [13:55:10 07/28/09] packet size: 6
+aa aa a4 df 51 28 
+....Q(
+
+MRGN->Client [13:55:10 07/28/09] packet size: 49
+30 37 52 6d 9b a9 d5 17 aa f8 32 7d d0 2f 90 3e 49 ca 74 cd ef 4a 1a 88 34 cd 6e 82 04 ee bc 83 
+81 19 2f 78 6d f3 20 46 7c c5 3f 73 82 5f 1d 34 11 
+07Rm......2}./.>I.t..J..4.n......./xm. F|.?s._.4.
+
+MRGN->Client [13:55:10 07/28/09] packet size: 1250
+84 e0 0f 14 2b f6 ba 6e df bd a6 ce 2b f0 82 96 f8 e3 59 a9 1f 37 35 35 22 c1 f6 3b 3e 2a 06 34 
+2c 0a 69 d7 d9 fe 5f 7e b3 97 98 b9 c2 d8 88 9a 3a 8c e5 26 e0 f8 2c df ec e0 dd 51 fa 4c 42 6d 
+0e 2c ae 0e 73 a5 85 12 8e c0 26 75 d7 8a b3 13 ad 65 89 e6 5c 44 3e 51 46 ef c9 79 5d aa 13 28 
+ec 11 b6 b6 42 cb 03 8e 7c be 77 4d 42 31 95 93 62 4e 0b de 55 1a de 97 5b 55 89 63 71 5c d9 2d 
+02 2e f2 60 e6 63 a6 5c 60 b7 59 d6 04 6b 4c 74 2f c5 f1 b7 25 ae 3a 87 cb 70 4b f3 d3 3d 09 4d 
+5b f2 7b 97 20 c7 e6 57 98 d7 8d 32 8d 76 4e 01 0f 48 09 b0 3e f3 39 56 d0 e6 a9 8a cd c8 24 3a 
+37 f5 46 d8 65 2e fe 75 9a 04 3c 33 07 e1 4c 78 ee 4d 9b a7 df ae 9a 7e 89 0d 57 ed 4e b3 73 6d 
+0d 2d 76 d3 b1 d4 07 08 dd b2 39 94 0a 4c 27 da e0 1f 90 9c 1e bf 6b c4 99 df 1c f1 3b a4 a8 43 
+99 57 7e 4e 95 46 4a 25 1d 19 ac 19 3e db 89 01 c1 95 73 54 0a f6 5e 15 d1 a4 a5 0c 9d d4 67 b1 
+2e 4a 75 36 75 75 81 80 b5 44 00 49 f2 90 48 46 e0 81 eb 9e 04 bc 8e da 6c 0c bf 1b ab ad a9 71 
+ce 7a 6f 20 b5 0f cd 91 d1 3b 51 c2 4f df 76 bb 02 80 a2 a6 93 7b aa 47 e6 b0 6a b1 40 b7 a6 9b 
+17 84 b7 c5 de 85 7e bb 1f 44 6d 2b 7c bb 39 e1 60 74 5d c1 5a 02 90 3c b6 45 59 da 89 72 69 3f 
+42 bc 3a a7 53 71 46 4a 9e 65 bf 14 ab 73 e8 83 e9 03 31 dc ad 25 10 db 3a 50 4b 75 f4 9a a5 26 
+ee 19 00 ad b1 73 79 2e 1f c2 2e 3a bc a1 9d b2 73 3a 8c 9f 28 30 ab cb 20 aa 64 00 e7 e1 0b d7 
+f7 14 b3 db ba 21 0d 35 81 b2 90 ed 08 73 02 e8 a5 05 08 4f 5e 1b 38 e5 1f fc 41 eb 7e 01 ab 12 
+df 8f b2 9c 39 a7 bb 4c 3c f8 12 7f bc 63 10 bb ef 54 07 1f 09 0d 2a 80 bd 46 99 e9 35 e4 02 b9 
+47 9c e2 01 15 12 f2 32 a4 06 b2 ad 9d da 02 d8 8a 53 da 3e ea db e2 28 7c cd ca 5a a5 50 ea a3 
+ab c7 3b a1 42 41 35 e9 ae 7a c8 5b 04 26 48 34 45 33 86 47 33 a3 fe c1 83 31 17 21 89 2f 10 0b 
+a4 e4 b2 ca 97 20 ee 23 20 bf a3 ae 63 5c 94 3d 2f c9 ed 1f d1 14 e0 13 78 a9 61 d4 cb 19 d6 40 
+5d b7 47 a8 e0 b1 68 50 97 80 9d bc 2e fa 01 bd d0 36 21 ed c7 1c 5d 3f 63 88 c5 54 14 cd 0f 5f 
+86 e0 9f e1 65 13 38 40 80 f7 6d 48 4e be b9 d3 25 37 e1 26 63 68 11 82 90 fd f3 0e f1 57 bc 35 
+f0 21 89 55 b6 3f 88 30 ad 94 74 4a f6 1b b6 8a 21 b9 de 2e ac 89 8a 4e 61 b4 8b ad de ad 28 27 
+d1 5a a1 3e de b8 2c 85 8b 4e f4 4a b0 cc 3e df d3 d7 4a c1 2f f0 98 f3 f7 2c 34 27 41 57 00 e8 
+de 4b 0c 5a 51 50 85 31 85 c4 df 17 cb d4 40 a9 85 af 53 3a 97 fb cd e0 fa 99 59 85 91 8e 82 73 
+38 30 29 72 97 27 1c 76 e1 17 c9 3d 39 4a c8 19 d6 57 01 3c 2a 5c 8e 41 8b 04 40 d5 1f a5 c7 39 
+81 2f f9 17 1c d8 a7 83 8c a3 e6 3d c8 cc ff 99 ea a8 6d 14 02 e4 b8 87 9c fb 81 16 c8 41 98 c3 
+f8 e1 22 6e 7f 5e f7 cb df 6d 0d 9d bb ea 07 87 c7 fb 82 04 4d 5e fd 25 07 91 ed d5 5a d8 99 a1 
+b0 56 85 5a 08 d4 67 37 55 6f dc 5c b4 08 22 90 d6 17 66 38 82 43 49 a3 1e 59 cb 04 c3 45 5d 97 
+5c 67 42 39 58 e2 68 33 80 54 e4 65 54 af 74 8a 67 ce 12 87 ce c8 11 33 3c 1d 45 23 7c 7e 49 95 
+c9 00 5b 68 6a 15 2e 88 e4 d1 99 4b f6 d9 3d ca ad 65 12 42 b6 ca 0d 8f 3a cc 8e 36 09 c8 9f c8 
+7a 13 20 81 03 d7 7a 9c c2 1a ef 47 d9 a5 ca 4c d0 26 94 23 a3 6a c5 9f 50 cc a1 2e 5e d0 39 4b 
+b8 69 8c c2 58 af 05 96 d2 c2 3f ff 58 07 08 c9 41 e1 02 35 db 48 d5 45 d1 81 a6 cb b6 ee 0a c6 
+ae 95 da 4f 14 d0 87 53 79 ae f2 09 da 5a bc ea 3d bb ca 56 9b 32 fc af 45 36 85 79 06 c5 af f4 
+4f 05 e6 f6 73 12 38 56 7d 94 3e a4 91 78 00 05 4e 0e a5 96 78 aa 8a 48 1a c3 08 de ef 5b 81 f5 
+45 a6 f6 16 35 e6 3d c9 f7 07 63 64 59 85 e3 06 fb 89 59 a1 1d b7 11 c4 f4 8d 7c ae b8 4e 05 79 
+79 e7 d4 af 19 d3 42 ff cd b4 1a 20 b9 9b de d4 5d 2d 37 c0 5b f0 8b d5 12 6e 14 f1 09 f3 06 c7 
+87 64 52 8a 7d 44 0c 70 26 52 4f 17 29 87 89 b0 07 e1 63 7a 10 2a 82 88 1f 51 9b c5 7e 8b 37 60 
+6d 10 b3 65 d2 94 54 e3 6e d8 1e 84 3c 25 51 ec 21 52 23 e8 9c 36 7c 3a 07 33 f4 67 f1 d8 99 ac 
+f3 9c de e5 90 fb 88 9a bd 1b 3a 38 b2 76 0b d6 3d 20 a8 43 4d 5a b0 ed b2 4c ce 50 0d a9 9c 1d 
+3e 11 
+....+..n....+.....Y..755"..;>*.4,.i..._~........:..&..,....Q.LBm.,..s.....&u.....e..\D>QF..y]..(
+....B...|.wMB1..bN..U...[U.cq\.-...`.c.\`.Y..kLt/...%.:..pK..=.M[.{. ..W...2.vN..H..>.9V......$:
+7.F.e..u..<3..Lx.M.....~..W.N.sm.-v.......9..L'.......k.....;..C.W~N.FJ%....>.....sT..^.......g.
+.Ju6uu...D.I..HF........l......q.zo .....;Q.O.v......{.G..j.@.........~..Dm+|.9.`t].Z..<.EY..ri?
+B.:.SqFJ.e...s....1..%..:PKu...&.....sy....:....s:..(0.. .d..........!.5.....s.....O^.8...A.~...
+....9..L<....c...T....*..F..5...G......2.........S.>...(|..Z.P....;.BA5..z.[.&H4E3.G3....1.!./..
+..... .# ...c\.=/.......x.a....@].G...hP.........6!...]?c..T..._....e.8@..mHN...%7.&ch.......W.5
+.!.U.?.0..tJ....!......Na.....('.Z.>..,..N.J..>...J./....,4'AW...K.ZQP.1......@...S:......Y....s
+80)r.'.v...=9J...W.<*\.A..@....9./.........=......m..........A...."n.^...m..........M^.%....Z...
+.V.Z..g7Uo.\.."...f8.CI..Y...E].\gB9X.h3.T.eT.t.g......3<.E#|~I...[hj......K..=..e.B....:..6....
+z. ...z....G...L.&.#.j..P...^.9K.i..X.....?.X...A..5.H.E...........O...Sy....Z..=..V.2..E6.y....
+O...s.8V}.>..x..N...x..H.....[..E...5.=...cdY.....Y.......|..N.yy.....B.... ....]-7.[....n......
+.dR.}D.p&RO.).....cz.*...Q..~.7`m..e..T.n...<%Q.!R#..6|:.3.g..............:8.v..= .CMZ...L.P....
+>.
+
+MRGN->Client [13:55:10 07/28/09] packet size: 594
+82 50 39 19 47 fc e7 51 1d b5 ac 43 79 00 53 18 be 24 82 86 cb 59 d6 84 70 31 81 1f 7a 7f 25 7b 
+ef ff 70 1a 2a 9c fb cd 0a a6 f1 b4 74 30 22 47 15 fc 59 30 dc 99 01 6d 0a 41 23 d0 fe c3 bf 86 
+bf 75 a7 39 07 8c f9 8a 51 4b 8d c3 a0 f3 e0 25 66 68 5e e5 9c 2a 99 f8 f4 41 42 11 0c 30 0a 87 
+3f 87 a5 9f 39 91 35 a6 ad b7 c2 e4 67 40 cb 07 0a df bd 08 85 88 0a 10 06 ee df 81 65 34 12 7c 
+59 ca d5 c1 cd 18 63 5f b3 46 c8 0d 49 99 f6 0d 0d 64 2b 63 f8 f8 53 77 6a 6e 7f e4 d4 ac 65 ce 
+34 80 1c 6d 29 9d 53 91 64 08 c6 91 b9 06 ba ea 9c ef dd 30 a2 00 db 49 98 9c 90 42 ea a4 3f ed 
+3d 10 28 29 f2 de 5d a8 e7 6d 80 a9 d3 cd 98 b7 dd ad 1d 94 a3 e6 14 b9 77 09 d7 85 fd 7a 10 26 
+e1 a7 34 86 7f 18 73 e1 cb 60 37 0f e7 0b d0 63 cd b8 9a 43 40 8d 85 18 c2 40 49 80 36 6a 3b 6d 
+a1 4e 20 f1 84 ec 5f 5c 53 c7 41 3e cd cd 6e de f9 ce f0 54 39 51 45 96 ad 0e bd 43 db 22 78 85 
+a8 61 b3 8c 16 54 8e 03 5d 93 dc df 66 51 b8 aa 36 53 3f a7 78 6a 5d bd 6d 56 62 58 f8 e6 e6 b0 
+03 d3 cb 6d a2 43 04 03 eb 17 51 30 a3 f2 14 8f 5c bf 02 0f aa c4 41 1d 73 0b 9f bf ec 77 8b 44 
+bc 64 f4 dc e1 64 e4 cc c5 e2 fe a2 75 90 2b 55 64 d0 70 30 3f 1d b8 6c 5f ad 84 41 75 f4 32 52 
+89 5f 26 bb cd 43 a0 b3 7e 76 e9 f7 0a 83 6d 88 41 6b 3f d7 3c 43 e2 6f 98 29 91 8e 0c 09 f3 06 
+70 b3 96 36 5a 31 ce 0b c9 c7 73 ef 1e 58 34 b7 5b 08 7e 14 20 2b 45 d0 ee b8 10 d5 37 2f a6 fa 
+89 95 97 8b e3 18 2b 4d 60 06 a1 bd b6 39 00 c2 66 85 63 9b 6d 9c 05 a1 e5 f5 10 46 5e e4 2a 5f 
+01 0e 9e 1b 32 fc d9 ec 92 1e 16 09 e9 7b e4 03 97 e7 88 da 05 53 6a 2b b4 8c 98 f2 16 37 75 95 
+ae 37 5e 03 04 c8 81 db 4e 32 bf e7 2a 0e 31 1b ae 26 52 eb 2e 01 e9 dd bd 11 5a eb b1 c4 33 75 
+87 5a 42 a4 67 51 c7 2a 56 fa 50 14 3c 51 89 9f 82 0f dd 70 57 fe e8 9f 8a b7 cc eb d2 27 01 7b 
+18 bd ad c1 f2 88 50 48 a6 fa 0a 49 1a 4f 1b 72 f1 de 
+.P9.G..Q...Cy.S..$...Y..p1..z.%{..p.*.......t0"G..Y0...m.A#......u.9....QK.....%fh^..*...AB..0..
+?...9.5.....g@..............e4.|Y.....c_.F..I....d+c..Swjn....e.4..m).S.d..........0...I...B..?.
+=.()..]..m..............w....z.&..4...s..`7....c...C@....@I.6j;m.N ..._\S.A>..n....T9QE....C."x.
+.a...T..]...fQ..6S?.xj].mVbX.......m.C....Q0....\.....A.s....w.D.d...d......u.+Ud.p0?..l_..Au.2R
+._&..C..~v....m.Ak?.<C.o.)......p..6Z1....s..X4.[.~. +E.....7/........+M`....9..f.c.m......F^.*_
+....2........{.......Sj+.....7u..7^.....N2..*.1..&R.......Z...3u.ZB.gQ.*V.P.<Q.....pW........'.{
+......PH...I.O.r..
+
+MRGN->Client [13:55:10 07/28/09] packet size: 49
+30 20 44 d0 ad ad 8c f2 4d db f6 a4 06 5e bf cb b8 06 9a 13 7a 96 64 1c 9a 2a e9 45 a6 bb c4 fa 
+35 80 31 4e a7 77 35 7d 99 ab d4 bf b8 55 af 49 d0 
+0 D.....M....^......z.d..*.E....5.1N.w5}.....U.I.
+
+MRGN->Client [13:55:10 07/28/09] packet size: 802
+83 20 4d e2 7d 91 d7 df c5 65 4f bd e9 85 a2 0b b9 dc fa 36 1f 63 82 35 85 8a 19 90 ef 63 c1 55 
+da c8 6c e6 aa 30 6b bc 9d 37 bb 47 33 5e d7 a5 82 c2 ad 48 4a 0a 44 6c 34 85 e7 33 9e 07 e4 72 
+62 bc c6 1d 0d 6b 43 f5 42 13 c6 41 94 c8 62 ca ac 43 2b 9d dd fd 7d 5d 4d 04 40 88 5c 6d 64 29 
+f3 5f f7 1d 00 c6 e0 cc 27 5c bb b9 e0 e7 d1 d3 c2 9a c3 eb 3c b5 3c 46 0f de 07 45 2f 89 25 58 
+70 89 97 a0 3d bc 3e a4 ef e6 16 21 7c 0d 49 9a 7e 09 d7 a3 29 46 3c ae 0c 45 8d 3a cf 67 58 66 
+54 9a db 62 ac 38 44 8d 5a 7b 50 8e 3a 27 ce 2d a9 1b 5c 73 67 02 9b f9 8c 43 d4 92 b2 11 54 26 
+1a cb ba 76 37 24 54 fb db 25 0b 48 77 73 26 c8 52 25 f9 b4 df 4a 9d f9 57 a0 51 e3 39 65 36 ff 
+bb 28 6f 66 69 7b 30 96 4f 2b 8d e5 93 4b 23 95 97 80 11 03 ff a5 cc a2 f6 cb 95 5e 4e 0d fb 72 
+d2 1f 86 7e 5d 1b 2b 53 bf 7c ea e0 e8 a5 91 61 db 34 c5 a7 53 07 05 19 44 48 b6 ed f6 64 df bf 
+66 ec 2b 3b 7d 33 7c f2 74 99 d0 8c c1 9a 8d ed 2e 09 fd 21 96 dd 90 31 76 73 50 28 16 be 1a 42 
+53 83 40 a5 62 71 e8 b2 a4 23 42 49 77 10 01 67 33 a5 3e 91 97 a6 aa b6 e4 8e ed e4 3d a4 b2 8c 
+23 b5 9e c7 c8 e1 b0 ba 57 ff 79 69 fa c0 c8 71 e5 79 1b ad 8a 35 de 2b 60 c0 9a 5e 0d 21 05 c8 
+6b ff e6 75 5d b3 ac c3 e1 91 da a6 86 5f 17 75 24 e9 fd 7a 36 0d 0d 77 3d b2 98 eb 15 80 d5 09 
+84 76 f9 40 95 ef 98 1a 4a e5 9a 9e e8 6e e3 9c b6 ae 99 a0 21 9d 57 19 36 79 fd 02 85 62 b1 73 
+89 dd 31 a8 5c f5 ed 16 82 38 fa bd 93 8c 65 53 56 a6 a7 f9 72 a2 14 75 fc a9 56 1b 41 0c 0e d3 
+f4 b4 31 05 99 24 d7 ff 55 37 32 15 bf f0 b6 eb fb b2 ad 38 82 39 4e 41 91 5d d5 68 76 c8 16 e6 
+a1 71 54 ed 81 da 42 45 09 33 ef 1a 9e af 9f 42 23 aa 6e c2 7e 20 d7 31 c3 e3 fe 13 9c a1 7c 0b 
+d1 4f bb c5 e1 54 48 69 55 49 4e 9a 67 2e ea 25 82 9a 82 e1 de e5 97 7d b4 c7 19 1e 46 2d 97 2f 
+55 eb 53 43 aa 9c 34 f1 c7 69 6b 3c 82 ee ba 0c 92 b7 4c 17 e2 0e 72 7f ea 05 65 dd 52 10 88 c6 
+dd 41 eb b9 be e1 c8 0b a4 ff ba c4 9a c1 53 03 43 9d f6 b5 6e db 26 4f c0 9c 62 31 13 aa b6 12 
+cc 73 4e 00 83 fc 59 e8 6c 74 e7 aa 48 07 1b d1 ed 7e 3c c8 e8 a6 a2 bf 53 91 ea 58 24 b8 de ab 
+d8 4e 02 79 c0 8e b6 86 68 2c 00 9e 01 27 1f b0 df ec a0 0a a0 37 79 89 9b e6 05 52 86 86 a0 fb 
+55 ed a8 ca 47 3f 30 a9 20 d5 ed e0 82 11 f6 69 e7 31 b7 6b c0 f6 1b d8 f0 8b b5 a4 ff 13 3e 53 
+6c 7a 48 34 c5 9c 3d 6f 89 98 c8 78 97 22 0d 14 8b 0f 44 5a 7c 28 23 f5 87 05 af cb 13 43 ca a9 
+c3 e8 1a af f8 f1 df 67 95 dd e4 d6 7d c8 fb 76 22 98 06 92 55 4c c8 c8 ee c6 fd b7 54 d7 41 b8 
+2a 79 
+. M.}....eO........6.c.5.....c.U..l..0k..7.G3^.....HJ.Dl4..3...rb....kC.B..A..b..C+...}]M.@.\md)
+._......'\..........<.<F...E/.%Xp...=.>....!|.I.~...)F<..E.:.gXfT..b.8D.Z{P.:'.-..\sg....C....T&
+...v7$T..%.Hws&.R%...J..W.Q.9e6..(ofi{0.O+...K#............^N..r...~].+S.|.....a.4..S...DH...d..
+f.+;}3|.t..........!...1vsP(...BS.@.bq...#BIw..g3.>.........=...#.......W.yi...q.y...5.+`..^.!..
+k..u]........_.u$..z6..w=........v.@....J....n......!.W.6y...b.s..1.\....8....eSV...r..u..V.A...
+..1..$..U72........8.9NA.].hv....qT...BE.3.....B#.n.~ .1......|..O...THiUIN.g..%.......}....F-./
+U.SC..4..ik<......L...r...e.R....A............S.C...n.&O..b1.....sN...Y.lt..H....~<.....S..X$...
+.N.y....h,...'.......7y....R....U...G?0. ......i.1.k..........>SlzH4..=o...x."....DZ|(#......C..
+.......g....}..v"...UL......T.A.*y
+
+MRGN->Client [13:55:10 07/28/09] packet size: 113
+70 3e bf a3 c1 a4 be ea 83 fa d7 35 4b 02 71 91 4e e2 58 40 c3 06 62 e7 6e d6 5e ad a6 f5 5b 20 
+a6 2d e8 2a 1d c7 00 f6 3e b1 aa 64 87 99 dd aa 8e 83 b6 57 cf dc d3 ea 44 03 be ec c8 fb 9f 0b 
+0c cc ab e6 88 fb 65 96 0a ba a7 66 de 88 c0 08 48 d6 5d 2d 4f e7 5a c2 54 25 9d 4f 5c 93 3b cf 
+25 03 bd 4b 1b ec 45 0c 95 12 26 cc 46 f1 2a c8 55 
+p>.........5K.q.N.X@..b.n.^...[ .-.*....>..d.......W....D.............e....f....H.]-O.Z.T%.O\.;.
+%..K..E...&.F.*.U
+
+MRGN->Client [13:55:10 07/28/09] packet size: 1452
+86 c0 96 6a 3a 73 d1 41 a5 39 e8 9a 82 06 c4 a1 0f 42 3f b4 a6 69 e2 9b ff 8a 01 2f 0b f5 00 f5 
+18 ba 76 e1 b7 e9 ba 7c ae d1 17 08 d7 fd a9 92 6b 72 e4 12 a8 ea 32 53 05 e8 52 10 73 bc 27 51 
+8b 87 24 3f db a9 2a b4 86 bf 82 e1 42 db bd 1c 27 fa 42 34 f7 22 10 1b 8f de 43 d4 78 d9 c2 2a 
+78 19 39 19 a6 8b 49 6f e7 70 43 5b 16 5d 8c 06 32 d9 86 94 54 87 63 23 af 83 60 61 2f f7 ae e6 
+0a fd 0b 84 d2 ef 11 df 78 0b c7 10 83 f9 ae 17 16 ff 0b 95 76 78 3b d0 cf 4d ce 6f 6c 84 4d 20 
+7d 4f bb c7 f6 f6 59 1d 35 5f 38 46 c4 0f a2 5f e8 9a 59 54 7a e1 68 c3 0f 39 5a e6 43 c1 92 dc 
+2a 95 7d e9 54 4b 3d 44 02 29 85 5a 66 ae 04 b7 e6 9d 89 9e d3 76 dc f8 31 bb 05 7e 35 0c b7 41 
+eb b2 00 50 1d 85 48 cb 65 b6 f6 12 85 c8 1e f3 c1 40 08 b9 c9 68 7a 5f 49 1f e8 da 51 28 17 6e 
+4e 61 88 0d d4 60 33 2d 27 c0 fc 9e d6 ed 88 41 71 83 00 18 a8 d1 c7 3c fd ad 62 9e dd 1d c2 54 
+5a 85 ec ba 8c 31 a4 c4 8d 8a 50 a6 2e f3 d5 d2 03 fe 9d 20 1c 34 b5 af 0a 52 9e 51 7d 9a 43 40 
+fb 7a 84 8d 4a 41 0f a0 d6 7d 24 24 a3 56 37 e1 10 ed 6f 0b 4e 96 ba 8a 8e 09 6f 2f a6 92 56 14 
+cc 79 9b ce 64 6d 9b 4e 9d 4e cd c4 4b dd a8 fe d3 8a 25 c4 b8 0a 04 b2 79 28 8b 4e bc b1 79 ba 
+2d 3a 25 cc 41 57 60 19 4c 2a f8 5d 62 b8 35 f1 f0 2a a3 e6 ff 41 61 1a 9c fa a1 cb 6c b3 a3 18 
+59 d0 05 03 02 9a 48 80 7e 6f 1f 4d 15 64 e9 2b 6c 2c 1f b1 07 a3 6b a4 11 b6 f6 45 f8 85 e8 88 
+c2 2c b6 d2 ed d0 eb 86 39 d1 6d 1c 7b 72 26 b3 fe dc 38 a4 b1 85 70 8c 38 de 1c 0d ef 36 ac 30 
+bb 5b 8c 70 44 a8 b5 a2 d5 dc 99 eb 34 71 35 07 40 a0 e8 c1 96 13 e0 70 8f 50 2f f1 15 ca 92 f8 
+dc b7 a5 d4 01 fa a8 f2 e3 a1 1c 38 9c 06 cf a0 cc 7f a3 b3 fe 96 bd 9d 7e d3 1b 08 7a 79 06 eb 
+2d 72 ae 45 eb c7 a1 fe 8c 9f a8 f6 0d e1 c6 55 4b fa 89 5b d3 8c d0 04 81 f8 fe 88 c0 dc 96 64 
+fe 5a b5 60 20 b6 2e 59 20 de 43 41 fe 71 5a d8 6a 5b 47 02 40 c9 6d 6a ed 04 d3 b0 6c 13 71 90 
+4a bd dd dd 2a 88 2e 5d c9 03 6d 97 23 da 81 76 1f 73 a2 1c 27 3c 5b 58 67 78 5f 6d 49 77 8d 5d 
+88 ea 26 39 f9 96 35 67 42 df 9d 9c b9 76 a4 af 27 7c a4 19 7e 08 32 7a f8 bc bb 45 00 1e 88 e7 
+7d 2e 34 c8 ae d9 64 7a 4e c4 8a 3f 73 1a 6c 26 89 71 4e 2c ec 30 6d 9f 2d 34 e7 bd 75 43 33 a1 
+7b ce 4a e7 fc ec 6b 74 4e 3b f3 2e 09 24 a5 3c b3 25 01 af e1 6c a3 3e 08 e9 06 73 1c dc cc 01 
+31 93 97 12 cc f8 df 02 d6 9a d6 b2 be 4a d8 8e 15 16 b6 62 e9 4c 14 3d a8 0a 7d 92 2b ce 05 f0 
+43 03 3a f7 fe 8d 5b 43 2a 15 d7 85 1c ef bd 49 62 1b d6 da bc 43 4f 37 43 92 f6 26 50 39 5e aa 
+9f 66 15 63 ca f2 cc e0 59 a8 0a 81 48 5c b6 48 9f c4 d4 f3 6c c0 99 d0 a4 41 43 d6 a7 e3 bc 52 
+3d bd b2 d5 0d d9 3f 33 6d e2 43 d5 6c 6c 30 28 1d 87 ef 9e 2e 53 11 62 72 d5 d3 ca 24 d1 d7 c5 
+ec e1 9e da d4 a1 26 5e 6d e4 b9 93 10 07 79 13 9c d8 2c c4 14 3d 22 f2 e0 c0 ce f2 18 43 95 3f 
+b3 4f 74 15 1d 1e 9f 1d d3 23 c6 a1 de fc e6 53 13 05 75 9b 65 75 f4 95 b5 2b 35 e1 4b ae f0 94 
+b0 61 e1 b5 35 50 9e 3e e3 a8 1a 0b 3e c1 57 3b 87 6f f2 dc 91 1b 22 48 65 83 46 13 16 32 b6 17 
+7a 69 a1 07 9f c5 e1 ec f7 9e 68 f9 71 23 fa 02 2e 76 51 3b ff 15 c2 5c ee 33 08 7d 1c 60 fe 0c 
+11 ff f7 77 50 bf 29 89 94 fc 48 7b 47 7e 05 73 3b fd 8e 11 6d 02 53 f4 6c 24 10 cc 27 ba 0d a9 
+2a 92 71 4a ad 10 3e b1 a8 4d 86 64 b9 c0 18 49 5b ce e6 54 46 c8 58 82 dd f6 44 dd 56 8c f5 c9 
+da dd 42 d8 bc 32 ea 42 15 f4 12 a3 aa 60 f5 4d ca 5a 50 4c 3a fb 6b 53 b8 e3 03 f3 cd de ea 03 
+6e 43 6a f9 ec 47 ac cc 2d 8d 89 c1 33 85 13 38 b6 3b cd 0d c0 58 d7 a6 eb 62 29 cb d5 de 05 e0 
+e2 74 ec 3a 41 7b 4d 29 85 a5 95 cf df fc 6a 86 6b 1e 7f 99 36 cf e6 42 58 c7 e1 27 28 1e 37 8b 
+55 85 8a 70 a4 26 64 fa 3e 83 f4 0d 90 54 6d 59 77 bb 21 df 0d ad 59 fd 94 15 cc a6 ba 3e 64 3c 
+45 c8 55 06 23 44 cd bb 7c e4 be 71 ac fa b1 84 23 de ef 45 b4 16 77 b5 16 8c 14 98 79 32 52 47 
+de 8d ff e1 6b 65 d0 11 c2 f9 9e 87 6b 5a 4c 5e 95 83 d5 d5 16 e7 32 08 58 bd da 2b 1d dc 67 41 
+71 95 24 7e cd c9 fa c2 8b 1c c8 5e b3 41 53 22 7f 77 18 0b 62 45 d6 6a ec ff 6d 90 92 c1 11 14 
+bc e7 ab 4d fc 7d 07 07 1b fd 6f d9 fd 35 78 73 dd f6 bf e1 c4 ed a5 76 2e f3 99 c9 18 6b 3b 34 
+3a 54 e7 15 fe d5 8d 7c 09 e3 05 d1 af 94 dc 62 2f 80 08 74 4b 98 c1 24 0e f7 62 47 b9 51 9e 99 
+36 a8 5a 34 f2 b6 d3 56 e9 a6 33 85 b0 9b 34 a6 31 1c f0 36 24 a6 9f 6d 4c 53 0b db 4a 0f e2 ab 
+04 b4 bf 6b d4 b3 a4 59 32 7b e9 47 50 a2 1d cd fd 09 a6 df 16 36 af b4 ce e0 9e 09 fc 37 42 ec 
+7f d3 1c 80 ef d5 09 0e 73 fb b0 35 1b 51 32 40 a7 db 81 2c 94 ac cf 7f ba 1c b3 c4 d2 f7 5d 45 
+5e b8 9e 1b 37 90 b5 06 f3 e8 f0 c6 
+...j:s.A.9.......B?..i...../......v....|........kr....2S..R.s.'Q..$?..*.....B...'.B4."....C.x..*
+x.9...Io.pC[.]..2...T.c#..`a/...........x...........vx;..M.ol.M }O....Y.5_8F..._..YTz.h..9Z.C...
+*.}.TK=D.).Zf........v..1..~5..A...P..H.e........@...hz_I...Q(.nNa...`3-'......Aq......<..b....T
+Z....1....P........ .4...R.Q}.C@.z..JA...}$$.V7...o.N.....o/..V..y..dm.N.N..K.....%.....y(.N..y.
+-:%.AW`.L*.]b.5..*...Aa.....l...Y.....H.~o.M.d.+l,....k....E.....,......9.m.{r&...8...p.8....6.0
+.[.pD.......4q5.@......p.P/................8............~...zy..-r.E...........UK..[...........d
+.Z.` ..Y .CA.qZ.j[G.@.mj....l.q.J...*..]..m.#..v.s..'<[Xgx_mIw.]..&9..5gB....v..'|..~.2z...E....
+}.4...dzN..?s.l&.qN,.0m.-4..uC3.{.J...ktN;...$.<.%...l.>...s....1............J.....b.L.=..}.+...
+C.:...[C*......Ib....CO7C..&P9^..f.c....Y...H\.H....l....AC....R=.....?3m.C.ll0(.....S.br...$...
+......&^m.....y...,..="......C.?.Ot......#.....S..u.eu...+5.K....a..5P.>....>.W;.o...."He.F..2..
+zi........h.q#...vQ;...\.3.}.`.....wP.)...H{G~.s;...m.S.l$..'...*.qJ..>..M.d...I[..TF.X...D.V...
+..B..2.B.....`.M.ZPL:.kS........nCj..G..-...3..8.;...X...b)......t.:A{M)......j.k...6..BX..'(.7.
+U..p.&d.>....TmYw.!...Y......>d<E.U.#D..|..q....#..E..w.....y2RG....ke......kZL^......2.X..+..gA
+q.$~.......^.AS".w..bE.j..m........M.}....o..5xs.......v.....k;4:T.....|.......b/..tK..$..bG.Q..
+6.Z4...V..3...4.1..6$..mLS..J......k...Y2{.GP........6.......7B.........s..5.Q2@...,..........]E
+^...7.......
+
+MRGN->Client [13:55:10 07/28/09] packet size: 278
+d4 b0 31 63 bb 23 b0 17 44 37 ec 39 44 cb 62 e6 d0 cb d5 e5 cf 45 ea 15 7a d2 23 9b 0b a7 77 cc 
+97 16 63 70 cc 6a 83 bc 7e 66 a8 e3 14 45 c1 3e 88 2f 0c 20 be 31 a9 50 7c 51 b2 e3 c1 84 a0 60 
+b9 cd f2 cb 93 b3 1c d3 81 5e 1d a6 48 3d 9d f9 ed 62 eb 20 d4 10 da 79 ab 86 97 bc 3b 96 5e 10 
+4c 31 51 2c 3a 6c d9 dc 00 7b 61 94 c7 43 9e f7 18 db 3d 31 3a 0e 4a d2 7f d7 9f ba bc 58 d4 bd 
+ac aa 86 ea 3e b5 32 a4 60 b8 63 37 f0 7a d5 a5 68 61 f3 83 b3 28 1a ce 16 d1 5a 31 1b 10 d8 2d 
+f9 e0 8c 80 e0 58 f4 db e5 92 91 bb 38 bb 74 cd 39 46 66 d7 c3 70 60 98 d3 8c 01 e1 29 1c c2 6e 
+e8 48 64 d6 ee 76 dd 3c bc be 55 ca 47 fa 76 75 e4 9b 4b db b8 69 57 82 63 1c fe 8f 3d 4b ec f0 
+24 5a 29 9d b0 56 f6 cc 68 df a9 a7 19 a9 38 8b 9f 06 6f 38 7e 9e f0 21 42 a3 84 af 26 0b 34 27 
+ca da 3d 9f 49 c5 80 ec 51 90 68 06 fc d1 74 ef 5f 72 f7 05 c1 6f 
+..1c.#..D7.9D.b......E..z.#...w...cp.j..~f...E.>./. .1.P|Q.....`.........^..H=...b. ...y....;.^.
+L1Q,:l...{a..C....=1:.J......X......>.2.`.c7.z..ha...(....Z1...-.....X......8.t.9Ff..p`.....)..n
+.Hd..v.<..U.G.vu..K..iW.c...=K..$Z)..V..h.....8...o8~..!B...&.4'..=.I...Q.h...t._r...o
+
+MRGN->Client [13:55:10 07/28/09] packet size: 242
+80 f0 de a8 ae 62 fc 82 db b6 a9 a2 e1 b4 bb 93 0d 7c 75 3a 79 bf 5a ac 11 3c 37 39 5f 67 6e 15 
+1f 4b 43 08 8c 2d 64 8a 9d 30 d2 72 84 d9 bb 2e ff e7 ce 71 3b e1 f9 c0 fd f1 32 e3 fe 3c 9f 54 
+17 0e cb 1a 08 bb fa 40 e2 f1 ce 1a 95 ae 0b 23 c5 2c 92 a2 49 9b 53 01 82 27 05 b0 0e 05 bb e6 
+97 89 57 b1 c0 03 40 8d cf 06 e8 c2 c9 2c ba ea 12 18 4f 4b 7d dc ea 00 77 1e 21 c5 33 3e e7 96 
+e9 92 0e 87 f7 e8 83 e5 93 2d 5b 26 cf 87 dc 94 51 e6 55 4e bf 1d df 54 cc cf 36 94 5b bb c0 f5 
+6a 78 bd cd 1a 46 45 58 b5 10 a5 0f 2b bc 74 ad 3d c3 01 da 0a 13 55 35 4b ae 23 aa a0 20 5d 11 
+5f 42 5c 64 f2 13 c9 86 0e ae 00 2a 17 6d 05 15 de a0 e3 e9 e8 6c 40 cd 12 df 47 e9 2c 42 34 51 
+86 94 26 36 08 67 26 47 51 5f bc 97 52 b2 69 6b 55 d9 
+.....b...........|u:y.Z..<79_gn..KC..-d..0.r.......q;.....2..<.T.......@.......#.,..I.S..'......
+..W...@......,....OK}...w.!.3>...........-[&....Q.UN...T..6.[...jx...FEX....+.t.=.....U5K.#.. ].
+_B\d.......*.m.......l@...G.,B4Q..&6.g&GQ_..R.ikU.
+
+MRGN->Client [13:55:10 07/28/09] packet size: 962
+83 c0 1c b8 57 28 ed a2 13 ac ed 2f eb 2e eb 71 82 63 04 d0 18 54 a2 88 61 a0 58 d6 57 0b 2c 83 
+d4 71 6d 86 f4 21 5f dd b2 40 7e 81 4d e2 69 07 8b 93 9b ac f1 19 2e af fa 94 4b d5 14 6f 6f 1b 
+17 41 6b 7f f0 38 73 7d 2a 04 4b 32 4a 15 34 b6 ad 8a fe 71 1e a1 3a 30 53 71 c5 86 ed 54 f9 85 
+16 a2 a3 e5 52 7f a3 ef e3 62 9c e4 81 d0 36 cc ac 49 45 44 eb 95 52 d6 0d cb 99 84 1c 28 75 39 
+40 8c 57 9b 6a cd 48 59 e2 98 56 e5 2c f1 3a e2 d1 81 ac 31 7b 66 50 e9 20 8d e0 fe a7 d3 c1 11 
+7a 9b 17 d4 a8 4d d5 13 94 6c c6 4e 4d 24 7a 69 ed 43 df 5f 2f b1 aa 0e 12 21 cf 22 f6 c2 9a 15 
+ee ea 31 18 0f 6a 82 d8 ee 40 8d dc df 7e 28 6b b4 6a c2 22 75 d0 d8 4d 49 a1 4e 14 c5 a9 e2 4a 
+f5 d7 f6 11 f9 1b 79 af 5e 88 e2 a5 8b a8 32 47 03 3d c6 7d 17 18 79 b5 e8 02 2b ef c7 fd cf 84 
+0d 66 57 71 7e a4 3e 3a 3a 13 70 96 33 7b cb 60 ee 19 de 23 90 43 2b c1 ea 64 29 12 9e d3 3c 5d 
+0d 6f 38 48 27 14 fe 91 78 96 ba c4 3a 17 f3 5e db 38 8e 8e 45 c8 08 4a 76 7e 50 7a c1 ee 58 be 
+a0 20 ab 05 8c e0 52 8b 57 13 2b 30 30 35 a2 a7 eb 43 90 5b f4 34 2a 89 d8 3d 84 4c e2 0c 45 1d 
+ed 2a 51 08 1b 6f 10 5a 10 70 c4 af ac 84 b6 1d 79 57 87 c2 42 2f 7b d8 08 05 e1 73 09 96 29 4b 
+54 72 22 67 7a db c2 21 42 a0 98 bc 0f 44 40 1c 39 19 d4 a3 32 28 f5 f2 32 91 1b ac f6 d8 f2 1a 
+89 65 97 e1 40 fc ca e2 2a f7 b6 ac 38 03 fe 42 f3 ff 63 a5 05 59 46 55 3e 9a 70 b5 05 f7 3f 20 
+56 5a 45 00 bb f9 69 43 64 f1 b8 2e 11 85 10 ad ee 07 13 33 84 7f 04 c8 28 2d f9 af 04 30 cd 51 
+08 d2 02 f4 fe e2 86 58 f9 03 41 1e 9a c1 9c f1 45 f1 ee f8 81 e5 0b a3 da ae 97 10 f1 48 b6 92 
+af 3b a8 de 68 d8 9c 0a b4 ea ca b6 2b 9f 4b 9b 8a 0e 52 9c d0 e7 3a a9 29 d9 a6 b5 b4 d2 5a 85 
+be 5a 7b c9 15 39 ae ed 40 5e fd e7 47 da 1c 46 53 b3 59 a1 be 5d 12 8c 1a 8e ef 67 8e 74 36 84 
+bf d0 78 7c ac b0 c8 e9 06 95 59 47 6d a3 33 90 ce 4c 30 ad ac 6f a3 d7 0c 43 7a 68 1d 5f c8 37 
+1c 5b 9d 50 bf 91 b0 9e 10 d6 58 c3 c7 a9 df 4e a1 6e 7f c6 46 1f bc 6b 16 3a ba 22 3a 02 bd 3d 
+d6 d7 4c e3 f5 3e 63 40 1e e4 81 72 74 39 e9 a2 4d 98 58 13 b6 df 7c af fa 18 41 7c a5 bb 13 6a 
+5c aa 33 86 51 5e b7 25 d2 58 8d 81 50 11 e2 e6 cf a5 c6 f6 c9 c4 86 0a 94 a5 1a 0d 2f 81 a1 0a 
+e8 aa 16 b7 ad da f0 5f 48 9c d6 36 14 fb 41 9e 24 b7 df 09 e0 b1 c4 2b 00 95 c3 82 52 76 53 4c 
+d3 86 f7 fd 60 1d f5 22 83 25 b2 bb 6b 64 d3 cd 48 93 8d 0b 48 90 4b f6 87 e5 3f 24 b9 98 86 2f 
+26 f5 81 29 3d ef 7f 4a 47 e3 35 bf 7f 19 34 c4 d5 bf 9e 91 51 7f 2d 65 ef d2 08 16 eb b6 86 89 
+a9 52 62 4d 73 c5 df 0c 78 39 00 00 89 f6 8f 5d d5 99 35 eb 61 a1 77 e0 b9 9d 2f 8f 66 f7 76 50 
+e8 00 d4 2c a6 b6 7a 6a ec d9 43 08 17 70 16 0d 41 b0 bc 78 e3 f9 58 28 2a 17 3a bc f9 21 52 15 
+dd c9 a0 1e 95 a7 ac e6 67 22 6f d9 60 cf a7 59 a6 80 0b 01 45 05 9f cd cc 52 98 72 a9 5a 1b fa 
+73 b8 1b db b4 c9 e4 f7 e0 93 e4 23 88 6e d9 be 82 32 bd 28 99 21 b3 7f 8c 45 75 e8 bb ef 84 c4 
+a6 b5 6d f2 d2 3b 97 c7 ef 3b ca ff 45 0e 7c ea 5b 9a e9 aa 72 3b 3a 5a 77 95 4c 38 72 fd f2 5c 
+8e 6e 
+....W(...../...q.c...T..a.X.W.,..qm..!_..@~.M.i...........K..oo..Ak..8s}*.K2J.4....q..:0Sq...T..
+....R....b....6..IED..R......(u9@.W.j.HY..V.,.:....1{fP. .......z....M...l.NM$zi.C._/....!."....
+..1..j...@...~(k.j."u..MI.N....J......y.^.....2G.=.}..y...+......fWq~.>::.p.3{.`...#.C+..d)...<]
+.o8H'...x...:..^.8..E..Jv~Pz..X.. ....R.W.+005...C.[.4*..=.L..E..*Q..o.Z.p......yW..B/{....s..)K
+Tr"gz..!B....D@.9...2(..2........e..@...*...8..B..c..YFU>.p...? VZE...iCd..........3....(-...0.Q
+.......X..A.....E............H...;..h.......+.K...R...:.).....Z..Z{..9..@^..G..FS.Y..].....g.t6.
+..x|......YGm.3..L0..o...Czh._.7.[.P......X....N.n..F..k.:.":..=..L..>c@...rt9..M.X...|...A|...j
+\.3.Q^.%.X..P.............../.........._H..6..A.$......+....RvSL....`..".%..kd..H...H.K...?$.../
+&..)=..JG.5...4.....Q.-e.........RbMs...x9.....]..5.a.w.../.f.vP...,..zj..C..p..A..x..X(*.:..!R.
+........g"o.`..Y....E....R.r.Z..s..........#.n...2.(.!...Eu.......m..;...;..E.|.[...r;:Zw.L8r..\
+.n
+
+MRGN->Client [13:55:10 07/28/09] packet size: 354
+81 60 43 cf 6e ea fb b8 3a 1c b1 22 b5 05 d9 4b 39 7c 4f 40 86 6a 2a ca ce 86 9b ca bd 93 6d 8f 
+ae f1 55 d4 c3 20 d2 59 62 65 bc df 74 13 4f 1b 57 41 8e 60 1c 40 4d 71 e4 fa d4 04 31 fb eb d1 
+01 2d c6 52 61 0b 7f 50 94 8b 28 07 09 5c 03 0b e4 b6 bd 43 6c 32 42 81 3a 89 8a 5a 5c 9b 5c 51 
+e1 10 23 38 9c f1 52 85 0c 4f 48 39 0f b6 01 f6 40 9c 58 f0 c8 e0 c6 75 88 bc b0 65 db 45 8f b6 
+3c 22 d0 c1 88 be 2d d4 02 77 33 2e 2a 41 99 01 5d 53 ae 68 38 4c a6 7e 7b ac e4 bc de 2d 07 f4 
+17 6d be 04 da 91 ae 3c 5c 36 97 ef ff 34 10 3d 6f 86 71 89 cb cc 8c 7f 75 f5 a2 da b9 5d 3e 61 
+58 36 0c 4d 25 43 48 2b b0 c8 62 8c 93 e7 7a 83 5e 28 65 6a 50 b6 01 5e 62 02 57 aa da ff f1 08 
+32 96 2e 79 90 89 5c af 7f 90 a2 cd 34 fd 54 3a 48 d9 1a 25 d7 a4 2f 6b 88 29 03 70 08 d7 cb bf 
+e5 7f e9 01 9a 9b 63 9c 01 c4 5c 92 73 06 4a fe 9b 1f aa b3 0b 6d 8b 74 d7 19 f9 55 3f 36 81 6f 
+74 3c a9 33 e1 39 77 0e 1e d3 d8 f2 23 4e 50 99 8b eb 3a 2c c1 68 63 69 5f f9 51 a9 c3 51 f8 93 
+41 1f 17 1d 88 eb 59 ac 1a b0 b8 5e 37 f4 6f c3 18 44 6f 9b a5 33 02 18 eb ea 52 57 e6 80 15 a0 
+82 b8 
+.`C.n...:.."...K9|O@.j*.......m...U.. .Ybe..t.O.WA.`.@Mq....1....-.Ra..P..(..\.....Cl2B.:..Z\.\Q
+..#8..R..OH9....@.X....u...e.E..<"....-..w3.*A..]S.h8L.~{....-...m.....<\6...4.=o.q.....u....]>a
+X6.M%CH+..b...z.^(ejP..^b.W.....2..y..\.....4.T:H..%../k.).p..........c...\.s.J......m.t...U?6.o
+t<.3.9w.....#NP...:,.hci_.Q..Q..A.....Y....^7.o..Do..3....RW......
+
+MRGN->Client [13:55:10 07/28/09] packet size: 1452
+8c 60 db 42 c2 31 93 02 c4 04 51 24 49 5c 01 7c 42 97 a8 10 9e c5 02 53 e8 7f b3 62 f6 60 23 f1 
+39 a2 66 2e 93 c6 fe cf 46 6a c5 16 d3 d2 88 9c da 28 36 5e 04 5c cd 0d 36 66 86 77 9f ea b4 80 
+cc ce fa be 81 ae b1 56 bf b4 fc 8d 15 91 ac e5 e8 af 58 37 27 dd 4f 33 fa 07 80 27 5e b2 71 bc 
+e5 05 10 a2 27 66 72 1b ea d9 38 40 b5 c0 a7 1d 24 52 da 39 16 c4 f7 c0 18 47 ed ee 0c 5d 14 6c 
+be b5 8b 0e 51 8a 9b 0f 63 81 ed 7d 13 23 d9 bd 7c ff 94 d0 a7 de 91 cc d2 e2 70 b5 ac 58 e8 81 
+ed 32 d5 a9 51 c1 11 c9 98 f2 8d 15 f2 d7 52 57 82 c2 d7 f2 2f 9b b9 78 22 cf c1 12 9b 95 75 82 
+3d 5f b4 06 c7 da b3 b6 55 6d 1f a1 32 14 cb 0b 98 2d f1 96 5e 1a 15 18 ab a6 88 fb 46 cf 25 ed 
+d3 34 f4 b7 57 b7 dc 17 c7 e7 cb a5 9a 63 b5 8b 04 77 3e b7 8d f0 4a ff 6a 3e 76 dc bd 65 f9 12 
+32 da 32 1c 8e af 17 d7 05 31 41 9a 0b 98 08 44 8a e9 17 a3 36 f1 b1 8c 47 ff 37 14 8d 41 30 f3 
+5c 86 44 76 f6 03 fe 5e 1d 6a bb 2f 04 86 d6 18 0c ba 6f 3f 14 43 68 55 46 81 0e dd fe 65 a5 c1 
+69 89 ad 88 b9 77 fb be 59 d1 00 7b 3d 01 5c 4b 33 01 bb 6a 12 46 7e 83 3d 0d 23 ea 6d f6 8f f7 
+38 23 97 cc 07 24 f7 9c f1 db 4e 96 83 1d 67 ce e2 fe 91 49 58 4e 2a d7 11 78 4b 7d 1e 27 2a a1 
+d1 dc 7d 94 f3 7e ee 73 46 d5 ec bc 20 2f 52 eb 7a 49 5f 4e fc 76 cf 82 da 0a 77 af ab dc 4c 00 
+1e 42 91 da 87 00 c7 d6 be a6 27 13 2e 20 04 13 29 b5 38 77 b6 80 ff 90 d7 9e 53 97 a9 26 25 20 
+9c 6a ae 5e f5 6d 60 8b 87 ea c4 17 f3 ea 22 db 3f 5b 20 c5 4e 1a 41 23 e2 49 0c 5f 27 c0 67 0a 
+d1 47 23 b5 d0 86 fe c3 1c 52 f9 1e 93 d7 59 d4 50 ce cb 52 43 6e 25 89 42 f3 b2 df 2d af 8a ab 
+f4 12 15 f1 55 49 a1 d2 cb aa d6 72 a3 47 e9 e7 cc 4e 29 d4 e2 43 25 36 62 f7 20 10 0f 4e 8d fe 
+0e 4b 88 34 62 85 60 71 26 f7 dd 40 8c 9f 8b 82 c7 c0 4e 60 c0 ef 61 99 3a 95 af d9 af d6 a9 ce 
+11 0c ef be e8 96 02 c8 3b 18 b3 a9 8e c2 23 a6 f7 76 8b 13 a1 18 7b 22 9e 23 31 05 95 1a ae fb 
+7e 62 73 39 27 6c 76 9b 4a 27 bc 2c 47 bb 89 48 d3 c9 f3 65 17 de 94 db a2 58 4b 01 d7 07 3c 3d 
+03 88 39 04 99 94 df 3c 40 15 57 b8 c5 f6 f3 f1 bf d4 9f 42 b5 1b 9f e8 81 4e 96 32 5e bf 17 66 
+bd d0 4c f3 a5 49 4a 57 a1 e1 a0 8c 1a 17 4b 9c b9 3b ec 43 e8 e9 d9 ea b9 36 df 35 2a 07 e4 64 
+51 5d c8 f8 1d d1 de ff 30 c8 9a 38 82 f2 86 ac c6 1f de ca 1f ca d0 56 63 e6 ba ef 65 a2 c3 c6 
+98 b2 76 86 97 f1 e9 62 5e 69 b0 ca 95 b4 ae 48 b2 f1 f0 54 e4 72 5f 60 a2 44 5f 70 32 f6 c8 58 
+ef 01 39 ac 24 7f 46 e8 ad fb ee ca f1 ad 0a 22 c7 bf 43 71 56 74 23 e2 24 1a 22 a8 8b f8 f3 e5 
+df 68 16 86 9b 92 1a 11 de ea 42 e3 e7 57 67 b9 23 1a 47 d0 b9 4a 47 52 d3 b5 11 36 0f 37 e8 d1 
+66 42 27 2c 6b 10 0f 88 ed 8c c4 28 9d 02 db d9 db d3 b0 b6 8b e2 6b c2 ed 47 3b 8c 36 a8 41 90 
+fc 8e ab ff 82 65 2a 9f a1 48 62 12 50 0c 37 2f 04 6b aa 13 e5 7e f3 7e 95 d2 dc 54 f1 42 bd 6d 
+c6 18 58 88 02 00 7b 57 54 cf f0 3f 5d d5 f5 bd 06 d0 b4 e5 53 0f 67 95 14 39 c4 d4 50 e4 8b fd 
+2a 59 00 06 0d bf d2 85 f1 1d 9b f4 7e 37 fd c3 83 9b ef 1d 26 bb 9c 17 a8 5a 5a 48 e7 1b 4a 07 
+0a 67 eb 18 87 b2 93 c0 f6 0a 3d b7 16 98 e5 48 28 96 d3 65 36 dd b1 45 79 85 f8 f7 ad 71 dc 70 
+d9 76 76 98 5a 85 a1 08 8c f4 fe ef 0f 5a 25 8d 6d f8 0b 1e 6b f5 de e0 88 c5 82 15 f6 ac bf 95 
+f8 5a c7 f7 5b 82 40 f0 25 85 bc ee f4 d6 33 1f 73 aa 81 94 db b5 fb e3 3b c3 b3 bc b2 33 53 e2 
+b2 21 67 f8 78 9a 24 f2 30 d4 c7 81 b4 df 2e 5d 9b fa d6 dd e3 b5 7f 74 f6 f3 22 60 cc d1 69 93 
+77 55 e9 2e 0e f7 93 ca 12 fc 1c 5e 0b 6a 50 7f bb 38 14 82 9c 7c 68 b6 27 89 4f ba 8a af 68 f9 
+29 4c 10 b2 d4 3e dc 09 93 b1 79 4a 54 f0 5a e0 0e cb 8f d4 7c 30 6b fd 41 a9 86 ae a5 07 19 ad 
+04 e5 59 ed 67 57 b5 28 e1 b0 27 6b c5 7a 5d 6e 38 82 7e c2 da 37 f5 b4 f4 f6 d2 3f 5b e8 7d 27 
+af 6b a6 1e 78 29 6e 4c d6 85 e3 07 71 13 71 36 ea 38 b0 5e 53 6f 51 8c 05 13 41 e0 8d 21 5d 45 
+d0 89 8c 08 10 d0 c1 53 39 94 b4 a5 65 0a 4e ac 60 85 a8 2a 7a 4b 20 65 25 30 0e 14 fb f0 23 d5 
+6a 21 d7 de f3 23 76 55 bf 5e a1 50 36 8c 2d 6e 8f 4a aa e1 dc 62 ea 89 1d e7 62 40 b5 35 8b 6a 
+95 b1 58 2c 10 c3 30 0d d9 df 6e c5 19 6c 5c 1e d7 25 54 89 68 b7 ac e4 95 d2 2a 26 b6 19 0b 5c 
+33 af c6 bc bd b2 9c ac 46 90 90 e8 40 d9 0e 7b 8b 61 15 ae 6a 3d e8 5e b2 4e a3 62 8c da 4e fc 
+ea ee 5b b3 0c 23 32 dd 6a 82 02 ad e0 46 51 5f 49 d8 08 58 6d aa 76 bd 99 41 c4 51 f3 90 0c d2 
+b7 a7 1a 45 ac 91 8c 96 95 2a ba 8b ab ae 05 56 e3 2d 7a d9 13 a1 2b 9d b0 fd 62 1e 30 f5 f0 ad 
+af 35 50 06 f2 80 d4 21 a0 c4 08 80 4d fe 5d 72 6b ae f2 87 01 6d d3 bd 0e 57 48 c4 83 a1 10 ba 
+42 e7 c7 e7 dc 7d ed 78 85 77 89 01 
+.`.B.1....Q$I\.|B......S...b.`#.9.f.....Fj.......(6^.\..6f.w...........V..........X7'.O3...'^.q.
+....'fr...8@....$R.9.....G...].l....Q...c..}.#..|.........p..X...2..Q.........RW..../..x".....u.
+=_......Um..2....-..^.......F.%..4..W........c...w>...J.j>v..e..2.2......1A....D....6...G.7..A0.
+\.Dv...^.j./......o?.ChUF....e..i....w..Y..{=.\K3..j.F~.=.#.m...8#...$....N...g....IXN*..xK}.'*.
+..}..~.sF... /R.zI_N.v....w...L..B........'.. ..).8w......S..&% .j.^.m`.......".?[ .N.A#.I._'.g.
+.G#......R....Y.P..RCn%.B...-.......UI.....r.G...N)..C%6b. ..N...K.4b.`q&..@......N`..a.:.......
+........;.....#..v....{".#1.....~bs9'lv.J'.,G..H...e.....XK...<=..9....<@.W........B.....N.2^..f
+..L..IJW......K..;.C.....6.5*..dQ]......0..8...........Vc...e.....v....b^i.....H...T.r_`.D_p2..X
+..9.$.F........"..CqVt#.$."......h........B..Wg.#.G..JGR...6.7..fB',k......(..........k..G;.6.A.
+.....e*..Hb.P.7/.k...~.~...T.B.m..X...{WT..?].......S.g..9..P...*Y..........~7......&....ZZH..J.
+.g........=....H(..e6..Ey....q.p.vv.Z........Z%.m...k............Z..[.@.%.....3.s.......;....3S.
+.!g.x.$.0......].......t.."`..i.wU.........^.jP..8...|h.'.O...h.)L...>....yJT.Z.....|0k.A.......
+..Y.gW.(..'k.z]n8.~..7.....?[.}'.k..x)nL....q.q6.8.^SoQ...A..!]E.......S9...e.N.`..*zK e%0....#.
+j!...#vU.^.P6.-n.J...b....b@.5.j..X,..0...n..l\..%T.h.....*&...\3.......F...@..{.a..j=.^.N.b..N.
+..[..#2.j....FQ_I..Xm.v..A.Q.......E.....*.....V.-z...+...b.0....5P....!....M.]rk....m...WH.....
+B....}.x.w..
+
+MRGN->Client [13:55:10 07/28/09] packet size: 1452
+e7 bc 76 a0 a9 1b a9 85 b3 ea 2d 89 be b5 2f 6f 95 af 1e a4 db 85 3b 2c b6 4f ed 18 e2 59 f4 5c 
+e3 c1 36 0d 89 df 38 99 61 2e ff ad d6 89 4a 13 18 64 0c 87 09 96 01 8d 70 16 37 ed 97 55 a0 56 
+08 cb 95 39 2a 11 4b 08 d0 1a e3 46 4a be 5a 1e 4b 87 17 9e db eb 31 fd 1f d9 25 7c 55 07 50 21 
+99 1f 6b 31 67 11 6c 4d 36 5a 8c 40 c5 04 a4 98 45 6a 6f e0 3c 94 94 64 d9 17 6d 36 50 b9 53 f3 
+7e fe 94 13 99 7d f3 57 c1 49 df 5e cb 16 26 87 5c e5 73 60 ba 36 3b a9 cf 45 fc e6 50 7a bd 5b 
+4f 6a 34 69 c3 98 5c 16 b4 00 3e 00 df bb 76 9c da ab 85 14 76 de b3 61 2b 93 e5 b1 d0 b3 1a 82 
+74 eb 72 c9 02 d4 21 ce f0 8f 83 ea 8a 74 b3 3b 7d 6e 4d ff 93 34 e6 a7 39 b8 5e ff 26 9d d3 37 
+c9 8e 5e c0 21 f4 81 88 66 ec 0d ca 16 fb eb 95 9a 7e 5e a0 67 74 d5 49 d7 4c 46 09 38 58 4c 74 
+0e c6 b2 1e e0 d8 7f 8e 13 c5 7c 0b 67 d4 1a 62 82 f0 eb e8 6e cb 06 41 04 79 35 78 04 d8 4c 39 
+12 7b 7d 4b 09 de 54 d7 ac 5f 98 52 b2 df 4c 51 b8 48 9c 03 6f 49 fa 93 98 5e c4 3a 88 ef b3 cd 
+e5 09 7a 2a 34 08 95 eb fc 78 47 7b 55 d2 1c 96 d4 d0 1c 1e 8c 7c 92 be 92 3a 33 f8 8e 28 5a e8 
+47 69 64 75 08 76 2c d3 54 a6 4c c2 bb a4 0a b1 26 c1 0b e8 76 a8 39 6f 8e 7a ea 41 d3 bf 8d e8 
+25 d1 4b a4 93 b7 8d 66 6f 26 dc c5 0e b0 5c af a4 10 25 15 e5 a1 3c bc 8c da 7c 85 e3 88 83 55 
+27 f6 e9 47 91 5b 6f 88 46 d9 da 45 0b bc 1b 23 cf 7a 5f 1c 40 cb 32 02 46 c4 21 db 40 c7 b0 b4 
+56 bd 82 ee d1 32 e5 85 76 50 4d 50 0e 09 b9 f5 2a 17 e4 46 ef f6 d9 dd ec c2 bd 09 5a 20 56 66 
+6b d6 6e d4 d5 16 51 5d c0 e8 7f 1d 5e ed 92 38 86 e3 ec ae a1 92 71 62 36 d9 11 e8 c7 cc 2f 8e 
+00 65 45 cf b6 87 d9 87 0c 4b 8c c1 48 da c9 a5 40 59 dd 60 37 45 74 f9 e4 a1 f2 1b 0c 26 f8 0b 
+98 f4 13 fb 6a 39 1e cf 8f dd 93 7b d6 0d d4 9d ca db 2c 47 15 6c 52 85 ee 46 ac 53 48 82 66 a4 
+2c 96 cc 4b 9d 7e 54 bb fd ea 9c 54 20 0b be c9 7f 03 76 c0 66 c1 bd d3 53 9d 47 29 8f 1a 61 df 
+e9 68 77 05 62 20 1c 5a ee 02 2d 72 09 a6 9f 27 e6 98 cb 97 50 52 1f f2 c3 b8 d5 d1 a2 14 af 10 
+9a f1 8d 10 53 97 95 81 e0 bd 60 35 e7 c4 65 a3 30 81 10 c4 4f ad bb 4c c5 84 4e d9 3b 24 a8 ef 
+04 47 23 7e 1c 88 b0 38 ed 00 eb 53 74 cc 2b ec 1d 6e b9 5b c8 04 1d 5a 19 54 6c 5c a8 bb cb 73 
+64 fe ec 61 2f f7 ce 59 bd d0 dd 02 68 64 34 ec 66 ca f8 28 cf 0f a2 e7 41 a3 39 c6 57 b1 2c f3 
+d3 ca 1c 3e 38 ad d4 e8 97 9b de 1d 6f 45 c9 44 8d 96 c9 8a c1 db 5f d4 8c 42 81 3f 3e d8 42 99 
+8f 12 66 e0 8b f3 65 65 c4 d9 3f 9e bf 02 f9 33 71 db 34 9c 89 45 89 51 a6 3c 8f 77 1e a0 f7 0c 
+93 56 e9 a3 1e 75 46 d6 4d 6d b4 27 90 f0 6a 6f af cc 38 29 04 db b1 6d 3c 1a 9d c0 57 69 b6 b0 
+9e 44 ba 3b 3b b8 88 a9 b2 d1 f1 cd ae 55 eb 9f b1 59 a6 82 a8 e0 84 63 b5 8e 71 2c ae f8 3c 61 
+1a 0a 5d dc 84 ff 52 ca 7b 80 87 90 38 f1 b9 7d ca 7e 80 6a fa e9 de fc 4a cb 23 30 e6 8e 07 fb 
+a3 9a 0a 7a 79 df 85 43 90 81 0f bf 22 a2 3d b9 d8 44 81 e8 b3 5a 6c c4 f2 93 88 6a f1 82 37 b7 
+da 78 cb ce a4 d9 f9 95 8a cf 81 62 e1 ed 84 14 51 16 7a f5 5a bc 3b 4c ce 05 de ba 8e 4f 96 2e 
+f7 a8 94 cc 2b aa dc 9f 4a 39 4b 6b 70 de 80 9f 1b 61 8a 42 88 4d 5d 25 73 e7 8a da 74 3b c7 41 
+f8 cf 7f 83 34 15 86 73 37 cb 4e b5 04 5f 2c 6f 9d 4c f5 ad 52 6f eb 74 f7 1f ac e1 94 3a f3 ff 
+17 7c 40 9f d9 12 bb 76 a7 00 e8 63 6a 93 2a b4 ea 07 e8 9a 03 0b 28 d7 96 d4 95 03 23 f9 b0 10 
+ec 99 de c6 74 bb ae 01 ad c5 c2 62 8f b3 b3 9b 84 be a4 22 db b6 28 32 ee ec d2 68 6a 4e b1 e4 
+d8 34 a0 91 cf 0b 9f 24 bc 69 c3 28 2d 6b c7 c4 0e 25 78 e2 4e 8c 41 ff 53 e5 fb c9 d4 e6 a1 4f 
+1b a7 8e 67 80 19 49 7a d4 ff 7b 91 64 ff be a6 a9 fd e6 ce cb db 6b fc 7b bf 28 92 df 30 6a f1 
+1b 6f 8d c0 6f 82 59 eb 00 fa 9e 3d 20 8e 28 18 db 25 0d 61 c9 6b 90 ba 7e 98 b2 3f 26 54 64 40 
+c8 21 92 0c c1 db ec 47 f8 1d 86 24 6a 89 8a 90 e6 cd 27 72 cb 24 bc b5 ae e7 77 24 19 f6 90 45 
+c8 20 60 dd 63 ed bd 19 49 eb 7b 71 63 cf d4 da 51 55 a0 2e 7c dc e4 f1 da f9 ab 65 29 c4 9a bf 
+cf 8d 32 bc ae 1f a6 4b 18 04 65 f1 3c c2 6f 7e 11 a4 4a 0e 06 a3 b6 c1 1f 22 bd ef e3 9f 75 d0 
+28 ea 09 67 57 2c f9 e1 15 86 63 59 0d 6c 68 81 5e 0e 2b af 31 93 11 f2 c9 69 cd d3 0b 3a 35 1c 
+bd 12 ba 10 a2 58 36 38 36 60 85 6c 39 e6 7a 57 28 c0 1b 95 c9 57 55 bf 37 dd 92 9c c0 40 0b 11 
+1f ba 6e a5 39 5b d7 ff ac ae 75 40 d0 ea f0 a5 19 69 bf 84 71 de 17 e6 58 bc 1c ab dd cb 49 01 
+5d 80 78 44 8d 6d 6e d1 26 ad 56 83 c9 0b 89 d7 c6 a2 cc bd 2e b7 a9 9d 9c 6c ce 3a 80 6d 81 18 
+99 d0 44 e1 6e c7 20 15 d3 53 f5 15 16 99 92 78 f1 fa 25 e6 c3 d3 30 78 7b 0e 53 6a e8 7a a1 5a 
+c5 7f 47 63 bf cd 0b 8c 23 52 19 da 
+..v.......-.../o......;,.O...Y.\..6...8.a.....J..d......p.7..U.V...9*.K....FJ.Z.K.....1...%|U.P!
+..k1g.lM6Z.@....Ejo.<..d..m6P.S.~....}.W.I.^..&.\.s`.6;..E..Pz.[Oj4i..\...>...v.....v..a+.......
+t.r...!......t.;}nM..4..9.^.&..7..^.!...f........~^.gt.I.LF.8XLt..........|.g..b....n..A.y5x..L9
+.{}K..T.._.R..LQ.H..oI...^.:......z*4....xG{U........|...:3..(Z.Gidu.v,.T.L.....&...v.9o.z.A....
+%.K....fo&....\...%...<...|....U'..G.[o.F..E...#.z_.@.2.F.!.@...V....2..vPMP....*..F........Z Vf
+k.n...Q]....^..8......qb6...../..eE......K..H...@Y.`7Et......&......j9.....{......,G.lR..F.SH.f.
+,..K.~T....T .....v.f...S.G)..a..hw.b .Z..-r...'....PR..............S.....`5..e.0...O..L..N.;$..
+.G#~...8...St.+..n.[...Z.Tl\...sd..a/..Y....hd4.f..(....A.9.W.,....>8.......oE.D......_..B.?>.B.
+..f...ee..?....3q.4..E.Q.<.w.....V...uF.Mm.'..jo..8)...m<...Wi...D.;;........U...Y.....c..q,..<a
+..]...R.{...8..}.~.j....J.#0.......zy..C....".=..D...Zl....j..7..x.........b....Q.z.Z.;L.....O..
+....+...J9Kkp....a.B.M]%s...t;.A....4..s7.N.._,o.L..Ro.t.....:...|@....v...cj.*.......(.....#...
+....t......b......."..(2...hjN...4.....$.i.(-k...%x.N.A.S......O...g..Iz..{.d.........k.{.(..0j.
+.o..o.Y....= .(..%.a.k..~..?&Td@.!.....G...$j.....'r.$....w$...E. `.c...I.{qc...QU..|......e)...
+..2....K..e.<.o~..J......"....u.(..gW,....cY.lh.^.+.1....i...:5......X686`.l9.zW(....WU.7....@..
+..n.9[....u@.....i..q...X.....I.].xD.mn.&.V..............l.:.m....D.n. ..S.....x..%...0x{.Sj.z.Z
+..Gc....#R..
+
+MRGN->Client [13:55:10 07/28/09] packet size: 266
+bd ba 9f 8e ab d5 63 98 ea fd e0 c0 f8 66 eb 3d 77 03 4a f3 2b 3e 4b 34 2b c4 f7 bd fe c8 c3 c1 
+1d 1c 33 5f 6a 61 07 08 ee 6d 5e fa 9c 92 de d0 cd c1 f2 5e 1f 2f 47 dc c9 7c ab aa 46 ea 35 a4 
+ca 6a 45 dd d2 05 8a d9 db 08 2e 84 1b 0d 2d 35 65 9d 03 00 26 e5 f4 00 f7 74 cd 0a bd 0a 74 fd 
+c8 b7 49 22 fe d6 34 b1 96 b3 5d 3f 2a d5 9e 74 7b 6d 17 69 f1 5c 76 85 f9 85 03 df d3 20 9f cd 
+56 00 22 69 ca 4a 14 e9 dd 27 45 12 31 96 ab 84 40 35 17 81 d7 ad 3d 99 55 d9 a5 91 37 2d 14 b4 
+7f f9 d5 a1 7e bb dc 63 4f b2 a1 f1 ee e8 0a 47 27 25 36 ee 8b 13 f7 50 b9 b6 00 57 b4 86 ec e9 
+bc 66 d9 13 42 96 be bc 89 46 e4 6b 5d cb 68 11 d0 ff 4a cc ba 4d ab ef f0 c5 2d 53 d8 55 ea 25 
+1d 37 5e 15 1c 58 ed db 8f ba ac 78 3d ca ef 8d 3a 51 ae f4 c9 0e 87 84 32 6b 04 b1 cd 63 77 f3 
+42 0c 30 ab c1 68 cb 28 6c ec 
+......c......f.=w.J.+>K4+.........3_ja...m^........^./G..|..F.5..jE...........-5e...&....t....t.
+..I"..4...]?*..t{m.i.\v...... ..V."i.J...'E.1...@5....=.U...7-......~..cO......G'%6....P...W....
+.f..B....F.k].h...J..M....-S.U.%.7^..X.....x=...:Q......2k...cw.B.0..h.(l.
+
+MRGN->Client [13:55:10 07/28/09] packet size: 49
+30 b8 e8 de ff ca 77 b3 63 bf bb c5 3c cd 2a 72 b5 85 2a 45 16 9e b4 61 f8 30 38 3b 63 37 fa 4e 
+c1 7d 52 91 75 cc eb e0 3f 42 35 2f 2e 75 51 d6 d5 
+0.....w.c...<.*r..*E...a.08;c7.N.}R.u...?B5/.uQ..
+
+MRGN->Client [13:55:10 07/28/09] packet size: 49
+30 30 39 b1 e8 3d a1 34 fe e6 f7 4a 2d e4 e2 6c 14 82 d0 09 d9 5a 99 3e 31 5e 1e 88 4e 04 ff 67 
+bb 17 42 ec d2 f7 e2 46 1f f3 5b 3c a2 42 2c 3f 91 
+009..=.4...J-..l.....Z.>1^..N..g..B....F..[<.B,?.
+
+Client->GAME [13:55:10 07/28/09] packet size: 43
+00 00 00 00 00 00 03 08 00 00 00 9c 63 09 00 00 00 00 00 84 03 00 00 00 00 00 00 dc 84 82 40 c7 
+de f9 0a a2 46 5d fe 60 99 77 5d 
+............c.................@.....F].`.w]
+
+GAME->Client [13:55:11 07/28/09] packet size: 7
+00 00 00 00 00 00 05 
+.......
+
+GAME->Client [13:55:11 07/28/09] packet size: 7
+00 00 00 00 00 00 05 
+.......
+
+GAME->Client [13:55:11 07/28/09] packet size: 7
+00 00 00 00 00 00 05 
+.......
+
+GAME->Client [13:55:11 07/28/09] packet size: 7
+00 00 00 00 00 00 05 
+.......
+
+GAME->Client [13:55:11 07/28/09] packet size: 7
+00 00 00 00 00 00 05 
+.......
+
+MRGN->Client [13:55:11 07/28/09] packet size: 33
+20 7c da 43 8a cb 8a 38 62 cc d4 ce 1d f7 db 29 20 16 e0 d4 10 7b 41 f9 41 05 36 21 9c e3 35 11 
+f7 
+ |.C...8b......) ....{A.A.6!..5..
+
+MRGN->Client [13:55:11 07/28/09] packet size: 6
+aa aa a5 79 d7 ba 
+...y..
+
+GAME->Client [13:55:11 07/28/09] packet size: 1326 CRYPTED, Flags: 0 ServerSeq: 1 ClientSeq: 0
+82 f5 bc d3 48 04 01 00 00 3d 71 06 0e 00 01 00 00 00 f5 bc d3 48 01 44 00 34 00 72 65 73 6f 75 
+72 63 65 2f 77 6f 72 6c 64 73 2f 66 69 6e 61 6c 5f 77 6f 72 6c 64 2f 73 6c 75 6d 73 5f 62 61 72 
+72 65 6e 73 5f 66 75 6c 6c 2e 6d 65 74 72 00 2b 00 48 61 6c 6c 6f 77 65 65 6e 5f 45 76 65 6e 74 
+2c 57 69 6e 74 65 72 33 48 61 6c 6c 6f 77 65 65 6e 46 6c 79 45 79 65 54 53 45 43 00 0a 80 e5 e7 
+cb c0 12 00 00 00 00 0a 80 e4 34 af 46 e4 00 00 00 00 08 80 b2 4e 00 08 00 08 02 08 80 b2 52 00 
+1e 00 08 02 08 80 b2 54 00 0d 00 08 02 08 80 b2 4f 00 08 00 08 02 08 80 b2 51 00 1e 00 08 02 08 
+80 b2 11 00 32 00 08 02 16 80 bc 45 03 11 00 00 02 00 00 00 11 00 32 00 00 00 00 00 00 00 00 16 
+80 bc 45 00 02 00 00 02 00 00 00 cc 00 0c 00 00 00 00 00 00 00 00 16 80 bc 45 00 03 00 00 0b 00 
+00 00 37 02 96 00 00 00 00 00 00 00 00 16 80 bc 45 00 04 00 00 2d 00 00 00 23 04 0a 00 00 00 00 
+00 00 00 00 16 80 bc 45 00 05 00 00 2d 00 00 00 20 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 
+06 00 00 2d 00 00 00 19 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 07 00 00 2d 00 00 00 42 04 
+05 00 00 00 00 00 00 00 00 16 80 bc 45 00 08 00 00 34 00 00 00 83 02 c8 00 00 00 00 00 00 00 00 
+08 80 b2 36 04 00 00 08 02 16 80 bc 45 03 36 04 00 40 00 00 00 36 04 00 00 00 00 00 00 00 00 00 
+16 80 bc 45 00 09 00 00 40 00 00 00 7b 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 0a 00 00 49 
+00 00 00 e3 03 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 0b 00 00 49 00 00 00 7b 04 0e 00 00 00 
+00 00 00 00 00 16 80 bc 45 00 0c 00 00 4c 00 00 00 15 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 
+00 0d 00 00 4c 00 00 00 06 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 00 0e 00 00 4c 00 00 00 19 
+04 07 00 00 00 00 00 00 00 00 16 80 bc 45 00 0f 00 00 53 00 00 00 15 04 01 00 00 00 00 00 00 00 
+00 16 80 bc 45 00 10 00 00 53 00 00 00 19 04 01 00 00 00 00 00 00 00 00 08 80 b2 3a 04 00 00 08 
+02 16 80 bc 45 03 3a 04 00 53 00 00 00 3a 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 11 00 00 
+53 00 00 00 06 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 12 00 00 5f 00 00 00 7c 04 0f 00 00 
+00 00 00 00 00 00 16 80 bc 45 00 13 00 00 5f 00 00 00 07 04 0f 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 14 00 00 62 00 00 00 06 04 01 00 00 00 00 00 00 00 00 08 80 b2 35 04 00 00 08 02 16 80 bc 
+45 03 35 04 00 62 00 00 00 35 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 15 00 00 62 00 00 00 
+15 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 16 00 00 35 01 00 00 07 04 03 00 00 00 00 00 00 
+00 00 16 80 bc 45 00 17 00 00 35 01 00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 18 00 
+00 35 01 00 00 42 04 0a 00 00 00 00 00 00 00 00 08 80 b2 3b 04 00 00 08 02 16 80 bc 45 03 3b 04 
+00 36 01 00 00 3b 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 19 00 00 36 01 00 00 07 04 01 00 
+00 00 00 00 00 00 00 16 80 bc 45 00 1a 00 00 48 01 00 00 77 04 05 00 00 00 00 00 00 00 00 16 80 
+bc 45 00 1b 00 00 48 01 00 00 03 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 1c 00 00 48 01 00 
+00 76 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 1d 00 00 48 01 00 00 e4 03 0a 00 00 00 00 00 
+00 00 00 16 80 bc 45 00 1e 00 00 48 01 00 00 7c 04 0a 00 00 00 00 00 00 00 00 08 80 b2 3c 04 00 
+00 08 02 16 80 bc 45 03 3c 04 00 4e 01 00 00 3c 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 1f 
+00 00 4e 01 00 00 07 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 20 00 00 5d 01 00 00 7b 04 05 
+00 00 00 00 00 00 00 00 16 80 bc 45 00 21 00 00 5d 01 00 00 20 04 0f 00 00 00 00 00 00 00 00 16 
+80 bc 45 00 22 00 00 d7 01 00 00 23 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 23 00 00 d7 01 
+00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 24 00 00 36 02 00 00 37 02 0a 00 00 00 00 
+00 00 00 00 16 80 bc 45 00 25 00 00 74 02 00 00 34 02 1e 00 00 00 00 00 00 00 00 16 80 bc 56 00 
+26 00 00 c5 a7 00 00 7e 02 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 27 00 00 c5 a7 00 00 cc 00 
+19 00 00 00 00 00 00 00 00 16 80 bc 56 00 28 00 00 c5 a7 00 00 41 02 28 00 00 00 00 00 00 00 00 
+16 80 bc 56 00 29 00 00 c5 a7 00 00 09 04 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2a 00 00 c5 
+a7 00 00 16 04 01 00 00 00 00 00 00 00 00 
+....H....=q..........H.D.4.resource/worlds/final_world/slums_barrens_full.metr.+.Halloween_Event
+,Winter3HalloweenFlyEyeTSEC...............4.F........N........R........T........O........Q......
+....2......E..........2...........E......................E........7.............E....-...#......
+.......E....-... .............E....-.................E....-...B.............E....4..............
+...6........E.6..@...6.............E....@...{.............E....I.................E....I...{.....
+........E....L.................E....L.................E....L.................E....S.............
+....E....S.................:........E.:..S...:.............E....S.................E...._...|....
+.........E...._.................E....b.................5........E.5..b...5.............E....b...
+..............E....5.................E....5.................E....5...B.............;........E.;.
+.6...;.............E....6.................E....H...w.............E....H.................E....H..
+.v.............E....H.................E....H...|.............<........E.<..N...<.............E..
+..N.................E. ..]...{.............E.!..]... .............E."......#.............E.#....
+................E.$..6...7.............E.%..t...4.............V.&......~.............V.'........
+............V.(......A.(...........V.)....................V.*.................
+
+MRGN->Client [13:55:12 07/28/09] packet size: 6
+aa aa 8c 27 f4 78 
+...'.x
+
+GAME->Client [13:55:12 07/28/09] packet size: 976 CRYPTED, Flags: 0 ServerSeq: 2 ClientSeq: 0
+02 04 03 00 3d 06 16 80 bc 56 00 2b 00 00 95 b7 00 00 b4 00 16 00 00 00 00 00 00 00 00 16 80 bc 
+56 00 2c 00 00 95 b7 00 00 09 04 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2d 00 00 95 b7 00 00 
+9d 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2e 00 00 95 b7 00 00 b5 00 16 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 2f 00 00 24 b3 00 00 89 02 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 30 00 
+00 24 b3 00 00 1a 04 01 00 00 00 00 00 00 00 00 00 43 1c 16 80 bc 56 00 31 00 00 24 b3 00 00 b4 
+00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 32 00 00 24 b3 00 00 09 04 21 00 00 00 00 00 00 00 
+00 16 80 bc 56 00 33 00 00 24 b3 00 00 15 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 34 00 00 
+24 b3 00 00 b5 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 35 00 00 95 a7 00 00 b4 00 12 00 00 
+00 00 00 00 00 00 16 80 bc 56 00 36 00 00 95 a7 00 00 b5 00 12 00 00 00 00 00 00 00 00 16 80 bc 
+56 00 37 00 00 95 a7 00 00 09 04 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 38 00 00 95 a7 00 00 
+70 00 0f 00 00 00 00 00 00 00 00 16 80 bc 56 00 39 00 00 2c b3 00 00 17 04 01 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 3a 00 00 2c b3 00 00 b4 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 3b 00 
+00 2c b3 00 00 09 04 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 3c 00 00 2c b3 00 00 12 04 02 00 
+00 00 00 00 00 00 00 16 80 bc 56 00 3d 00 00 2c b3 00 00 07 04 02 00 00 00 00 00 00 00 00 16 80 
+bc 56 00 3e 00 00 2c b3 00 00 b5 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 3f 00 00 c3 b2 00 
+00 89 02 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 40 00 00 c3 b2 00 00 21 04 02 00 00 00 00 00 
+00 00 00 16 80 bc 56 00 41 00 00 c3 b2 00 00 b4 00 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 42 
+00 00 c3 b2 00 00 09 04 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 43 00 00 c3 b2 00 00 1e 04 01 
+00 00 00 00 00 00 00 00 16 80 bc 56 00 44 00 00 c3 b2 00 00 9d 00 1f 00 00 00 00 00 00 00 00 16 
+80 bc 15 00 45 00 00 f7 03 00 00 08 02 00 00 00 00 00 00 00 00 00 16 80 bc 15 00 46 00 00 f7 03 
+00 00 07 02 ec ff ff ff 00 00 00 00 00 16 80 bc 15 00 47 00 00 f7 03 00 00 50 04 00 00 00 00 00 
+00 00 00 00 16 80 bc 15 00 48 00 00 f7 03 00 00 f4 03 00 00 00 00 00 00 00 00 00 16 80 bc 15 00 
+49 00 00 f7 03 00 00 51 04 f6 ff ff ff 00 00 00 00 00 16 80 bc 15 00 4a 00 00 f7 03 00 00 52 04 
+0f 00 00 00 00 00 00 00 00 2f 47 00 00 04 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 1a 00 
+06 00 00 00 01 00 00 00 00 01 01 00 00 00 00 00 80 00 00 00 00 00 00 00 00 24 2e 07 00 00 00 00 
+00 00 00 00 00 00 00 59 00 00 2e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 5f 
+02 48 81 a9 00 00 07 00 05 3f 00 68 74 74 70 3a 2f 2f 74 68 65 6d 61 74 72 69 78 6f 6e 6c 69 6e 
+65 2e 73 74 61 74 69 6f 6e 2e 73 6f 6e 79 2e 63 6f 6d 2f 70 72 6f 63 65 73 73 46 6c 61 73 68 54 
+72 61 66 66 69 63 2e 76 6d 00 45 7c 75 d4 01 00 31 5e 00 00 01 00 00 01 0f 00 34 00 01 54 68 65 
+20 44 75 61 6c 69 74 79 00 f9 01 fb 01 0f 00 44 61 72 6b 20 42 72 69 67 61 64 69 65 72 00 0c 00 
+00 b0 3a 00 00 65 6c 02 be cc 01 00 66 a9 56 03 
+....=....V.+....................V.,....................V.-....................V.................
+.....V./..$.................V.0..$...............C....V.1..$.....!...........V.2..$.....!.......
+....V.3..$.................V.4..$.....!...........V.5....................V.6....................
+V.7....................V.8......p.............V.9..,.................V.:..,.....!...........V.;.
+.,.....!...........V.<..,.................V.=..,.................V.>..,.....!...........V.?.....
+...............V.@......!.............V.A....................V.B....................V.C.........
+...........V.D......................E......................F......................G......P......
+.........H......................I......Q...............J......R........../G.....................
+.........................$.............Y......................._.H.......?.http://thematrixonlin
+e.station.sony.com/processFlashTraffic.vm.E|u...1^........4..The Duality.......Dark Brigadier...
+..:..el.....f.V.
+
+GAME->Client [13:55:12 07/28/09] packet size: 1351 CRYPTED, Flags: 0 ServerSeq: 3 ClientSeq: 0
+02 04 02 00 61 02 82 48 7c 75 d4 01 00 31 5e 00 00 02 00 01 02 0f 00 37 02 4b b1 00 00 52 65 73 
+65 72 76 6f 69 72 20 44 6f 67 73 00 44 61 72 6b 20 42 72 69 67 61 64 69 65 72 00 0c 00 00 b0 3a 
+00 00 65 6c 93 f5 01 00 54 68 65 41 76 65 6e 4e 69 67 65 72 61 00 00 00 00 00 00 00 00 00 00 00 
+00 00 01 00 6a 41 00 00 00 02 13 71 00 00 44 75 61 6c 69 74 79 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 cd 5d 00 00 64 61 72 6b 68 61 7a be cc 01 00 4d 65 64 61 6e 6f 6e 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d5 71 00 00 47 65 6c 62 65 00 01 46 71 00 00 48 
+69 67 68 73 70 65 65 64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7b 79 00 00 41 73 72 61 69 00 
+00 00 00 00 00 00 66 ec 01 00 53 6f 6e 67 61 00 00 00 00 00 00 00 00 00 00 00 00 00 c4 e6 01 00 
+42 75 53 62 59 00 00 00 00 00 00 02 35 72 00 00 52 65 76 6f 6c 75 74 69 6f 6e 00 00 00 00 00 00 
+00 00 cf 4a 02 00 7a 65 72 6f 31 37 00 00 00 00 00 00 00 00 00 00 00 bc d2 01 00 43 65 72 69 6f 
+6e 65 00 00 00 00 00 00 ec de 02 00 47 72 69 66 69 78 00 00 00 00 00 00 00 00 00 00 03 c6 72 00 
+00 4b 69 6e 64 65 72 20 64 65 73 20 5a 6f 72 6e 73 00 78 51 75 69 6e 6e 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 6b db 01 00 50 61 72 74 79 61 6e 69 6d 61 6c 00 4f 72 70 68 65 49 69 61 
+00 00 00 00 00 00 00 00 00 00 00 00 00 03 2d 74 00 00 7a 69 6f 6e 73 20 74 61 63 20 6f 70 73 00 
+69 6c 61 68 52 6f 73 65 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2f d8 01 00 65 6e 74 
+69 6c 73 61 72 00 6d 33 44 72 61 67 6f 6e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 02 
+a4 00 00 47 65 72 6d 61 6e 53 6f 6c 64 69 65 72 73 00 00 34 52 02 00 56 74 65 63 68 30 31 00 00 
+00 00 00 00 00 00 00 00 00 00 86 4c 02 00 53 79 6d 62 69 00 65 54 00 a4 7e 2d 45 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 81 40 80 86 75 d4 01 00 4b b1 00 00 01 21 00 93 
+f5 01 00 75 d4 01 00 00 00 00 00 32 00 14 02 00 00 3e 01 0f 00 52 65 73 65 72 76 6f 69 72 20 44 
+6f 67 73 00 07 00 00 75 d4 01 00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 01 00 99 10 01 00 43 68 65 72 62 65 72 75 73 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 93 f5 01 00 54 68 65 41 76 65 6e 4e 69 
+67 65 72 61 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ee 55 02 00 4c 31 7a 
+5a 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c2 
+98 02 00 4b 61 72 74 68 6f 73 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 62 f9 02 00 54 68 65 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 f9 76 04 00 41 72 63 68 69 74 65 6b 74 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 63 0a 2f 80 d7 08 00 3c 00 00 8e 25 00 
+53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 54 68 65 41 76 65 6e 4e 69 
+67 65 72 61 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 
+6f 73 74 69 6c 65 2b 62 6d 61 39 39 39 39 00 27 80 d7 08 00 3c 00 00 8e 1d 00 53 4f 45 2b 4d 58 
+4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 43 68 72 79 6c 00 2a 80 d7 08 00 3c 00 00 8e 
+20 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 65 6e 74 69 6c 73 61 
+72 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 
+69 6c 65 2b 4d 65 64 61 6e 69 61 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 
+65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 4d 65 64 61 6e 6f 6e 00 28 80 d7 08 00 3c 00 00 8e 1e 
+00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 53 74 65 76 65 42 00 30 
+80 d7 08 00 3c 00 00 8e 26 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 
+2b 52 75 6e 6e 69 6e 67 57 69 6c 64 33 30 35 00 2d 80 d7 08 00 3c 00 00 8e 23 00 53 4f 45 2b 4d 
+58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 52 75 6e 6e 69 6e 67 77 69 6c 64 00 28 80 
+d7 08 00 3c 00 00 8e 1e 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 
+72 59 75 67 65 6e 00 
+....a..H|u...1^........7.K...Reservoir Dogs.Dark Brigadier.....:..el....TheAvenNigera...........
+....jA.....q..Duality......................]..darkhaz....Medanon.................q..Gelbe..Fq..H
+ighspeed..............{y..Asrai.......f...Songa.................BuSbY.......5r..Revolution......
+...J..zero17...............Cerione..........Grifix............r..Kinder des Zorns.xQuinn........
+........k...Partyanimal.OrpheIia..............-t..zions tac ops.ilahRose................./...ent
+ilsar.m3Dragon.....................GermanSoldiers..4R..Vtech01.............L..Symbi.eT..~-E.....
+.................@..u...K....!.....u.......2.....>...Reservoir Dogs....u...AfterWhoruNeo........
+.................Cherberus.............................TheAvenNigera......................U..L1z
+Z..................................Karthos...........................b...TheWhoruNeo............
+............v..Architekt...........................c./....<...%.SOE+MXO+Vector-Hostile+TheAvenNi
+gera.)....<.....SOE+MXO+Vector-Hostile+bma9999.'....<.....SOE+MXO+Vector-Hostile+Chryl.*....<...
+ .SOE+MXO+Vector-Hostile+entilsar.)....<.....SOE+MXO+Vector-Hostile+Medania.)....<.....SOE+MXO+V
+ector-Hostile+Medanon.(....<.....SOE+MXO+Vector-Hostile+SteveB.0....<...&.SOE+MXO+Vector-Hostile
++RunningWild305.-....<...#.SOE+MXO+Vector-Hostile+Runningwild.(....<.....SOE+MXO+Vector-Hostile+
+rYugen.
+
+GAME->Client [13:55:13 07/28/09] packet size: 276 CRYPTED, Flags: 0 ServerSeq: 4 ClientSeq: 0
+02 04 01 00 6d 06 2b 80 d7 08 00 3c 00 00 8e 21 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 
+48 6f 73 74 69 6c 65 2b 41 72 6d 69 6e 61 74 6f 72 00 33 80 d7 08 00 3c 00 00 8e 29 00 53 4f 45 
+2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 43 53 52 5f 42 52 45 57 4b 4f 5f 56 
+45 43 54 4f 52 00 2b 80 d7 08 00 3c 00 00 8e 21 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 
+48 6f 73 74 69 6c 65 2b 41 72 63 68 69 74 65 6b 74 00 2c 80 d7 08 00 3c 00 00 8e 22 00 53 4f 45 
+2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 50 6f 72 70 68 79 72 69 6f 6e 00 2a 
+80 d7 08 00 3c 00 00 8e 20 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 
+2b 68 41 6e 66 73 41 41 74 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 
+74 6f 72 2d 48 6f 73 74 69 6c 65 2b 43 65 63 69 6c 69 61 00 
+....m.+....<...!.SOE+MXO+Vector-Hostile+Arminator.3....<...).SOE+MXO+Vector-Hostile+CSR_BREWKO_V
+ECTOR.+....<...!.SOE+MXO+Vector-Hostile+Architekt.,....<...".SOE+MXO+Vector-Hostile+Porphyrion.*
+....<... .SOE+MXO+Vector-Hostile+hAnfsAAt.)....<.....SOE+MXO+Vector-Hostile+Cecilia.
+
+GAME->Client [13:55:13 07/28/09] packet size: 1050 CRYPTED, Flags: 0 ServerSeq: 5 ClientSeq: 0
+82 29 bd d3 48 04 01 00 00 31 71 06 0e 00 01 00 00 00 f5 bc d3 48 01 44 00 34 00 72 65 73 6f 75 
+72 63 65 2f 77 6f 72 6c 64 73 2f 66 69 6e 61 6c 5f 77 6f 72 6c 64 2f 73 6c 75 6d 73 5f 62 61 72 
+72 65 6e 73 5f 66 75 6c 6c 2e 6d 65 74 72 00 2b 00 48 61 6c 6c 6f 77 65 65 6e 5f 45 76 65 6e 74 
+2c 57 69 6e 74 65 72 33 48 61 6c 6c 6f 77 65 65 6e 46 6c 79 45 79 65 54 53 45 43 00 0a 80 e5 e7 
+cb c0 12 00 00 00 00 0a 80 e4 34 af 46 e4 00 00 00 00 08 80 b2 4e 00 08 00 08 02 08 80 b2 52 00 
+1e 00 08 02 08 80 b2 54 00 0d 00 08 02 08 80 b2 4f 00 08 00 08 02 08 80 b2 51 00 1e 00 08 02 08 
+80 b2 11 00 32 00 08 02 16 80 bc 45 03 11 00 00 02 00 00 00 11 00 32 00 00 00 00 00 00 00 00 16 
+80 bc 45 00 02 00 00 02 00 00 00 cc 00 0c 00 00 00 00 00 00 00 00 16 80 bc 45 00 03 00 00 0b 00 
+00 00 37 02 96 00 00 00 00 00 00 00 00 16 80 bc 45 00 04 00 00 2d 00 00 00 23 04 0a 00 00 00 00 
+00 00 00 00 16 80 bc 45 00 05 00 00 2d 00 00 00 20 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 
+06 00 00 2d 00 00 00 19 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 07 00 00 2d 00 00 00 42 04 
+05 00 00 00 00 00 00 00 00 16 80 bc 45 00 08 00 00 34 00 00 00 83 02 c8 00 00 00 00 00 00 00 00 
+08 80 b2 36 04 00 00 08 02 16 80 bc 45 03 36 04 00 40 00 00 00 36 04 00 00 00 00 00 00 00 00 00 
+16 80 bc 45 00 09 00 00 40 00 00 00 7b 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 0a 00 00 49 
+00 00 00 e3 03 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 0b 00 00 49 00 00 00 7b 04 0e 00 00 00 
+00 00 00 00 00 16 80 bc 45 00 0c 00 00 4c 00 00 00 15 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 
+00 0d 00 00 4c 00 00 00 06 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 00 0e 00 00 4c 00 00 00 19 
+04 07 00 00 00 00 00 00 00 00 16 80 bc 45 00 0f 00 00 53 00 00 00 15 04 01 00 00 00 00 00 00 00 
+00 16 80 bc 45 00 10 00 00 53 00 00 00 19 04 01 00 00 00 00 00 00 00 00 08 80 b2 3a 04 00 00 08 
+02 16 80 bc 45 03 3a 04 00 53 00 00 00 3a 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 11 00 00 
+53 00 00 00 06 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 12 00 00 5f 00 00 00 7c 04 0f 00 00 
+00 00 00 00 00 00 16 80 bc 45 00 13 00 00 5f 00 00 00 07 04 0f 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 14 00 00 62 00 00 00 06 04 01 00 00 00 00 00 00 00 00 08 80 b2 35 04 00 00 08 02 16 80 bc 
+45 03 35 04 00 62 00 00 00 35 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 15 00 00 62 00 00 00 
+15 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 16 00 00 35 01 00 00 07 04 03 00 00 00 00 00 00 
+00 00 16 80 bc 45 00 17 00 00 35 01 00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 18 00 
+00 35 01 00 00 42 04 0a 00 00 00 00 00 00 00 00 08 80 b2 3b 04 00 00 08 02 16 80 bc 45 03 3b 04 
+00 36 01 00 00 3b 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 19 00 00 36 01 00 00 07 04 01 00 
+00 00 00 00 00 00 00 16 80 bc 45 00 1a 00 00 48 01 00 00 77 04 05 00 00 00 00 00 00 00 00 16 80 
+bc 45 00 1b 00 00 48 01 00 00 03 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 1c 00 00 48 01 00 
+00 76 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 1d 00 00 48 01 00 00 e4 03 0a 00 00 00 00 00 
+00 00 00 16 80 bc 45 00 1e 00 00 48 01 00 00 7c 04 0a 00 00 00 00 00 00 00 00 08 80 b2 3c 04 00 
+00 08 02 16 80 bc 45 03 3c 04 00 4e 01 00 00 3c 04 00 00 00 00 00 00 00 00 00 
+.)..H....1q..........H.D.4.resource/worlds/final_world/slums_barrens_full.metr.+.Halloween_Event
+,Winter3HalloweenFlyEyeTSEC...............4.F........N........R........T........O........Q......
+....2......E..........2...........E......................E........7.............E....-...#......
+.......E....-... .............E....-.................E....-...B.............E....4..............
+...6........E.6..@...6.............E....@...{.............E....I.................E....I...{.....
+........E....L.................E....L.................E....L.................E....S.............
+....E....S.................:........E.:..S...:.............E....S.................E...._...|....
+.........E...._.................E....b.................5........E.5..b...5.............E....b...
+..............E....5.................E....5.................E....5...B.............;........E.;.
+.6...;.............E....6.................E....H...w.............E....H.................E....H..
+.v.............E....H.................E....H...|.............<........E.<..N...<..........
+
+GAME->Client [13:55:13 07/28/09] packet size: 633 CRYPTED, Flags: 0 ServerSeq: 6 ClientSeq: 0
+02 04 03 00 31 0c 16 80 bc 45 00 1f 00 00 4e 01 00 00 07 04 05 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 20 00 00 5d 01 00 00 7b 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 21 00 00 5d 01 00 00 
+20 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 22 00 00 d7 01 00 00 23 04 0f 00 00 00 00 00 00 
+00 00 16 80 bc 45 00 23 00 00 d7 01 00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 24 00 
+00 36 02 00 00 37 02 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 25 00 00 74 02 00 00 34 02 1e 00 
+00 00 00 00 00 00 00 16 80 bc 56 00 26 00 00 c5 a7 00 00 7e 02 16 00 00 00 00 00 00 00 00 16 80 
+bc 56 00 27 00 00 c5 a7 00 00 cc 00 19 00 00 00 00 00 00 00 00 16 80 bc 56 00 28 00 00 c5 a7 00 
+00 41 02 28 00 00 00 00 00 00 00 00 16 80 bc 56 00 29 00 00 c5 a7 00 00 09 04 16 00 00 00 00 00 
+00 00 00 16 80 bc 56 00 2a 00 00 c5 a7 00 00 16 04 01 00 00 00 00 00 00 00 00 00 3d 06 16 80 bc 
+56 00 2b 00 00 95 b7 00 00 b4 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2c 00 00 95 b7 00 00 
+09 04 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2d 00 00 95 b7 00 00 9d 00 16 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 2e 00 00 95 b7 00 00 b5 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2f 00 
+00 24 b3 00 00 89 02 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 30 00 00 24 b3 00 00 1a 04 01 00 
+00 00 00 00 00 00 00 00 43 09 16 80 bc 56 00 31 00 00 24 b3 00 00 b4 00 21 00 00 00 00 00 00 00 
+00 16 80 bc 56 00 32 00 00 24 b3 00 00 09 04 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 33 00 00 
+24 b3 00 00 15 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 34 00 00 24 b3 00 00 b5 00 21 00 00 
+00 00 00 00 00 00 16 80 bc 56 00 35 00 00 95 a7 00 00 b4 00 12 00 00 00 00 00 00 00 00 16 80 bc 
+56 00 36 00 00 95 a7 00 00 b5 00 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 37 00 00 95 a7 00 00 
+09 04 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 38 00 00 95 a7 00 00 70 00 0f 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 39 00 00 2c b3 00 00 17 04 01 00 00 00 00 00 00 00 00 
+....1....E....N.................E. ..]...{.............E.!..]... .............E."......#........
+.....E.#....................E.$..6...7.............E.%..t...4.............V.&......~............
+.V.'....................V.(......A.(...........V.)....................V.*..................=....
+V.+....................V.,....................V.-....................V......................V./.
+.$.................V.0..$...............C....V.1..$.....!...........V.2..$.....!...........V.3..
+$.................V.4..$.....!...........V.5....................V.6....................V.7......
+..............V.8......p.............V.9..,..............
+
+Client->GAME [13:55:14 07/28/09] packet size: 6 CRYPTED, Flags: 1 ServerSeq: 1 ClientSeq: 1
+02 05 02 0c 00 00 
+......
+
+GAME->Client [13:55:14 07/28/09] packet size: 121 CRYPTED, Flags: 0 ServerSeq: 7 ClientSeq: 0
+02 04 01 00 4c 05 16 80 bc 56 00 3a 00 00 2c b3 00 00 b4 00 21 00 00 00 00 00 00 00 00 16 80 bc 
+56 00 3b 00 00 2c b3 00 00 09 04 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 3c 00 00 2c b3 00 00 
+12 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 3d 00 00 2c b3 00 00 07 04 02 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 3e 00 00 2c b3 00 00 b5 00 21 00 00 00 00 00 00 00 00 
+....L....V.:..,.....!...........V.;..,.....!...........V.<..,.................V.=..,............
+.....V.>..,.....!........
+
+GAME->Client [13:55:14 07/28/09] packet size: 144 CRYPTED, Flags: 1 ServerSeq: 8 ClientSeq: 1
+02 04 01 00 51 06 16 80 bc 56 00 3f 00 00 c3 b2 00 00 89 02 02 00 00 00 00 00 00 00 00 16 80 bc 
+56 00 40 00 00 c3 b2 00 00 21 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 41 00 00 c3 b2 00 00 
+b4 00 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 42 00 00 c3 b2 00 00 09 04 1f 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 43 00 00 c3 b2 00 00 1e 04 01 00 00 00 00 00 00 00 00 16 80 bc 56 00 44 00 
+00 c3 b2 00 00 9d 00 1f 00 00 00 00 00 00 00 00 
+....Q....V.?....................V.@......!.............V.A....................V.B...............
+.....V.C....................V.D.................
+
+GAME->Client [13:55:15 07/28/09] packet size: 148 CRYPTED, Flags: 1 ServerSeq: 9 ClientSeq: 1
+82 5e bd d3 48 04 01 00 57 06 16 80 bc 15 00 45 00 00 f7 03 00 00 08 02 00 00 00 00 00 00 00 00 
+00 16 80 bc 15 00 46 00 00 f7 03 00 00 07 02 ec ff ff ff 00 00 00 00 00 16 80 bc 15 00 47 00 00 
+f7 03 00 00 50 04 00 00 00 00 00 00 00 00 00 16 80 bc 15 00 48 00 00 f7 03 00 00 f4 03 00 00 00 
+00 00 00 00 00 00 16 80 bc 15 00 49 00 00 f7 03 00 00 51 04 f6 ff ff ff 00 00 00 00 00 16 80 bc 
+15 00 4a 00 00 f7 03 00 00 52 04 0f 00 00 00 00 00 00 00 00 
+.^..H...W......E......................F......................G......P...............H...........
+...........I......Q...............J......R..........
+
+Client->GAME [13:55:15 07/28/09] packet size: 8 CRYPTED, Flags: 3 ServerSeq: 2 ClientSeq: 2
+02 04 01 00 00 01 01 05 
+........
+
+Client->GAME [13:55:15 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 9 ClientSeq: 3
+02 
+.
+
+GAME->Client [13:55:15 07/28/09] packet size: 264 CRYPTED, Flags: 7 ServerSeq: 10 ClientSeq: 3
+02 03 01 00 0c 0c 00 7c cd ab 1a 8b 81 ff 73 02 00 00 41 6e 64 65 72 73 6f 6e 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 54 68 6f 6d 61 73 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 98 28 0a 25 8e 81 ff f7 00 31 5e 00 
+00 c6 67 00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 28 0a fd 4e 01 00 00 67 00 75 d4 01 00 4b b1 00 00 00 00 23 1a e9 90 80 b0 04 02 02 
+8e 00 00 00 f7 00 9d 00 00 00 c0 bc 85 f0 c0 00 00 00 00 00 c0 57 40 00 00 00 00 40 07 d0 40 81 
+ff 32 22 80 88 a1 1c 01 00 10 00 00 67 00 02 00 00 00 00 04 01 00 5d 01 2f 47 00 00 04 01 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 1a 00 06 00 00 00 01 00 00 00 00 01 01 00 00 00 00 00 80 
+00 00 00 00 00 00 00 00 
+.......|......s...Anderson.........................Thomas............................(.%.....1^.
+..g.AfterWhoruNeo...................(..N...g.u...K.....#.............................W@....@..@.
+.2".........g.........]./G..............................................
+
+GAME->Client [13:55:16 07/28/09] packet size: 119 CRYPTED, Flags: 7 ServerSeq: 11 ClientSeq: 3
+02 04 02 00 5e 01 24 2e 07 00 00 00 00 00 00 00 00 00 00 00 59 00 00 2e 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 5f 01 48 81 a9 00 00 07 00 05 3f 00 68 74 74 70 3a 2f 2f 74 
+68 65 6d 61 74 72 69 78 6f 6e 6c 69 6e 65 2e 73 74 61 74 69 6f 6e 2e 73 6f 6e 79 2e 63 6f 6d 2f 
+70 72 6f 63 65 73 73 46 6c 61 73 68 54 72 61 66 66 69 63 2e 76 6d 00 
+....^.$.............Y......................._.H.......?.http://thematrixonline.station.sony.com/
+processFlashTraffic.vm.
+
+GAME->Client [13:55:16 07/28/09] packet size: 76 CRYPTED, Flags: 7 ServerSeq: 12 ClientSeq: 3
+02 04 01 00 60 01 45 7c 75 d4 01 00 31 5e 00 00 01 00 00 01 0f 00 34 00 01 54 68 65 20 44 75 61 
+6c 69 74 79 00 f9 01 fb 01 0f 00 44 61 72 6b 20 42 72 69 67 61 64 69 65 72 00 0c 00 00 b0 3a 00 
+00 65 6c 02 be cc 01 00 66 a9 56 03 
+....`.E|u...1^........4..The Duality.......Dark Brigadier.....:..el.....f.V.
+
+GAME->Client [13:55:17 07/28/09] packet size: 596 CRYPTED, Flags: 7 ServerSeq: 13 ClientSeq: 3
+82 92 bd d3 48 04 01 00 61 01 82 48 7c 75 d4 01 00 31 5e 00 00 02 00 01 02 0f 00 37 02 4b b1 00 
+00 52 65 73 65 72 76 6f 69 72 20 44 6f 67 73 00 44 61 72 6b 20 42 72 69 67 61 64 69 65 72 00 0c 
+00 00 b0 3a 00 00 65 6c 93 f5 01 00 54 68 65 41 76 65 6e 4e 69 67 65 72 61 00 00 00 00 00 00 00 
+00 00 00 00 00 00 01 00 6a 41 00 00 00 02 13 71 00 00 44 75 61 6c 69 74 79 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 5d 00 00 64 61 72 6b 68 61 7a be cc 01 00 4d 65 64 
+61 6e 6f 6e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d5 71 00 00 47 65 6c 62 65 00 01 46 
+71 00 00 48 69 67 68 73 70 65 65 64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7b 79 00 00 41 73 
+72 61 69 00 00 00 00 00 00 00 66 ec 01 00 53 6f 6e 67 61 00 00 00 00 00 00 00 00 00 00 00 00 00 
+c4 e6 01 00 42 75 53 62 59 00 00 00 00 00 00 02 35 72 00 00 52 65 76 6f 6c 75 74 69 6f 6e 00 00 
+00 00 00 00 00 00 cf 4a 02 00 7a 65 72 6f 31 37 00 00 00 00 00 00 00 00 00 00 00 bc d2 01 00 43 
+65 72 69 6f 6e 65 00 00 00 00 00 00 ec de 02 00 47 72 69 66 69 78 00 00 00 00 00 00 00 00 00 00 
+03 c6 72 00 00 4b 69 6e 64 65 72 20 64 65 73 20 5a 6f 72 6e 73 00 78 51 75 69 6e 6e 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 6b db 01 00 50 61 72 74 79 61 6e 69 6d 61 6c 00 4f 72 70 68 
+65 49 69 61 00 00 00 00 00 00 00 00 00 00 00 00 00 03 2d 74 00 00 7a 69 6f 6e 73 20 74 61 63 20 
+6f 70 73 00 69 6c 61 68 52 6f 73 65 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2f d8 01 
+00 65 6e 74 69 6c 73 61 72 00 6d 33 44 72 61 67 6f 6e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 01 02 a4 00 00 47 65 72 6d 61 6e 53 6f 6c 64 69 65 72 73 00 00 34 52 02 00 56 74 65 63 68 
+30 31 00 00 00 00 00 00 00 00 00 00 00 00 86 4c 02 00 53 79 6d 62 69 00 65 54 00 a4 7e 2d 45 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 
+....H...a..H|u...1^........7.K...Reservoir Dogs.Dark Brigadier.....:..el....TheAvenNigera.......
+........jA.....q..Duality......................]..darkhaz....Medanon.................q..Gelbe..F
+q..Highspeed..............{y..Asrai.......f...Songa.................BuSbY.......5r..Revolution..
+.......J..zero17...............Cerione..........Grifix............r..Kinder des Zorns.xQuinn....
+............k...Partyanimal.OrpheIia..............-t..zions tac ops.ilahRose................./..
+.entilsar.m3Dragon.....................GermanSoldiers..4R..Vtech01.............L..Symbi.eT..~-E.
+....................
+
+GAME->Client [13:55:17 07/28/09] packet size: 328 CRYPTED, Flags: 7 ServerSeq: 14 ClientSeq: 3
+02 04 01 00 62 01 81 40 80 86 75 d4 01 00 4b b1 00 00 01 21 00 93 f5 01 00 75 d4 01 00 00 00 00 
+00 32 00 14 02 00 00 3e 01 0f 00 52 65 73 65 72 76 6f 69 72 20 44 6f 67 73 00 07 00 00 75 d4 01 
+00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 01 00 99 10 01 00 43 68 65 72 62 65 72 75 73 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 93 f5 01 00 54 68 65 41 76 65 6e 4e 69 67 65 72 61 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ee 55 02 00 4c 31 7a 5a 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c2 98 02 00 4b 61 72 74 68 6f 73 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 62 f9 02 00 54 
+68 65 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 f9 76 04 00 41 72 63 68 69 74 65 6b 74 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 
+....b..@..u...K....!.....u.......2.....>...Reservoir Dogs....u...AfterWhoruNeo..................
+.......Cherberus.............................TheAvenNigera......................U..L1zZ.........
+.........................Karthos...........................b...TheWhoruNeo......................
+..v..Architekt..........................
+
+GAME->Client [13:55:18 07/28/09] packet size: 264 CRYPTED, Flags: 7 ServerSeq: 15 ClientSeq: 3
+02 03 01 00 0c 0c 00 7c cd ab 1a 8b 81 ff 73 02 00 00 41 6e 64 65 72 73 6f 6e 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 54 68 6f 6d 61 73 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 98 28 0a 25 8e 81 ff f7 00 31 5e 00 
+00 c6 67 00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 28 0a fd 4e 01 00 00 67 00 75 d4 01 00 4b b1 00 00 00 00 23 1a e9 90 80 b0 04 02 02 
+8e 00 00 00 f7 00 9d 00 00 00 c0 bc 85 f0 c0 00 00 00 00 00 c0 57 40 00 00 00 00 40 07 d0 40 81 
+ff 32 22 80 88 a1 1c 01 00 10 00 00 67 00 02 00 00 00 00 04 01 00 63 01 2f 80 d7 08 00 3c 00 00 
+8e 25 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 54 68 65 41 76 65 
+6e 4e 69 67 65 72 61 00 
+.......|......s...Anderson.........................Thomas............................(.%.....1^.
+..g.AfterWhoruNeo...................(..N...g.u...K.....#.............................W@....@..@.
+.2".........g.........c./....<...%.SOE+MXO+Vector-Hostile+TheAvenNigera.
+
+GAME->Client [13:55:18 07/28/09] packet size: 215 CRYPTED, Flags: 7 ServerSeq: 16 ClientSeq: 3
+02 04 01 00 64 05 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 
+48 6f 73 74 69 6c 65 2b 62 6d 61 39 39 39 39 00 27 80 d7 08 00 3c 00 00 8e 1d 00 53 4f 45 2b 4d 
+58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 43 68 72 79 6c 00 2a 80 d7 08 00 3c 00 00 
+8e 20 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 65 6e 74 69 6c 73 
+61 72 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 
+74 69 6c 65 2b 4d 65 64 61 6e 69 61 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 
+56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 4d 65 64 61 6e 6f 6e 00 
+....d.)....<.....SOE+MXO+Vector-Hostile+bma9999.'....<.....SOE+MXO+Vector-Hostile+Chryl.*....<..
+. .SOE+MXO+Vector-Hostile+entilsar.)....<.....SOE+MXO+Vector-Hostile+Medania.)....<.....SOE+MXO+
+Vector-Hostile+Medanon.
+
+GAME->Client [13:55:18 07/28/09] packet size: 100 CRYPTED, Flags: 7 ServerSeq: 17 ClientSeq: 3
+82 c6 bd d3 48 04 01 00 69 02 28 80 d7 08 00 3c 00 00 8e 1e 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 
+74 6f 72 2d 48 6f 73 74 69 6c 65 2b 53 74 65 76 65 42 00 30 80 d7 08 00 3c 00 00 8e 26 00 53 4f 
+45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 52 75 6e 6e 69 6e 67 57 69 6c 64 
+33 30 35 00 
+....H...i.(....<.....SOE+MXO+Vector-Hostile+SteveB.0....<...&.SOE+MXO+Vector-Hostile+RunningWild
+305.
+
+GAME->Client [13:55:18 07/28/09] packet size: 140 CRYPTED, Flags: 7 ServerSeq: 18 ClientSeq: 3
+02 04 02 00 6b 02 2d 80 d7 08 00 3c 00 00 8e 23 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 
+48 6f 73 74 69 6c 65 2b 52 75 6e 6e 69 6e 67 77 69 6c 64 00 28 80 d7 08 00 3c 00 00 8e 1e 00 53 
+4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 72 59 75 67 65 6e 00 00 6d 01 
+2b 80 d7 08 00 3c 00 00 8e 21 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 
+65 2b 41 72 6d 69 6e 61 74 6f 72 00 
+....k.-....<...#.SOE+MXO+Vector-Hostile+Runningwild.(....<.....SOE+MXO+Vector-Hostile+rYugen..m.
++....<...!.SOE+MXO+Vector-Hostile+Arminator.
+
+GAME->Client [13:55:19 07/28/09] packet size: 102 CRYPTED, Flags: 7 ServerSeq: 19 ClientSeq: 3
+02 04 01 00 6e 02 33 80 d7 08 00 3c 00 00 8e 29 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 
+48 6f 73 74 69 6c 65 2b 43 53 52 5f 42 52 45 57 4b 4f 5f 56 45 43 54 4f 52 00 2b 80 d7 08 00 3c 
+00 00 8e 21 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 41 72 63 68 
+69 74 65 6b 74 00 
+....n.3....<...).SOE+MXO+Vector-Hostile+CSR_BREWKO_VECTOR.+....<...!.SOE+MXO+Vector-Hostile+Arch
+itekt.
+
+GAME->Client [13:55:19 07/28/09] packet size: 261 CRYPTED, Flags: 7 ServerSeq: 20 ClientSeq: 3
+02 03 01 00 0c 0c 00 7c cd ab 1a 8b 81 ff 73 02 00 00 41 6e 64 65 72 73 6f 6e 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 90 54 68 6f 6d 61 73 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 98 28 0a 25 8e 81 ff f7 00 31 5e 00 
+00 c6 67 00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 28 0a fd 4e 01 00 00 67 00 75 d4 01 00 4b b1 00 00 00 00 23 1a e9 90 80 b0 04 02 02 
+8e 00 00 00 f7 00 9d 00 00 00 c0 bc 85 f0 c0 00 00 00 00 00 c0 57 40 00 00 00 00 40 07 d0 40 81 
+ff 32 22 80 88 a1 1c 01 00 10 00 00 67 00 02 00 00 00 00 04 01 00 70 01 2c 80 d7 08 00 3c 00 00 
+8e 22 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 50 6f 72 70 68 79 
+72 69 6f 6e 00 
+.......|......s...Anderson.........................Thomas............................(.%.....1^.
+..g.AfterWhoruNeo...................(..N...g.u...K.....#.............................W@....@..@.
+.2".........g.........p.,....<...".SOE+MXO+Vector-Hostile+Porphyrion.
+
+GAME->Client [13:55:20 07/28/09] packet size: 95 CRYPTED, Flags: 7 ServerSeq: 21 ClientSeq: 3
+82 fa bd d3 48 04 01 00 71 02 2a 80 d7 08 00 3c 00 00 8e 20 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 
+74 6f 72 2d 48 6f 73 74 69 6c 65 2b 68 41 6e 66 73 41 41 74 00 29 80 d7 08 00 3c 00 00 8e 1f 00 
+53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 43 65 63 69 6c 69 61 00 
+....H...q.*....<... .SOE+MXO+Vector-Hostile+hAnfsAAt.)....<.....SOE+MXO+Vector-Hostile+Cecilia.
+
+Client->GAME [13:55:20 07/28/09] packet size: 55 CRYPTED, Flags: 7f ServerSeq: 10 ClientSeq: 4
+02 03 02 00 02 60 08 41 6e 64 65 72 73 6f 6e 06 54 68 6f 6d 61 73 00 00 04 01 00 01 05 02 80 be 
+07 3f 6b 00 00 00 00 00 08 3e 6b 00 10 00 00 00 00 02 81 48 02 0c 01 
+.....`.Anderson.Thomas...........?k......>k........H...
+
+Client->GAME [13:55:20 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 2 ClientSeq: 5
+02 
+.
+
+Client->GAME [13:55:20 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 5 ClientSeq: 6
+02 
+.
+
+GAME->Client [13:55:20 07/28/09] packet size: 715 CRYPTED, Flags: 3f ServerSeq: 22 ClientSeq: 6
+02 03 02 00 02 80 80 80 80 80 90 11 00 00 00 01 00 00 00 01 01 00 08 9f 01 10 00 f0 34 f9 cd ab 
+03 84 00 00 00 00 f3 04 35 3f 00 00 00 00 f3 04 35 3f 11 00 00 00 00 00 68 f0 c0 00 00 00 00 00 
+20 62 40 00 00 00 00 00 7e cd 40 ff ff ff ff 0f 00 00 01 00 08 50 02 81 08 f0 34 0d cd ab 02 09 
+00 00 00 c0 94 95 f0 c0 00 00 00 00 00 40 60 40 00 00 00 80 59 95 cf 40 00 00 00 00 e8 0d c8 3e 
+00 00 00 00 35 a6 6b 3f 0d 00 00 01 00 0c 14 a8 f8 cd ab 02 05 00 00 00 00 9a 99 59 bf 00 00 00 
+00 b8 1e 05 bf 00 00 00 00 40 6e f0 c0 00 00 00 00 00 c0 57 40 00 00 00 00 00 fa c9 40 0b 00 00 
+01 00 08 9c 1b 9b 08 f0 34 7f cd ab 02 09 00 00 00 00 dd c8 ef c0 00 00 00 00 00 c0 57 40 00 00 
+00 e0 45 a8 d2 40 00 00 00 00 7f 0d 72 3f 00 00 00 00 df b0 a6 3e 09 00 00 01 00 0c f7 bb fa cd 
+ab 02 05 00 00 00 00 8f c2 f5 be 00 00 00 00 52 b8 5e bf 00 00 00 00 40 6e f0 c0 00 00 00 00 00 
+c0 57 40 00 00 00 00 00 32 c9 40 07 00 00 01 00 08 db b5 9a 08 f0 34 98 cd ab 01 01 00 00 00 00 
+80 7e ef c0 00 00 00 80 0a bc 57 40 00 00 00 00 00 ad d1 40 05 00 00 01 00 0c 68 a7 fb cd ab 01 
+01 00 00 00 c0 1c 0d ef c0 00 00 00 80 14 6e 4a 40 00 00 00 20 f5 82 d0 40 03 00 00 00 00 04 01 
+00 00 0f 71 06 0e 00 01 00 00 00 f5 bc d3 48 01 44 00 34 00 72 65 73 6f 75 72 63 65 2f 77 6f 72 
+6c 64 73 2f 66 69 6e 61 6c 5f 77 6f 72 6c 64 2f 73 6c 75 6d 73 5f 62 61 72 72 65 6e 73 5f 66 75 
+6c 6c 2e 6d 65 74 72 00 2b 00 48 61 6c 6c 6f 77 65 65 6e 5f 45 76 65 6e 74 2c 57 69 6e 74 65 72 
+33 48 61 6c 6c 6f 77 65 65 6e 46 6c 79 45 79 65 54 53 45 43 00 0a 80 e5 e7 cb c0 12 00 00 00 00 
+0a 80 e4 34 af 46 e4 00 00 00 00 08 80 b2 4e 00 08 00 08 02 08 80 b2 52 00 1e 00 08 02 08 80 b2 
+54 00 0d 00 08 02 08 80 b2 4f 00 08 00 08 02 08 80 b2 51 00 1e 00 08 02 08 80 b2 11 00 32 00 08 
+02 16 80 bc 45 03 11 00 00 02 00 00 00 11 00 32 00 00 00 00 00 00 00 00 16 80 bc 45 00 02 00 00 
+02 00 00 00 cc 00 0c 00 00 00 00 00 00 00 00 16 80 bc 45 00 03 00 00 0b 00 00 00 37 02 96 00 00 
+00 00 00 00 00 00 16 80 bc 45 00 04 00 00 2d 00 00 00 23 04 0a 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 05 00 00 2d 00 00 00 20 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 06 00 00 2d 00 00 00 
+19 04 05 00 00 00 00 00 00 00 00 
+............................4...........5?......5?......h....... b@.....~.@..........P....4.....
+.............@`@....Y..@.......>....5.k?...................Y.............@n........W@.......@...
+........4...................W@....E..@......r?.......>.........................R.^.....@n.......
+.W@.....2.@...........4..........~........W@.......@......h...................nJ@... ...@.......
+...q..........H.D.4.resource/worlds/final_world/slums_barrens_full.metr.+.Halloween_Event,Winter
+3HalloweenFlyEyeTSEC...............4.F........N........R........T........O........Q..........2..
+....E..........2...........E......................E........7.............E....-...#.............
+E....-... .............E....-..............
+
+Client->GAME [13:55:20 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 6 ClientSeq: 7
+02 
+.
+
+GAME->Client [13:55:20 07/28/09] packet size: 695 CRYPTED, Flags: 3f ServerSeq: 23 ClientSeq: 6
+02 04 01 00 0f 21 16 80 bc 45 00 07 00 00 2d 00 00 00 42 04 05 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 08 00 00 34 00 00 00 83 02 c8 00 00 00 00 00 00 00 00 08 80 b2 36 04 00 00 08 02 16 80 bc 
+45 03 36 04 00 40 00 00 00 36 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 09 00 00 40 00 00 00 
+7b 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 0a 00 00 49 00 00 00 e3 03 05 00 00 00 00 00 00 
+00 00 16 80 bc 45 00 0b 00 00 49 00 00 00 7b 04 0e 00 00 00 00 00 00 00 00 16 80 bc 45 00 0c 00 
+00 4c 00 00 00 15 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 00 0d 00 00 4c 00 00 00 06 04 0b 00 
+00 00 00 00 00 00 00 16 80 bc 45 00 0e 00 00 4c 00 00 00 19 04 07 00 00 00 00 00 00 00 00 16 80 
+bc 45 00 0f 00 00 53 00 00 00 15 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 10 00 00 53 00 00 
+00 19 04 01 00 00 00 00 00 00 00 00 08 80 b2 3a 04 00 00 08 02 16 80 bc 45 03 3a 04 00 53 00 00 
+00 3a 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 00 11 00 00 53 00 00 00 06 04 01 00 00 00 00 00 
+00 00 00 16 80 bc 45 00 12 00 00 5f 00 00 00 7c 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 13 
+00 00 5f 00 00 00 07 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 14 00 00 62 00 00 00 06 04 01 
+00 00 00 00 00 00 00 00 08 80 b2 35 04 00 00 08 02 16 80 bc 45 03 35 04 00 62 00 00 00 35 04 00 
+00 00 00 00 00 00 00 00 16 80 bc 45 00 15 00 00 62 00 00 00 15 04 01 00 00 00 00 00 00 00 00 16 
+80 bc 45 00 16 00 00 35 01 00 00 07 04 03 00 00 00 00 00 00 00 00 16 80 bc 45 00 17 00 00 35 01 
+00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 18 00 00 35 01 00 00 42 04 0a 00 00 00 00 
+00 00 00 00 08 80 b2 3b 04 00 00 08 02 16 80 bc 45 03 3b 04 00 36 01 00 00 3b 04 00 00 00 00 00 
+00 00 00 00 16 80 bc 45 00 19 00 00 36 01 00 00 07 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 
+1a 00 00 48 01 00 00 77 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 1b 00 00 48 01 00 00 03 04 
+05 00 00 00 00 00 00 00 00 16 80 bc 45 00 1c 00 00 48 01 00 00 76 04 0a 00 00 00 00 00 00 00 00 
+16 80 bc 45 00 1d 00 00 48 01 00 00 e4 03 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 1e 00 00 48 
+01 00 00 7c 04 0a 00 00 00 00 00 00 00 00 08 80 b2 3c 04 00 00 08 02 
+.....!...E....-...B.............E....4.................6........E.6..@...6.............E....@...
+{.............E....I.................E....I...{.............E....L.................E....L.......
+..........E....L.................E....S.................E....S.................:........E.:..S..
+.:.............E....S.................E...._...|.............E...._.................E....b......
+...........5........E.5..b...5.............E....b.................E....5.................E....5.
+................E....5...B.............;........E.;..6...;.............E....6.................E.
+...H...w.............E....H.................E....H...v.............E....H.................E....H
+...|.............<.....
+
+Client->GAME [13:55:20 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 7 ClientSeq: 8
+02 
+.
+
+GAME->Client [13:55:20 07/28/09] packet size: 710 CRYPTED, Flags: 3f ServerSeq: 24 ClientSeq: 6
+02 04 05 00 30 01 16 80 bc 45 03 3c 04 00 4e 01 00 00 3c 04 00 00 00 00 00 00 00 00 00 00 31 0c 
+16 80 bc 45 00 1f 00 00 4e 01 00 00 07 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 20 00 00 5d 
+01 00 00 7b 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 21 00 00 5d 01 00 00 20 04 0f 00 00 00 
+00 00 00 00 00 16 80 bc 45 00 22 00 00 d7 01 00 00 23 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 
+00 23 00 00 d7 01 00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 24 00 00 36 02 00 00 37 
+02 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 25 00 00 74 02 00 00 34 02 1e 00 00 00 00 00 00 00 
+00 16 80 bc 56 00 26 00 00 c5 a7 00 00 7e 02 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 27 00 00 
+c5 a7 00 00 cc 00 19 00 00 00 00 00 00 00 00 16 80 bc 56 00 28 00 00 c5 a7 00 00 41 02 28 00 00 
+00 00 00 00 00 00 16 80 bc 56 00 29 00 00 c5 a7 00 00 09 04 16 00 00 00 00 00 00 00 00 16 80 bc 
+56 00 2a 00 00 c5 a7 00 00 16 04 01 00 00 00 00 00 00 00 00 00 3d 06 16 80 bc 56 00 2b 00 00 95 
+b7 00 00 b4 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2c 00 00 95 b7 00 00 09 04 16 00 00 00 
+00 00 00 00 00 16 80 bc 56 00 2d 00 00 95 b7 00 00 9d 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 
+00 2e 00 00 95 b7 00 00 b5 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2f 00 00 24 b3 00 00 89 
+02 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 30 00 00 24 b3 00 00 1a 04 01 00 00 00 00 00 00 00 
+00 00 43 09 16 80 bc 56 00 31 00 00 24 b3 00 00 b4 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 
+32 00 00 24 b3 00 00 09 04 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 33 00 00 24 b3 00 00 15 04 
+02 00 00 00 00 00 00 00 00 16 80 bc 56 00 34 00 00 24 b3 00 00 b5 00 21 00 00 00 00 00 00 00 00 
+16 80 bc 56 00 35 00 00 95 a7 00 00 b4 00 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 36 00 00 95 
+a7 00 00 b5 00 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 37 00 00 95 a7 00 00 09 04 12 00 00 00 
+00 00 00 00 00 16 80 bc 56 00 38 00 00 95 a7 00 00 70 00 0f 00 00 00 00 00 00 00 00 16 80 bc 56 
+00 39 00 00 2c b3 00 00 17 04 01 00 00 00 00 00 00 00 00 00 5d 01 2f 47 00 00 04 01 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 1a 00 06 00 00 00 01 00 00 00 00 01 01 00 00 00 00 00 80 00 00 
+00 00 00 00 00 00 
+....0....E.<..N...<...........1....E....N.................E. ..]...{.............E.!..]... .....
+........E."......#.............E.#....................E.$..6...7.............E.%..t...4.........
+....V.&......~.............V.'....................V.(......A.(...........V.)....................
+V.*..................=....V.+....................V.,....................V.-....................V
+......................V./..$.................V.0..$...............C....V.1..$.....!...........V.
+2..$.....!...........V.3..$.................V.4..$.....!...........V.5....................V.6...
+.................V.7....................V.8......p.............V.9..,...............]./G........
+......................................
+
+Client->GAME [13:55:20 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 8 ClientSeq: 9
+02 
+.
+
+GAME->Client [13:55:20 07/28/09] packet size: 192 CRYPTED, Flags: 7f ServerSeq: 25 ClientSeq: 8
+02 04 03 00 5e 01 24 2e 07 00 00 00 00 00 00 00 00 00 00 00 59 00 00 2e 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 5f 01 48 81 a9 00 00 07 00 05 3f 00 68 74 74 70 3a 2f 2f 74 
+68 65 6d 61 74 72 69 78 6f 6e 6c 69 6e 65 2e 73 74 61 74 69 6f 6e 2e 73 6f 6e 79 2e 63 6f 6d 2f 
+70 72 6f 63 65 73 73 46 6c 61 73 68 54 72 61 66 66 69 63 2e 76 6d 00 00 60 01 45 7c 75 d4 01 00 
+31 5e 00 00 01 00 00 01 0f 00 34 00 01 54 68 65 20 44 75 61 6c 69 74 79 00 f9 01 fb 01 0f 00 44 
+61 72 6b 20 42 72 69 67 61 64 69 65 72 00 0c 00 00 b0 3a 00 00 65 6c 02 be cc 01 00 66 a9 56 03 
+....^.$.............Y......................._.H.......?.http://thematrixonline.station.sony.com/
+processFlashTraffic.vm..`.E|u...1^........4..The Duality.......Dark Brigadier.....:..el.....f.V.
+
+Client->GAME [13:55:20 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 9 ClientSeq: 10
+02 
+.
+
+GAME->Client [13:55:20 07/28/09] packet size: 592 CRYPTED, Flags: 7f ServerSeq: 26 ClientSeq: 9
+02 04 01 00 61 01 82 48 7c 75 d4 01 00 31 5e 00 00 02 00 01 02 0f 00 37 02 4b b1 00 00 52 65 73 
+65 72 76 6f 69 72 20 44 6f 67 73 00 44 61 72 6b 20 42 72 69 67 61 64 69 65 72 00 0c 00 00 b0 3a 
+00 00 65 6c 93 f5 01 00 54 68 65 41 76 65 6e 4e 69 67 65 72 61 00 00 00 00 00 00 00 00 00 00 00 
+00 00 01 00 6a 41 00 00 00 02 13 71 00 00 44 75 61 6c 69 74 79 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 cd 5d 00 00 64 61 72 6b 68 61 7a be cc 01 00 4d 65 64 61 6e 6f 6e 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 d5 71 00 00 47 65 6c 62 65 00 01 46 71 00 00 48 
+69 67 68 73 70 65 65 64 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7b 79 00 00 41 73 72 61 69 00 
+00 00 00 00 00 00 66 ec 01 00 53 6f 6e 67 61 00 00 00 00 00 00 00 00 00 00 00 00 00 c4 e6 01 00 
+42 75 53 62 59 00 00 00 00 00 00 02 35 72 00 00 52 65 76 6f 6c 75 74 69 6f 6e 00 00 00 00 00 00 
+00 00 cf 4a 02 00 7a 65 72 6f 31 37 00 00 00 00 00 00 00 00 00 00 00 bc d2 01 00 43 65 72 69 6f 
+6e 65 00 00 00 00 00 00 ec de 02 00 47 72 69 66 69 78 00 00 00 00 00 00 00 00 00 00 03 c6 72 00 
+00 4b 69 6e 64 65 72 20 64 65 73 20 5a 6f 72 6e 73 00 78 51 75 69 6e 6e 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 6b db 01 00 50 61 72 74 79 61 6e 69 6d 61 6c 00 4f 72 70 68 65 49 69 61 
+00 00 00 00 00 00 00 00 00 00 00 00 00 03 2d 74 00 00 7a 69 6f 6e 73 20 74 61 63 20 6f 70 73 00 
+69 6c 61 68 52 6f 73 65 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 2f d8 01 00 65 6e 74 
+69 6c 73 61 72 00 6d 33 44 72 61 67 6f 6e 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 02 
+a4 00 00 47 65 72 6d 61 6e 53 6f 6c 64 69 65 72 73 00 00 34 52 02 00 56 74 65 63 68 30 31 00 00 
+00 00 00 00 00 00 00 00 00 00 86 4c 02 00 53 79 6d 62 69 00 65 54 00 a4 7e 2d 45 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 03 
+....a..H|u...1^........7.K...Reservoir Dogs.Dark Brigadier.....:..el....TheAvenNigera...........
+....jA.....q..Duality......................]..darkhaz....Medanon.................q..Gelbe..Fq..H
+ighspeed..............{y..Asrai.......f...Songa.................BuSbY.......5r..Revolution......
+...J..zero17...............Cerione..........Grifix............r..Kinder des Zorns.xQuinn........
+........k...Partyanimal.OrpheIia..............-t..zions tac ops.ilahRose................./...ent
+ilsar.m3Dragon.....................GermanSoldiers..4R..Vtech01.............L..Symbi.eT..~-E.....
+................
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 10 ClientSeq: 11
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 733 CRYPTED, Flags: 7f ServerSeq: 27 ClientSeq: 10
+02 04 05 00 62 01 81 40 80 86 75 d4 01 00 4b b1 00 00 01 21 00 93 f5 01 00 75 d4 01 00 00 00 00 
+00 32 00 14 02 00 00 3e 01 0f 00 52 65 73 65 72 76 6f 69 72 20 44 6f 67 73 00 07 00 00 75 d4 01 
+00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 01 00 99 10 01 00 43 68 65 72 62 65 72 75 73 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 93 f5 01 00 54 68 65 41 76 65 6e 4e 69 67 65 72 61 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ee 55 02 00 4c 31 7a 5a 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 c2 98 02 00 4b 61 72 74 68 6f 73 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 62 f9 02 00 54 
+68 65 57 68 6f 72 75 4e 65 6f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 f9 76 04 00 41 72 63 68 69 74 65 6b 74 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 63 01 2f 80 d7 08 00 3c 00 00 8e 25 00 53 4f 45 2b 4d 58 4f 2b 56 65 
+63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 54 68 65 41 76 65 6e 4e 69 67 65 72 61 00 00 64 05 29 80 
+d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 
+62 6d 61 39 39 39 39 00 27 80 d7 08 00 3c 00 00 8e 1d 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 
+72 2d 48 6f 73 74 69 6c 65 2b 43 68 72 79 6c 00 2a 80 d7 08 00 3c 00 00 8e 20 00 53 4f 45 2b 4d 
+58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 65 6e 74 69 6c 73 61 72 00 29 80 d7 08 00 
+3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 4d 65 64 
+61 6e 69 61 00 29 80 d7 08 00 3c 00 00 8e 1f 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 
+6f 73 74 69 6c 65 2b 4d 65 64 61 6e 6f 6e 00 00 69 02 28 80 d7 08 00 3c 00 00 8e 1e 00 53 4f 45 
+2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 53 74 65 76 65 42 00 30 80 d7 08 00 
+3c 00 00 8e 26 00 53 4f 45 2b 4d 58 4f 2b 56 65 63 74 6f 72 2d 48 6f 73 74 69 6c 65 2b 52 75 6e 
+6e 69 6e 67 57 69 6c 64 33 30 35 00 00 73 02 16 80 bc 45 00 02 00 00 02 00 00 00 cc 00 0c 00 00 
+00 00 00 00 00 00 16 80 bc 45 00 03 00 00 0b 00 00 00 37 02 96 00 00 00 00 00 00 00 00 
+....b..@..u...K....!.....u.......2.....>...Reservoir Dogs....u...AfterWhoruNeo..................
+.......Cherberus.............................TheAvenNigera......................U..L1zZ.........
+.........................Karthos...........................b...TheWhoruNeo......................
+..v..Architekt...........................c./....<...%.SOE+MXO+Vector-Hostile+TheAvenNigera..d.).
+...<.....SOE+MXO+Vector-Hostile+bma9999.'....<.....SOE+MXO+Vector-Hostile+Chryl.*....<... .SOE+M
+XO+Vector-Hostile+entilsar.)....<.....SOE+MXO+Vector-Hostile+Medania.)....<.....SOE+MXO+Vector-H
+ostile+Medanon..i.(....<.....SOE+MXO+Vector-Hostile+SteveB.0....<...&.SOE+MXO+Vector-Hostile+Run
+ningWild305..s....E......................E........7..........
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 11 ClientSeq: 12
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 696 CRYPTED, Flags: 7f ServerSeq: 28 ClientSeq: 11
+02 04 01 00 75 1e 16 80 bc 45 00 04 00 00 2d 00 00 00 23 04 0a 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 05 00 00 2d 00 00 00 20 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 06 00 00 2d 00 00 00 
+19 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 07 00 00 2d 00 00 00 42 04 05 00 00 00 00 00 00 
+00 00 16 80 bc 45 00 08 00 00 34 00 00 00 83 02 c8 00 00 00 00 00 00 00 00 16 80 bc 45 00 09 00 
+00 40 00 00 00 7b 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 0a 00 00 49 00 00 00 e3 03 05 00 
+00 00 00 00 00 00 00 16 80 bc 45 00 0b 00 00 49 00 00 00 7b 04 0e 00 00 00 00 00 00 00 00 16 80 
+bc 45 00 0c 00 00 4c 00 00 00 15 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 00 0d 00 00 4c 00 00 
+00 06 04 0b 00 00 00 00 00 00 00 00 16 80 bc 45 00 0e 00 00 4c 00 00 00 19 04 07 00 00 00 00 00 
+00 00 00 16 80 bc 45 00 0f 00 00 53 00 00 00 15 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 10 
+00 00 53 00 00 00 19 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 11 00 00 53 00 00 00 06 04 01 
+00 00 00 00 00 00 00 00 16 80 bc 45 00 12 00 00 5f 00 00 00 7c 04 0f 00 00 00 00 00 00 00 00 16 
+80 bc 45 00 13 00 00 5f 00 00 00 07 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 14 00 00 62 00 
+00 00 06 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 15 00 00 62 00 00 00 15 04 01 00 00 00 00 
+00 00 00 00 16 80 bc 45 00 16 00 00 35 01 00 00 07 04 03 00 00 00 00 00 00 00 00 16 80 bc 45 00 
+17 00 00 35 01 00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 18 00 00 35 01 00 00 42 04 
+0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 19 00 00 36 01 00 00 07 04 01 00 00 00 00 00 00 00 00 
+16 80 bc 45 00 1a 00 00 48 01 00 00 77 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 1b 00 00 48 
+01 00 00 03 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 1c 00 00 48 01 00 00 76 04 0a 00 00 00 
+00 00 00 00 00 16 80 bc 45 00 1d 00 00 48 01 00 00 e4 03 0a 00 00 00 00 00 00 00 00 16 80 bc 45 
+00 1e 00 00 48 01 00 00 7c 04 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 1f 00 00 4e 01 00 00 07 
+04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 20 00 00 5d 01 00 00 7b 04 05 00 00 00 00 00 00 00 
+00 16 80 bc 45 00 21 00 00 5d 01 00 00 20 04 0f 00 00 00 00 00 00 00 00 
+....u....E....-...#.............E....-... .............E....-.................E....-...B........
+.....E....4.................E....@...{.............E....I.................E....I...{............
+.E....L.................E....L.................E....L.................E....S.................E..
+..S.................E....S.................E...._...|.............E...._.................E....b.
+................E....b.................E....5.................E....5.................E....5...B.
+............E....6.................E....H...w.............E....H.................E....H...v.....
+........E....H.................E....H...|.............E....N.................E. ..]...{.........
+....E.!..]... ..........
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 12 ClientSeq: 13
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 696 CRYPTED, Flags: 7f ServerSeq: 29 ClientSeq: 12
+02 04 01 00 93 1e 16 80 bc 45 00 22 00 00 d7 01 00 00 23 04 0f 00 00 00 00 00 00 00 00 16 80 bc 
+45 00 23 00 00 d7 01 00 00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 24 00 00 36 02 00 00 
+37 02 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 25 00 00 74 02 00 00 34 02 1e 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 26 00 00 c5 a7 00 00 7e 02 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 27 00 
+00 c5 a7 00 00 cc 00 19 00 00 00 00 00 00 00 00 16 80 bc 56 00 28 00 00 c5 a7 00 00 41 02 28 00 
+00 00 00 00 00 00 00 16 80 bc 56 00 29 00 00 c5 a7 00 00 09 04 16 00 00 00 00 00 00 00 00 16 80 
+bc 56 00 2a 00 00 c5 a7 00 00 16 04 01 00 00 00 00 00 00 00 00 16 80 bc 56 00 2b 00 00 95 b7 00 
+00 b4 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2c 00 00 95 b7 00 00 09 04 16 00 00 00 00 00 
+00 00 00 16 80 bc 56 00 2d 00 00 95 b7 00 00 9d 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2e 
+00 00 95 b7 00 00 b5 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2f 00 00 24 b3 00 00 89 02 02 
+00 00 00 00 00 00 00 00 16 80 bc 56 00 30 00 00 24 b3 00 00 1a 04 01 00 00 00 00 00 00 00 00 16 
+80 bc 56 00 31 00 00 24 b3 00 00 b4 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 32 00 00 24 b3 
+00 00 09 04 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 33 00 00 24 b3 00 00 15 04 02 00 00 00 00 
+00 00 00 00 16 80 bc 56 00 34 00 00 24 b3 00 00 b5 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 
+35 00 00 95 a7 00 00 b4 00 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 36 00 00 95 a7 00 00 b5 00 
+12 00 00 00 00 00 00 00 00 16 80 bc 56 00 37 00 00 95 a7 00 00 09 04 12 00 00 00 00 00 00 00 00 
+16 80 bc 56 00 38 00 00 95 a7 00 00 70 00 0f 00 00 00 00 00 00 00 00 16 80 bc 56 00 39 00 00 2c 
+b3 00 00 17 04 01 00 00 00 00 00 00 00 00 16 80 bc 56 00 3a 00 00 2c b3 00 00 b4 00 21 00 00 00 
+00 00 00 00 00 16 80 bc 56 00 3b 00 00 2c b3 00 00 09 04 21 00 00 00 00 00 00 00 00 16 80 bc 56 
+00 3c 00 00 2c b3 00 00 12 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 3d 00 00 2c b3 00 00 07 
+04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 3e 00 00 2c b3 00 00 b5 00 21 00 00 00 00 00 00 00 
+00 16 80 bc 56 00 3f 00 00 c3 b2 00 00 89 02 02 00 00 00 00 00 00 00 00 
+.........E."......#.............E.#....................E.$..6...7.............E.%..t...4........
+.....V.&......~.............V.'....................V.(......A.(...........V.)...................
+.V.*....................V.+....................V.,....................V.-....................V..
+....................V./..$.................V.0..$.................V.1..$.....!...........V.2..$.
+....!...........V.3..$.................V.4..$.....!...........V.5....................V.6........
+............V.7....................V.8......p.............V.9..,.................V.:..,.....!...
+........V.;..,.....!...........V.<..,.................V.=..,.................V.>..,.....!.......
+....V.?.................
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 13 ClientSeq: 14
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 703 CRYPTED, Flags: 7f ServerSeq: 30 ClientSeq: 13
+82 1f be d3 48 04 02 00 b1 01 16 80 bc 56 00 40 00 00 c3 b2 00 00 21 04 02 00 00 00 00 00 00 00 
+00 00 b2 1d 16 80 bc 56 00 41 00 00 c3 b2 00 00 b4 00 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 
+42 00 00 c3 b2 00 00 09 04 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 43 00 00 c3 b2 00 00 1e 04 
+01 00 00 00 00 00 00 00 00 16 80 bc 56 00 44 00 00 c3 b2 00 00 9d 00 1f 00 00 00 00 00 00 00 00 
+16 80 bc 15 00 45 00 00 f7 03 00 00 08 02 00 00 00 00 00 00 00 00 00 16 80 bc 15 00 46 00 00 f7 
+03 00 00 07 02 ec ff ff ff 00 00 00 00 00 16 80 bc 15 00 47 00 00 f7 03 00 00 50 04 00 00 00 00 
+00 00 00 00 00 16 80 bc 15 00 48 00 00 f7 03 00 00 f4 03 00 00 00 00 00 00 00 00 00 16 80 bc 15 
+00 49 00 00 f7 03 00 00 51 04 f6 ff ff ff 00 00 00 00 00 16 80 bc 15 00 4a 00 00 f7 03 00 00 52 
+04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 03 11 00 00 02 00 00 00 11 00 32 00 00 00 00 00 00 00 
+00 16 80 bc 45 03 35 04 00 62 00 00 00 35 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 03 36 04 00 
+40 00 00 00 36 04 00 00 00 00 00 00 00 00 00 16 80 bc 45 03 3a 04 00 53 00 00 00 3a 04 00 00 00 
+00 00 00 00 00 00 16 80 bc 45 03 3b 04 00 36 01 00 00 3b 04 00 00 00 00 00 00 00 00 00 16 80 bc 
+45 03 3c 04 00 4e 01 00 00 3c 04 00 00 00 00 00 00 00 00 00 16 80 bc 56 00 26 00 00 c5 a7 00 00 
+7e 02 16 00 00 00 01 00 00 00 00 16 80 bc 56 00 27 00 00 c5 a7 00 00 cc 00 19 00 00 00 01 00 00 
+00 00 16 80 bc 56 00 28 00 00 c5 a7 00 00 41 02 28 00 00 00 01 00 00 00 00 16 80 bc 56 00 29 00 
+00 c5 a7 00 00 09 04 16 00 00 00 01 00 00 00 00 16 80 bc 56 00 2a 00 00 c5 a7 00 00 16 04 01 00 
+00 00 01 00 00 00 00 16 80 bc 56 00 4b 00 00 c5 a7 00 00 7e 02 16 00 00 00 00 00 00 00 00 16 80 
+bc 56 00 4c 00 00 c5 a7 00 00 cc 00 19 00 00 00 00 00 00 00 00 16 80 bc 56 00 4d 00 00 c5 a7 00 
+00 41 02 28 00 00 00 00 00 00 00 00 16 80 bc 56 00 4e 00 00 c5 a7 00 00 09 04 16 00 00 00 00 00 
+00 00 00 16 80 bc 56 00 4f 00 00 c5 a7 00 00 16 04 01 00 00 00 00 00 00 00 00 16 80 bc 56 00 2b 
+00 00 95 b7 00 00 b4 00 16 00 00 00 01 00 00 00 00 16 80 bc 56 00 2c 00 00 95 b7 00 00 09 04 16 
+00 00 00 01 00 00 00 00 16 80 bc 56 00 2d 00 00 95 b7 00 00 9d 00 16 00 00 00 01 00 00 00 00 
+....H........V.@......!................V.A....................V.B....................V.C........
+............V.D......................E......................F......................G......P.....
+..........H......................I......Q...............J......R.............E..........2.......
+....E.5..b...5.............E.6..@...6.............E.:..S...:.............E.;..6...;.............
+E.<..N...<.............V.&......~.............V.'....................V.(......A.(...........V.).
+...................V.*....................V.K......~.............V.L....................V.M.....
+.A.(...........V.N....................V.O....................V.+....................V.,.........
+...........V.-.................
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 14 ClientSeq: 15
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 696 CRYPTED, Flags: 7f ServerSeq: 31 ClientSeq: 14
+02 04 01 00 cf 1e 16 80 bc 56 00 2e 00 00 95 b7 00 00 b5 00 16 00 00 00 01 00 00 00 00 16 80 bc 
+56 00 50 00 00 95 b7 00 00 b4 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 51 00 00 95 b7 00 00 
+09 04 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 52 00 00 95 b7 00 00 9d 00 16 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 53 00 00 95 b7 00 00 b5 00 16 00 00 00 00 00 00 00 00 16 80 bc 56 00 2f 00 
+00 24 b3 00 00 89 02 02 00 00 00 01 00 00 00 00 16 80 bc 56 00 30 00 00 24 b3 00 00 1a 04 01 00 
+00 00 01 00 00 00 00 16 80 bc 56 00 31 00 00 24 b3 00 00 b4 00 21 00 00 00 01 00 00 00 00 16 80 
+bc 56 00 32 00 00 24 b3 00 00 09 04 21 00 00 00 01 00 00 00 00 16 80 bc 56 00 33 00 00 24 b3 00 
+00 15 04 02 00 00 00 01 00 00 00 00 16 80 bc 56 00 34 00 00 24 b3 00 00 b5 00 21 00 00 00 01 00 
+00 00 00 16 80 bc 56 00 54 00 00 24 b3 00 00 89 02 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 55 
+00 00 24 b3 00 00 1a 04 01 00 00 00 00 00 00 00 00 16 80 bc 56 00 56 00 00 24 b3 00 00 b4 00 21 
+00 00 00 00 00 00 00 00 16 80 bc 56 00 57 00 00 24 b3 00 00 09 04 21 00 00 00 00 00 00 00 00 16 
+80 bc 56 00 58 00 00 24 b3 00 00 15 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 59 00 00 24 b3 
+00 00 b5 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 35 00 00 95 a7 00 00 b4 00 12 00 00 00 01 
+00 00 00 00 16 80 bc 56 00 36 00 00 95 a7 00 00 b5 00 12 00 00 00 01 00 00 00 00 16 80 bc 56 00 
+37 00 00 95 a7 00 00 09 04 12 00 00 00 01 00 00 00 00 16 80 bc 56 00 38 00 00 95 a7 00 00 70 00 
+0f 00 00 00 01 00 00 00 00 16 80 bc 56 00 5a 00 00 95 a7 00 00 b4 00 12 00 00 00 00 00 00 00 00 
+16 80 bc 56 00 5b 00 00 95 a7 00 00 b5 00 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 5c 00 00 95 
+a7 00 00 09 04 12 00 00 00 00 00 00 00 00 16 80 bc 56 00 5d 00 00 95 a7 00 00 70 00 0f 00 00 00 
+00 00 00 00 00 16 80 bc 56 00 39 00 00 2c b3 00 00 17 04 01 00 00 00 01 00 00 00 00 16 80 bc 56 
+00 3a 00 00 2c b3 00 00 b4 00 21 00 00 00 01 00 00 00 00 16 80 bc 56 00 3b 00 00 2c b3 00 00 09 
+04 21 00 00 00 01 00 00 00 00 16 80 bc 56 00 3c 00 00 2c b3 00 00 12 04 02 00 00 00 01 00 00 00 
+00 16 80 bc 56 00 3d 00 00 2c b3 00 00 07 04 02 00 00 00 01 00 00 00 00 
+.........V......................V.P....................V.Q....................V.R...............
+.....V.S....................V./..$.................V.0..$.................V.1..$.....!..........
+.V.2..$.....!...........V.3..$.................V.4..$.....!...........V.T..$.................V.U
+..$.................V.V..$.....!...........V.W..$.....!...........V.X..$.................V.Y..$.
+....!...........V.5....................V.6....................V.7....................V.8......p.
+............V.Z....................V.[....................V.\....................V.]......p.....
+........V.9..,.................V.:..,.....!...........V.;..,.....!...........V.<..,.............
+....V.=..,..............
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 15 ClientSeq: 16
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 713 CRYPTED, Flags: 7f ServerSeq: 32 ClientSeq: 15
+02 04 02 00 ed 04 16 80 bc 56 00 3e 00 00 2c b3 00 00 b5 00 21 00 00 00 01 00 00 00 00 16 80 bc 
+56 00 5e 00 00 2c b3 00 00 17 04 01 00 00 00 00 00 00 00 00 16 80 bc 56 00 5f 00 00 2c b3 00 00 
+b4 00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 60 00 00 2c b3 00 00 09 04 21 00 00 00 00 00 00 
+00 00 00 f1 1c 16 80 bc 56 00 61 00 00 2c b3 00 00 12 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 
+00 62 00 00 2c b3 00 00 07 04 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 63 00 00 2c b3 00 00 b5 
+00 21 00 00 00 00 00 00 00 00 16 80 bc 56 00 3f 00 00 c3 b2 00 00 89 02 02 00 00 00 01 00 00 00 
+00 16 80 bc 56 00 40 00 00 c3 b2 00 00 21 04 02 00 00 00 01 00 00 00 00 16 80 bc 56 00 41 00 00 
+c3 b2 00 00 b4 00 1f 00 00 00 01 00 00 00 00 16 80 bc 56 00 42 00 00 c3 b2 00 00 09 04 1f 00 00 
+00 01 00 00 00 00 16 80 bc 56 00 43 00 00 c3 b2 00 00 1e 04 01 00 00 00 01 00 00 00 00 16 80 bc 
+56 00 44 00 00 c3 b2 00 00 9d 00 1f 00 00 00 01 00 00 00 00 16 80 bc 56 00 64 00 00 c3 b2 00 00 
+89 02 02 00 00 00 00 00 00 00 00 16 80 bc 56 00 65 00 00 c3 b2 00 00 21 04 02 00 00 00 00 00 00 
+00 00 16 80 bc 56 00 66 00 00 c3 b2 00 00 b4 00 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 67 00 
+00 c3 b2 00 00 09 04 1f 00 00 00 00 00 00 00 00 16 80 bc 56 00 68 00 00 c3 b2 00 00 1e 04 01 00 
+00 00 00 00 00 00 00 16 80 bc 56 00 69 00 00 c3 b2 00 00 9d 00 1f 00 00 00 00 00 00 00 00 04 80 
+b3 11 00 16 80 bc 45 03 11 00 00 02 00 00 00 11 00 32 00 00 00 01 00 00 00 00 16 80 bc 45 00 02 
+00 00 02 00 00 00 cc 00 0c 00 00 00 01 00 00 00 00 08 80 b2 11 00 32 00 08 02 16 80 bc 45 03 11 
+00 00 02 00 00 00 11 00 32 00 00 00 00 00 00 00 00 16 80 bc 55 00 6a 00 00 02 00 00 00 cc 00 0c 
+00 00 00 00 00 00 00 00 16 80 bc 45 00 03 00 00 0b 00 00 00 37 02 96 00 00 00 01 00 00 00 00 16 
+80 bc 55 00 6b 00 00 0b 00 00 00 37 02 96 00 00 00 00 00 00 00 00 16 80 bc 45 00 04 00 00 2d 00 
+00 00 23 04 0a 00 00 00 01 00 00 00 00 16 80 bc 45 00 05 00 00 2d 00 00 00 20 04 0a 00 00 00 01 
+00 00 00 00 16 80 bc 45 00 06 00 00 2d 00 00 00 19 04 05 00 00 00 01 00 00 00 00 16 80 bc 45 00 
+07 00 00 2d 00 00 00 42 04 05 00 00 00 01 00 00 00 00 16 80 bc 55 00 6c 00 00 2d 00 00 00 23 04 
+0a 00 00 00 00 00 00 00 00 
+.........V.>..,.....!...........V.^..,.................V._..,.....!...........V.`..,.....!......
+........V.a..,.................V.b..,.................V.c..,.....!...........V.?................
+....V.@......!.............V.A....................V.B....................V.C....................
+V.D....................V.d....................V.e......!.............V.f....................V.g.
+...................V.h....................V.i.........................E..........2...........E..
+......................2......E..........2...........U.j....................E........7...........
+..U.k......7.............E....-...#.............E....-... .............E....-.................E.
+...-...B.............U.l..-...#..........
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 0 ClientSeq: 17
+02 
+.
+
+GAME->Client [13:55:21 07/28/09] packet size: 701 CRYPTED, Flags: 7f ServerSeq: 33 ClientSeq: 0
+02 04 01 01 0d 21 16 80 bc 55 00 6d 00 00 2d 00 00 00 20 04 0a 00 00 00 00 00 00 00 00 16 80 bc 
+55 00 6e 00 00 2d 00 00 00 19 04 05 00 00 00 00 00 00 00 00 16 80 bc 55 00 6f 00 00 2d 00 00 00 
+42 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 08 00 00 34 00 00 00 83 02 c8 00 00 00 01 00 00 
+00 00 16 80 bc 55 00 70 00 00 34 00 00 00 83 02 c8 00 00 00 00 00 00 00 00 04 80 b3 36 04 16 80 
+bc 45 03 36 04 00 40 00 00 00 36 04 00 00 00 00 01 00 00 00 00 16 80 bc 45 00 09 00 00 40 00 00 
+00 7b 04 01 00 00 00 01 00 00 00 00 08 80 b2 36 04 00 00 08 02 16 80 bc 45 03 36 04 00 40 00 00 
+00 36 04 00 00 00 00 00 00 00 00 00 16 80 bc 55 00 71 00 00 40 00 00 00 7b 04 01 00 00 00 00 00 
+00 00 00 16 80 bc 45 00 0a 00 00 49 00 00 00 e3 03 05 00 00 00 01 00 00 00 00 16 80 bc 45 00 0b 
+00 00 49 00 00 00 7b 04 0e 00 00 00 01 00 00 00 00 16 80 bc 55 00 72 00 00 49 00 00 00 e3 03 05 
+00 00 00 00 00 00 00 00 16 80 bc 55 00 73 00 00 49 00 00 00 7b 04 0e 00 00 00 00 00 00 00 00 16 
+80 bc 45 00 0c 00 00 4c 00 00 00 15 04 0b 00 00 00 01 00 00 00 00 16 80 bc 45 00 0d 00 00 4c 00 
+00 00 06 04 0b 00 00 00 01 00 00 00 00 16 80 bc 45 00 0e 00 00 4c 00 00 00 19 04 07 00 00 00 01 
+00 00 00 00 16 80 bc 55 00 74 00 00 4c 00 00 00 15 04 0b 00 00 00 00 00 00 00 00 16 80 bc 55 00 
+75 00 00 4c 00 00 00 06 04 0b 00 00 00 00 00 00 00 00 16 80 bc 55 00 76 00 00 4c 00 00 00 19 04 
+07 00 00 00 00 00 00 00 00 16 80 bc 45 00 0f 00 00 53 00 00 00 15 04 01 00 00 00 01 00 00 00 00 
+16 80 bc 45 00 10 00 00 53 00 00 00 19 04 01 00 00 00 01 00 00 00 00 04 80 b3 3a 04 16 80 bc 45 
+03 3a 04 00 53 00 00 00 3a 04 00 00 00 00 01 00 00 00 00 16 80 bc 45 00 11 00 00 53 00 00 00 06 
+04 01 00 00 00 01 00 00 00 00 16 80 bc 55 00 77 00 00 53 00 00 00 15 04 01 00 00 00 00 00 00 00 
+00 16 80 bc 55 00 78 00 00 53 00 00 00 19 04 01 00 00 00 00 00 00 00 00 08 80 b2 3a 04 00 00 08 
+02 16 80 bc 45 03 3a 04 00 53 00 00 00 3a 04 00 00 00 00 00 00 00 00 00 16 80 bc 55 00 79 00 00 
+53 00 00 00 06 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 12 00 00 5f 00 00 00 7c 04 0f 00 00 
+00 01 00 00 00 00 16 80 bc 45 00 13 00 00 5f 00 00 00 07 04 0f 00 00 00 01 00 00 00 00 
+.....!...U.m..-... .............U.n..-.................U.o..-...B.............E....4............
+.....U.p..4.................6....E.6..@...6.............E....@...{.............6........E.6..@..
+.6.............U.q..@...{.............E....I.................E....I...{.............U.r..I......
+...........U.s..I...{.............E....L.................E....L.................E....L..........
+.......U.t..L.................U.u..L.................U.v..L.................E....S..............
+...E....S.................:....E.:..S...:.............E....S.................U.w..S.............
+....U.x..S.................:........E.:..S...:.............U.y..S.................E...._...|....
+.........E...._..............
+
+Client->GAME [13:55:21 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 1 ClientSeq: 18
+02 
+.
+
+GAME->Client [13:55:22 07/28/09] packet size: 709 CRYPTED, Flags: 7f ServerSeq: 34 ClientSeq: 1
+02 04 02 01 2e 08 16 80 bc 55 00 7a 00 00 5f 00 00 00 7c 04 0f 00 00 00 00 00 00 00 00 16 80 bc 
+55 00 7b 00 00 5f 00 00 00 07 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 14 00 00 62 00 00 00 
+06 04 01 00 00 00 01 00 00 00 00 04 80 b3 35 04 16 80 bc 45 03 35 04 00 62 00 00 00 35 04 00 00 
+00 00 01 00 00 00 00 16 80 bc 45 00 15 00 00 62 00 00 00 15 04 01 00 00 00 01 00 00 00 00 16 80 
+bc 55 00 7c 00 00 62 00 00 00 06 04 01 00 00 00 00 00 00 00 00 08 80 b2 35 04 00 00 08 02 01 36 
+1a 16 80 bc 45 03 35 04 00 62 00 00 00 35 04 00 00 00 00 00 00 00 00 00 16 80 bc 55 00 7d 00 00 
+62 00 00 00 15 04 01 00 00 00 00 00 00 00 00 16 80 bc 45 00 16 00 00 35 01 00 00 07 04 03 00 00 
+00 01 00 00 00 00 16 80 bc 45 00 17 00 00 35 01 00 00 1d 04 05 00 00 00 01 00 00 00 00 16 80 bc 
+45 00 18 00 00 35 01 00 00 42 04 0a 00 00 00 01 00 00 00 00 16 80 bc 55 00 7e 00 00 35 01 00 00 
+07 04 03 00 00 00 00 00 00 00 00 16 80 bc 55 00 7f 00 00 35 01 00 00 1d 04 05 00 00 00 00 00 00 
+00 00 16 80 bc 55 00 80 00 00 35 01 00 00 42 04 0a 00 00 00 00 00 00 00 00 04 80 b3 3b 04 16 80 
+bc 45 03 3b 04 00 36 01 00 00 3b 04 00 00 00 00 01 00 00 00 00 16 80 bc 45 00 19 00 00 36 01 00 
+00 07 04 01 00 00 00 01 00 00 00 00 08 80 b2 3b 04 00 00 08 02 16 80 bc 45 03 3b 04 00 36 01 00 
+00 3b 04 00 00 00 00 00 00 00 00 00 16 80 bc 55 00 81 00 00 36 01 00 00 07 04 01 00 00 00 00 00 
+00 00 00 16 80 bc 45 00 1a 00 00 48 01 00 00 77 04 05 00 00 00 01 00 00 00 00 16 80 bc 45 00 1b 
+00 00 48 01 00 00 03 04 05 00 00 00 01 00 00 00 00 16 80 bc 45 00 1c 00 00 48 01 00 00 76 04 0a 
+00 00 00 01 00 00 00 00 16 80 bc 45 00 1d 00 00 48 01 00 00 e4 03 0a 00 00 00 01 00 00 00 00 16 
+80 bc 45 00 1e 00 00 48 01 00 00 7c 04 0a 00 00 00 01 00 00 00 00 16 80 bc 55 00 82 00 00 48 01 
+00 00 77 04 05 00 00 00 00 00 00 00 00 16 80 bc 55 00 83 00 00 48 01 00 00 03 04 05 00 00 00 00 
+00 00 00 00 16 80 bc 55 00 84 00 00 48 01 00 00 76 04 0a 00 00 00 00 00 00 00 00 16 80 bc 55 00 
+85 00 00 48 01 00 00 e4 03 0a 00 00 00 00 00 00 00 00 16 80 bc 55 00 86 00 00 48 01 00 00 7c 04 
+0a 00 00 00 00 00 00 00 00 04 80 b3 3c 04 16 80 bc 45 03 3c 04 00 4e 01 00 00 3c 04 00 00 00 00 
+01 00 00 00 00 
+.........U.z.._...|.............U.{.._.................E....b.................5....E.5..b...5...
+..........E....b.................U.|..b.................5......6....E.5..b...5.............U.}..
+b.................E....5.................E....5.................E....5...B.............U.~..5...
+..............U....5.................U....5...B.............;....E.;..6...;.............E....6..
+...............;........E.;..6...;.............U....6.................E....H...w.............E..
+..H.................E....H...v.............E....H.................E....H...|.............U....H.
+..w.............U....H.................U....H...v.............U....H.................U....H...|.
+............<....E.<..N...<..........
+
+Client->GAME [13:55:22 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 2 ClientSeq: 19
+02 
+.
+
+GAME->Client [13:55:22 07/28/09] packet size: 656 CRYPTED, Flags: 7f ServerSeq: 35 ClientSeq: 2
+02 04 01 01 50 1d 16 80 bc 45 00 1f 00 00 4e 01 00 00 07 04 05 00 00 00 01 00 00 00 00 08 80 b2 
+3c 04 00 00 08 02 16 80 bc 45 03 3c 04 00 4e 01 00 00 3c 04 00 00 00 00 00 00 00 00 00 16 80 bc 
+55 00 87 00 00 4e 01 00 00 07 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 20 00 00 5d 01 00 00 
+7b 04 05 00 00 00 01 00 00 00 00 16 80 bc 45 00 21 00 00 5d 01 00 00 20 04 0f 00 00 00 01 00 00 
+00 00 16 80 bc 55 00 88 00 00 5d 01 00 00 7b 04 05 00 00 00 00 00 00 00 00 16 80 bc 55 00 89 00 
+00 5d 01 00 00 20 04 0f 00 00 00 00 00 00 00 00 16 80 bc 45 00 22 00 00 d7 01 00 00 23 04 0f 00 
+00 00 01 00 00 00 00 16 80 bc 45 00 23 00 00 d7 01 00 00 1d 04 05 00 00 00 01 00 00 00 00 16 80 
+bc 55 00 8a 00 00 d7 01 00 00 23 04 0f 00 00 00 00 00 00 00 00 16 80 bc 55 00 8b 00 00 d7 01 00 
+00 1d 04 05 00 00 00 00 00 00 00 00 16 80 bc 45 00 24 00 00 36 02 00 00 37 02 0a 00 00 00 01 00 
+00 00 00 16 80 bc 55 00 8c 00 00 36 02 00 00 37 02 0a 00 00 00 00 00 00 00 00 16 80 bc 45 00 25 
+00 00 74 02 00 00 34 02 1e 00 00 00 01 00 00 00 00 16 80 bc 55 00 8d 00 00 74 02 00 00 34 02 1e 
+00 00 00 00 00 00 00 00 16 80 bc 15 00 8e 00 00 11 00 00 00 ab 00 0c 00 00 00 00 00 00 00 00 16 
+80 bc 15 00 8f 00 00 11 00 00 00 0a 02 4b 00 00 00 00 00 00 00 00 16 80 bc 15 00 90 00 00 11 00 
+00 00 f2 03 34 00 00 00 00 00 00 00 00 16 80 bc 15 00 91 00 00 11 00 00 00 ed 03 55 00 00 00 00 
+00 00 00 00 16 80 bc 15 00 92 00 00 11 00 00 00 9f 00 1b 00 00 00 00 00 00 00 00 16 80 bc 15 00 
+93 00 00 11 00 00 00 f1 03 34 00 00 00 00 00 00 00 00 16 80 bc 15 00 94 00 00 11 00 00 00 0c 02 
+39 00 00 00 00 00 00 00 00 16 80 bc 15 00 95 00 00 11 00 00 00 b7 00 4c 00 00 00 00 00 00 00 00 
+16 80 bc 15 00 96 00 00 11 00 00 00 f3 03 46 00 00 00 00 00 00 00 00 0b 80 bd 05 11 00 00 00 00 
+00 00 01 16 80 bc 11 00 97 00 00 00 00 00 00 cb 02 00 00 00 00 00 00 00 00 00 17 3a 05 00 11 00 
+0a 00 50 76 50 53 65 72 76 65 72 00 04 00 06 00 00 00 1d 3a 05 00 17 00 10 00 50 76 50 4d 61 78 
+53 61 66 65 4c 65 76 65 6c 00 04 00 0f 00 00 00 
+....P....E....N.................<........E.<..N...<.............U....N.................E. ..]...
+{.............E.!..]... .............U....]...{.............U....]... .............E."......#...
+..........E.#....................U........#.............U......................E.$..6...7.......
+......U....6...7.............E.%..t...4.............U....t...4..................................
+.............K......................4......................U....................................
+.........4......................9......................L......................F.................
+...........................:......PvPServer........:......PvPMaxSafeLevel.......
+
+Client->GAME [13:55:22 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 3 ClientSeq: 20
+02 
+.
+
+GAME->Client [13:55:22 07/28/09] packet size: 280 CRYPTED, Flags: 7f ServerSeq: 36 ClientSeq: 3
+02 04 02 01 6d 05 41 3a 05 00 14 00 0d 00 57 52 5f 52 65 7a 45 76 65 6e 74 73 00 2b 00 48 61 6c 
+6c 6f 77 65 65 6e 5f 45 76 65 6e 74 2c 57 69 6e 74 65 72 33 48 61 6c 6c 6f 77 65 65 6e 46 6c 79 
+45 79 65 54 53 45 43 00 1b 3a 05 00 19 00 12 00 45 76 65 6e 74 53 6c 6f 74 31 5f 45 66 66 65 63 
+74 00 00 00 28 3a 05 00 19 00 12 00 45 76 65 6e 74 53 6c 6f 74 32 5f 45 66 66 65 63 74 00 0d 00 
+66 6c 79 6d 61 6e 5f 69 64 6c 65 33 00 25 3a 05 00 19 00 12 00 45 76 65 6e 74 53 6c 6f 74 33 5f 
+45 66 66 65 63 74 00 0a 00 66 6c 79 5f 76 69 72 75 73 00 1f 3a 05 00 1b 00 14 00 46 69 78 65 64 
+42 69 6e 6b 49 44 4f 76 65 72 72 69 64 65 00 02 00 20 00 01 72 01 41 81 67 17 00 27 00 1c 22 00 
+c6 01 11 00 00 00 00 00 00 00 37 00 00 08 0e 00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 0e 00 
+41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 02 00 4b 00 00 00 00 00 00 00 
+....m.A:......WR_RezEvents.+.Halloween_Event,Winter3HalloweenFlyEyeTSEC..:......EventSlot1_Effec
+t...(:......EventSlot2_Effect...flyman_idle3.%:......EventSlot3_Effect...fly_virus..:......Fixed
+BinkIDOverride... ..r.A.g..'.."...........7.....AfterWhoruNeo...AfterWhoruNeo...K.......
+
+Client->GAME [13:55:22 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 4 ClientSeq: 21
+02 
+.
+
+Client->GAME [13:55:26 07/28/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 4 ClientSeq: 22
+02 04 01 00 06 01 12 80 c9 01 00 c0 47 00 88 90 c7 00 00 20 41 00 88 10 47 
+............G...... A...G
+
+GAME->Client [13:55:26 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 37 ClientSeq: 6
+02 
+.
+
+Client->GAME [13:55:26 07/28/09] packet size: 44 CRYPTED, Flags: 7f ServerSeq: 5 ClientSeq: 23
+02 04 01 00 07 02 12 80 c9 06 00 30 0e 00 88 90 c7 00 00 b4 c2 00 40 9c 45 12 80 c9 06 00 b0 10 
+00 60 6a c7 00 00 b4 c2 00 40 9c 45 
+...........0..........@.E........`j......@.E
+
+GAME->Client [13:55:26 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 38 ClientSeq: 7
+82 c7 be d3 48 
+....H
+
+Client->GAME [13:55:26 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 6 ClientSeq: 24
+02 
+.
+
+Client->GAME [13:55:26 07/28/09] packet size: 44 CRYPTED, Flags: 7f ServerSeq: 6 ClientSeq: 25
+02 04 01 00 09 02 12 80 c9 07 00 e0 0a 00 1c a2 c7 00 00 20 41 00 50 c3 46 12 80 c9 0a 00 e0 0a 
+00 d4 ad c7 00 00 48 44 00 c8 c3 46 
+................... A.P.F.............HD...F
+
+GAME->Client [13:55:26 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 39 ClientSeq: 9
+02 
+.
+
+Client->GAME [13:55:27 07/28/09] packet size: 63 CRYPTED, Flags: 7f ServerSeq: 7 ClientSeq: 26
+02 04 01 00 0b 03 12 80 c9 07 00 c0 37 00 f8 27 c7 00 00 20 41 00 e0 2b 46 12 80 c9 07 00 70 4b 
+00 68 3f c7 00 00 cd 43 00 70 94 46 12 80 c9 0e 00 70 4b 00 08 4f c7 00 00 20 41 00 50 c3 46 
+............7..'... A..+F.....pK.h?....C.p.F.....pK..O... A.P.F
+
+GAME->Client [13:55:28 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 40 ClientSeq: 10
+02 
+.
+
+Client->GAME [13:55:30 07/28/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 8 ClientSeq: 27
+02 04 01 00 0e 01 12 80 c9 07 00 90 27 00 1c a2 c7 00 00 20 41 00 40 9c c5 
+............'...... A.@..
+
+GAME->Client [13:55:30 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 41 ClientSeq: 11
+82 47 bf d3 48 
+.G..H
+
+Client->GAME [13:55:30 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 9 ClientSeq: 28
+02 
+.
+
+Client->GAME [13:55:32 07/28/09] packet size: 12
+00 00 00 00 00 01 04 08 8b 57 ef 00 
+.........W..
+
+GAME->Client [13:55:32 07/28/09] packet size: 12
+00 00 00 00 00 01 04 08 8b 57 ef 00 
+.........W..
+
+Client->GAME [13:55:32 07/28/09] packet size: 44 CRYPTED, Flags: 7f ServerSeq: 9 ClientSeq: 29
+02 04 01 00 0f 02 12 80 c9 03 00 a0 1c 00 b8 f1 c6 00 00 48 44 00 40 9c 45 12 80 c9 0b 00 a0 1c 
+00 30 f2 c6 00 00 20 41 00 40 9c 45 
+...................HD.@.E........0.... A.@.E
+
+GAME->Client [13:55:32 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 42 ClientSeq: 13
+02 
+.
+
+Client->GAME [13:55:32 07/28/09] packet size: 44 CRYPTED, Flags: 7f ServerSeq: 10 ClientSeq: 30
+02 04 01 00 11 02 12 80 c9 0d 00 20 2e 00 5c c1 c7 00 00 48 44 00 60 9a c5 12 80 c9 15 00 20 2e 
+00 5c c1 c7 00 00 20 41 00 40 9c c5 
+........... ..\....HD.`....... ..\.... A.@..
+
+GAME->Client [13:55:32 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 43 ClientSeq: 14
+82 93 bf d3 48 
+....H
+
+Client->GAME [13:55:32 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 11 ClientSeq: 31
+02 
+.
+
+Client->GAME [13:55:33 07/28/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 11 ClientSeq: 32
+02 04 01 00 13 01 12 80 c9 07 00 60 4b 00 58 18 c7 00 80 45 c4 00 e8 00 47 
+...........`K.X....E....G
+
+GAME->Client [13:55:34 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 44 ClientSeq: 0
+02 
+.
+
+Client->GAME [13:55:34 07/28/09] packet size: 44 CRYPTED, Flags: 7f ServerSeq: 12 ClientSeq: 33
+02 04 01 00 14 02 12 80 c9 03 00 50 3d 00 9e b1 c7 00 00 48 44 00 60 6a c6 12 80 c9 03 00 40 00 
+00 2e 9a c7 00 00 48 44 00 50 c3 c6 
+...........P=......HD.`j......@.......HD.P..
+
+GAME->Client [13:55:34 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 45 ClientSeq: 1
+82 d3 bf d3 48 
+....H
+
+Client->GAME [13:55:34 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 13 ClientSeq: 34
+02 
+.
+
+Client->GAME [13:55:35 07/28/09] packet size: 44 CRYPTED, Flags: 7f ServerSeq: 13 ClientSeq: 35
+02 04 01 00 16 02 12 80 c9 03 00 40 53 00 04 30 c7 00 00 48 44 00 b0 b3 c6 12 80 c9 17 00 40 53 
+00 38 47 c7 00 00 20 41 00 10 a4 c6 
+...........@S..0...HD.........@S.8G... A....
+
+GAME->Client [13:55:36 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 46 ClientSeq: 3
+02 
+.
+
+Client->GAME [13:55:38 07/28/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 14 ClientSeq: 36
+02 04 01 00 18 01 12 80 c9 07 00 a0 49 00 10 a4 c6 00 00 20 41 00 e0 2b c6 
+............I...... A..+.
+
+GAME->Client [13:55:38 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 47 ClientSeq: 4
+82 33 c0 d3 48 
+.3..H
+
+Client->GAME [13:55:38 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 15 ClientSeq: 37
+02 
+.
+
+Client->GAME [13:55:38 07/28/09] packet size: 82 CRYPTED, Flags: 7f ServerSeq: 15 ClientSeq: 38
+02 04 01 00 19 04 12 80 c9 01 00 50 51 00 28 20 c7 00 00 20 41 00 20 cb c6 12 80 c9 25 00 50 51 
+00 38 47 c7 00 00 20 41 00 20 cb c6 12 80 c9 03 00 d0 1f 00 1c 18 c7 00 00 48 44 00 88 10 c7 12 
+80 c9 01 00 20 3e 00 30 f2 c6 00 00 20 41 00 20 cb c6 
+...........PQ.( ... A. .....%.PQ.8G... A. ...............HD......... >.0.... A. ..
+
+GAME->Client [13:55:39 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 48 ClientSeq: 6
+02 
+.
+
+Client->GAME [13:55:42 07/28/09] packet size: 82 CRYPTED, Flags: 7f ServerSeq: 0 ClientSeq: 39
+02 04 01 00 1d 04 12 80 c9 10 00 c0 10 00 5c c1 c7 00 80 13 c4 00 b8 08 c7 12 80 c9 04 00 e0 17 
+00 bc b1 c7 00 00 48 44 00 b8 08 c7 12 80 c9 03 00 30 57 00 4c 9a c7 00 00 48 44 00 f4 08 c7 12 
+80 c9 0b 00 30 57 00 4c 9a c7 00 00 20 41 00 b8 08 c7 
+..............\.......................HD.........0W.L....HD.........0W.L.... A....
+
+GAME->Client [13:55:42 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 49 ClientSeq: 7
+82 c3 c0 d3 48 
+....H
+
+Client->GAME [13:55:42 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 1 ClientSeq: 40
+02 
+.
+
+Client->GAME [13:55:45 07/28/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 1 ClientSeq: 41
+02 04 01 00 21 01 12 80 c9 01 00 00 2c 00 60 6a c6 00 00 20 41 00 20 cb c6 
+....!.......,.`j... A. ..
+
+GAME->Client [13:55:45 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 50 ClientSeq: 9
+02 
+.
+
+Client->GAME [13:55:50 07/28/09] packet size: 63 CRYPTED, Flags: 7f ServerSeq: 2 ClientSeq: 42
+02 04 01 00 22 03 12 80 c9 03 00 50 2c 00 c8 c3 c6 00 00 48 44 00 28 20 c7 12 80 c9 0c 00 10 4e 
+00 30 f2 c6 00 00 20 41 00 58 18 c7 12 80 c9 0f 00 10 4e 00 30 f2 c6 00 00 48 44 00 ec 1f c7 
+...."......P,......HD.( .......N.0.... A.X........N.0....HD....
+
+GAME->Client [13:55:50 07/28/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 51 ClientSeq: 10
+82 b3 c1 d3 48 
+....H
+
+Client->GAME [13:55:50 07/28/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 3 ClientSeq: 43
+02 
+.
+
+Client->GAME [13:55:51 07/28/09] packet size: 12
+00 00 00 00 00 01 04 08 ab a5 ef 00 
+............
+
+GAME->Client [13:55:52 07/28/09] packet size: 12
+00 00 00 00 00 01 04 08 ab a5 ef 00 
+............
+
+GAME->Client [13:56:01 07/28/09] packet size: 1 CRYPTED, Flags: ff ServerSeq: 52 ClientSeq: 11
+02 
+.
+
+Client->GAME [13:56:01 07/28/09] packet size: 1 CRYPTED, Flags: ff ServerSeq: 3 ClientSeq: 44
+02 
+.
+

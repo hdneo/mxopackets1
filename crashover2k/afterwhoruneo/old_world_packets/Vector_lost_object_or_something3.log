@@ -1,0 +1,84 @@
+Client->GAME [19:07:54 07/28/09] packet size: 103
+64 31 3a 61 64 32 3a 69 64 32 30 3a dc 44 11 d5 cd dc 64 01 d5 b7 f0 8c 3b e7 df 91 2e 8a 98 54 
+36 3a 74 61 72 67 65 74 32 30 3a 7b 61 c0 66 e7 96 b1 25 5d 6a 22 f5 02 07 97 19 78 b4 4d d5 65 
+31 3a 71 39 3a 66 69 6e 64 5f 6e 6f 64 65 31 3a 74 34 3a 79 0c 00 00 31 3a 76 34 3a 55 54 35 62 
+31 3a 79 31 3a 71 65 
+d1:ad2:id20:.D....d.....;......T6:target20:{a.f...%]j".....x.M.e1:q9:find_node1:t4:y...1:v4:UT5b
+1:y1:qe
+
+GAME->Client [19:07:55 07/28/09] packet size: 277
+64 31 3a 72 64 32 3a 69 64 32 30 3a 7b 61 84 ab 53 f3 68 66 eb 8b 57 4c 4b b0 e8 41 bc b2 d6 c8 
+35 3a 6e 6f 64 65 73 32 30 38 3a 7b 61 d3 5c 0e 02 0a 90 2c ff 8b 38 d1 54 13 57 cc 42 7e 4a 4f 
+64 9b d9 26 9f 7b 61 e7 bd 5d be 74 09 03 4b ed 36 82 a9 fc 7b 96 a5 ae 03 59 84 59 62 f3 f4 7b 
+61 d2 1a 14 9b 98 82 da 3b 5a 97 2f 8f e0 c3 d1 ef a4 ac 3e d7 ad dc 52 23 7b 61 d3 f0 76 62 d5 
+48 07 36 49 dc ff 1b 43 cd ce 07 cb 44 d0 9e 0f 20 35 96 7b 61 c7 cc 03 3e 6c bc 0a 77 8b e8 e7 
+00 5d f1 a7 81 61 b5 58 e4 8e 89 80 d0 7b 61 e9 1b e2 ef e2 b4 3f 3e e8 32 5a ab 25 4b 20 88 dd 
+e2 4d fb bd 74 9b 64 7b 61 d8 4a b0 94 92 c5 c3 d8 95 81 32 f0 21 1b 41 95 48 99 54 1b ed 02 fb 
+07 7b 61 d7 8b 37 42 a3 e2 36 9f 74 70 2d 2f 73 50 6b b8 d0 60 44 6e a4 79 ae 3e 65 31 3a 74 34 
+3a 79 0c 00 00 31 3a 76 34 3a 4c 54 00 0e 31 3a 79 31 3a 72 65 
+d1:rd2:id20:{a..S.hf..WLK..A....5:nodes208:{a.\....,..8.T.W.B~JOd..&.{a..].t..K.6...{....Y.Yb..{
+a.......;Z./.......>...R#{a..vb.H.6I...C....D... 5.{a...>l..w....]...a.X.....{a......?>.2Z.%K ..
+.M..t.d{a.J........2.!.A.H.T.....{a..7B..6.tp-/sPk..`Dn.y.>e1:t4:y...1:v4:LT..1:y1:re
+
+Client->GAME [19:08:26 07/28/09] packet size: 103
+64 31 3a 61 64 32 3a 69 64 32 30 3a dc 44 11 d5 cd dc 64 01 d5 b7 f0 8c 3b e7 df 91 2e 8a 98 54 
+36 3a 74 61 72 67 65 74 32 30 3a dc 4b 5b a9 22 28 8c 9b ed 90 c5 f6 f0 18 7a 51 b7 4f 55 9f 65 
+31 3a 71 39 3a 66 69 6e 64 5f 6e 6f 64 65 31 3a 74 34 3a 51 0d 00 00 31 3a 76 34 3a 55 54 35 62 
+31 3a 79 31 3a 71 65 
+d1:ad2:id20:.D....d.....;......T6:target20:.K[."(........zQ.OU.e1:q9:find_node1:t4:Q...1:v4:UT5b
+1:y1:qe
+
+Client->GAME [19:52:50 07/28/09] packet size: 103
+64 31 3a 61 64 32 3a 69 64 32 30 3a dc 44 11 d5 cd dc 64 01 d5 b7 f0 8c 3b e7 df 91 2e 8a 98 54 
+36 3a 74 61 72 67 65 74 32 30 3a b6 d6 a0 fa f3 7c 10 26 59 e3 e8 54 6f 9f 05 8f 5b 27 4c fe 65 
+31 3a 71 39 3a 66 69 6e 64 5f 6e 6f 64 65 31 3a 74 34 3a 7e 12 00 00 31 3a 76 34 3a 55 54 35 62 
+31 3a 79 31 3a 71 65 
+d1:ad2:id20:.D....d.....;......T6:target20:.....|.&Y..To...['L.e1:q9:find_node1:t4:~...1:v4:UT5b
+1:y1:qe
+
+GAME->Client [19:52:51 07/28/09] packet size: 298
+64 31 3a 72 64 32 3a 69 64 32 30 3a b6 d7 8c e0 5a d9 41 bf 90 89 93 54 89 99 56 7c 4a 1b f8 c2 
+35 3a 6e 6f 64 65 73 32 30 38 3a b6 d6 80 df e1 5b 2e 2e 26 1e 68 c0 c2 3b 81 2e a5 20 00 2a 45 
+9e 6a ca aa 84 b6 d6 87 8b d6 b7 7d a5 ae 8e 5c 2a b5 3a 79 06 62 ea 3c b4 44 2e cd 14 fb 47 b6 
+d6 8c 10 63 12 6b a8 a7 59 9b e8 9f ab d0 17 49 b9 48 d9 62 9a 36 68 f0 13 b6 d6 98 ab b5 e4 83 
+da 33 bf 9f 66 5b 4e 1b 00 77 2f 2c e6 55 f7 99 0e c5 1a b6 d6 9f 6c 48 6e 8a fc 52 32 94 1f a9 
+e7 73 88 31 88 19 3c 4c 73 04 59 c3 8d b6 d6 37 d3 e0 16 47 db 84 01 8e 34 5b a7 a7 19 4a 6b fe 
+28 77 20 0e 3e 41 f1 b6 d6 39 e8 68 ed e5 c0 54 2b 2a 50 9e 37 e3 2c 81 10 e6 84 56 7e cc a9 c0 
+96 b6 d6 3e b9 56 a3 b0 4a 57 d5 62 89 06 a9 de e9 6d 92 96 61 48 80 4e 89 a2 cc 35 3a 74 6f 6b 
+65 6e 32 30 3a 7a 1d fb da ad 39 bb f6 d2 f9 3b 45 3c 05 28 fe 67 94 7d 6c 65 31 3a 74 34 3a 7e 
+12 00 00 31 3a 79 31 3a 72 65 
+d1:rd2:id20:....Z.A....T..V|J...5:nodes208:.....[..&.h..;... .*E.j.........}...\*.:y.b.<.D....G.
+...c.k..Y......I.H.b.6h..........3..f[N..w/,.U........lHn..R2....s.1..<Ls.Y....7...G....4[...Jk.
+(w .>A...9.h...T+*P.7.,....V~......>.V..JW.b.....m..aH.N...5:token20:z....9....;E<.(.g.}le1:t4:~
+...1:y1:re
+
+Client->GAME [20:50:30 07/28/09] packet size: 103
+64 31 3a 61 64 32 3a 69 64 32 30 3a dc 44 11 d5 cd dc 64 01 d5 b7 f0 8c 3b e7 df 91 2e 8a 98 54 
+36 3a 74 61 72 67 65 74 32 30 3a db 3d 30 84 d0 6f d7 51 86 18 d6 24 55 35 56 54 f7 2b bd af 65 
+31 3a 71 39 3a 66 69 6e 64 5f 6e 6f 64 65 31 3a 74 34 3a 47 1b 00 00 31 3a 76 34 3a 55 54 35 62 
+31 3a 79 31 3a 71 65 
+d1:ad2:id20:.D....d.....;......T6:target20:.=0..o.Q...$U5VT.+..e1:q9:find_node1:t4:G...1:v4:UT5b
+1:y1:qe
+
+GAME->Client [20:51:25 07/28/09] packet size: 268
+64 31 3a 72 64 32 3a 69 64 32 30 3a db 36 23 4d 2c e8 5f ea a6 c7 16 05 d5 03 4c e5 ee c6 11 a9 
+35 3a 6e 6f 64 65 73 32 30 38 3a db 39 c9 0f 8e 8d c8 5f f0 ad d8 21 1b 1a 07 73 c3 8a c2 65 4f 
+b6 8a 92 48 60 db 39 70 ea 0d 1b 0c 65 20 9c 2c da ab 4e 80 de 4e 53 21 b2 53 e3 b5 26 53 74 db 
+38 3f b0 25 dc 3e 51 cb e2 1b cc 5d ff fe 31 96 7b ee 1d 53 fd a5 d9 6e c2 db 3b 65 75 4a a9 25 
+59 77 e1 85 66 09 3b 8a 5c 59 f9 80 28 ae 03 66 77 21 25 db 3f 35 22 d2 88 b4 aa 53 18 a3 bc 44 
+55 95 3e 74 ed 28 d4 d4 32 6d cb 8c e4 db 3f 51 37 a2 ce 0a af 5a fd 9e 46 e5 fc 7d 2c 15 2f 7e 
+f0 4c da 4a 3d f2 d4 db 3d 34 e6 3a 72 e0 47 29 b1 41 0d 67 8a 37 e1 06 9d 77 f8 44 b9 f4 e2 26 
+33 db 39 94 aa 30 8a 4a 77 8e e9 b3 18 0a 8b a7 f5 4a 70 68 e0 3c 0f 48 88 7f a0 65 31 3a 74 34 
+3a 47 1b 00 00 31 3a 79 31 3a 72 65 
+d1:rd2:id20:.6#M,._.......L.....5:nodes208:.9....._...!...s...eO...H`.9p....e .,..N..NS!.S..&St.
+8?.%.>Q....]..1.{..S...n..;euJ.%Yw..f.;.\Y..(..fw!%.?5"....S...DU.>t.(..2m....?Q7....Z..F..},./~
+.L.J=...=4.:r.G).A.g.7...w.D...&3.9..0.Jw........Jph.<.H...e1:t4:G...1:y1:re
+
+Client->GAME [07:15:00 07/29/09] packet size: 103
+64 31 3a 61 64 32 3a 69 64 32 30 3a 65 4e 6c 0a 88 62 fe 81 8c ca bd 52 6c 26 ff 44 7e df 1c 3a 
+36 3a 74 61 72 67 65 74 32 30 3a 62 04 96 bf ba 2c d4 40 26 0c 6e 15 45 ea 00 46 bd bc 24 72 65 
+31 3a 71 39 3a 66 69 6e 64 5f 6e 6f 64 65 31 3a 74 34 3a f0 25 00 00 31 3a 76 34 3a 55 54 35 62 
+31 3a 79 31 3a 71 65 
+d1:ad2:id20:eNl..b.....Rl&.D~..:6:target20:b....,.@&.n.E..F..$re1:q9:find_node1:t4:.%..1:v4:UT5b
+1:y1:qe
+

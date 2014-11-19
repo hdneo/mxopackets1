@@ -1,0 +1,32 @@
+2 items got listed with this:
+
+1. Armored Yellow Barret Fauxskin Pants
+Cost : 6000 Info
+From : machine
+One Point duration
+
+2. Shielded Brown Barrellhead Cargo Shorts
+Costs: 2000 info
+From : machine
+2 Points duration
+--------------------------------------------
+
+Client->WORLD [15:26:26 07/29/09] packet size: 34
+PSS: 7f LocalSeq: 164 RemoteSeq: 135
+02 04 01 00 1d 01 1b 81 24 49 41 50 53 00 00 00 00 00 00 00 00 19 00 ff c9 9a 3b 00 00 00 00 01 
+00 00 
+.  .  .  .  .  .  .  .  $  I  A  P  S  .  .  .  .  .  .  .  .  .  .  .  .  .  ;  .  .  .  .  .  
+.  .  
+
+WORLD->Client [15:26:26 07/29/09] packet size: 62
+PSS: 7f LocalSeq: 136 RemoteSeq: 164
+02 04 01 01 39 01 37 81 25 09 00 00 00 00 00 00 2c 00 41 8c 00 00 00 00 00 18 cb d1 12 00 d0 07 
+00 00 02 a8 22 6e 4a 00 43 58 00 00 00 00 00 34 01 d2 12 00 70 17 00 00 02 65 5e 6e 4a 00 
+.  .  .  .  9  .  7  .  %  .  .  .  .  .  .  .  ,  .  A  .  .  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  "  n  J  .  C  X  .  .  .  .  .  4  .  .  .  .  p  .  .  .  .  e  ^  n  J  .  
+
+Client->WORLD [15:26:26 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 165 RemoteSeq: 136
+02 
+.  
+

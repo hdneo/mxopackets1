@@ -1,0 +1,89 @@
+WORLD->Client [14:43:53 07/30/09] packet size: 17
+PSS: 7f LocalSeq: 637 RemoteSeq: 761
+82 fb dc 9a 45 03 02 00 02 80 80 80 40 81 0b 00 00 
+.  .  .  .  E  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:53 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 762 RemoteSeq: 637
+02 
+.  
+
+Client->WORLD [14:43:54 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 763 RemoteSeq: 637
+02 04 01 00 4a 01 06 81 51 00 00 00 00 
+.  .  .  .  J  .  .  .  Q  .  .  .  .  
+
+Client->WORLD [14:43:54 07/30/09] packet size: 15
+PSS: 7f LocalSeq: 764 RemoteSeq: 637
+02 04 01 00 4b 01 08 80 c8 06 00 f0 34 03 00 
+.  .  .  .  K  .  .  .  .  .  .  .  4  .  .  
+
+WORLD->Client [14:43:54 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 638 RemoteSeq: 763
+02 
+.  
+
+WORLD->Client [14:43:54 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 639 RemoteSeq: 764
+02 03 02 00 02 80 80 80 40 96 0b 00 00 
+.  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:55 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 765 RemoteSeq: 639
+02 
+.  
+
+WORLD->Client [14:43:55 07/30/09] packet size: 79
+PSS: 7f LocalSeq: 640 RemoteSeq: 765
+82 9a ed 9a 45 03 02 00 02 80 80 80 40 aa 0b 01 00 08 3c 1b 06 00 f0 34 27 cd ab 03 84 00 00 00 
+00 00 00 80 3f 00 00 00 00 00 00 00 00 41 00 00 00 00 40 a0 f0 c0 00 00 00 00 00 20 62 40 00 00 
+00 00 00 f2 d2 40 34 08 00 00 08 00 00 00 00 
+.  .  .  .  E  .  .  .  .  .  .  .  @  .  .  .  .  .  <  .  .  .  .  4  '  .  .  .  .  .  .  .  
+.  .  .  .  ?  .  .  .  .  .  .  .  .  A  .  .  .  .  @  .  .  .  .  .  .  .  .     b  @  .  .  
+.  .  .  .  .  @  4  .  .  .  .  .  .  .  .  
+
+Client->WORLD [14:43:55 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 766 RemoteSeq: 640
+02 
+.  
+
+WORLD->Client [14:43:56 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 641 RemoteSeq: 766
+02 03 02 00 02 80 80 80 40 bf 0b 00 00 
+.  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:56 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 767 RemoteSeq: 641
+02 
+.  
+
+Client->WORLD [14:43:57 07/30/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 3f ea 25 01 
+.  .  .  .  .  .  .  .  ?  .  %  .  
+
+WORLD->Client [14:43:57 07/30/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 3f ea 25 01 
+.  .  .  .  .  .  .  .  ?  .  %  .  
+
+WORLD->Client [14:43:57 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 642 RemoteSeq: 767
+02 03 02 00 02 80 80 80 40 d3 0b 00 00 
+.  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:57 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 768 RemoteSeq: 642
+02 
+.  
+
+WORLD->Client [14:43:59 07/30/09] packet size: 17
+PSS: 7f LocalSeq: 643 RemoteSeq: 768
+82 7a 06 9b 45 03 02 00 02 80 80 80 40 e8 0b 00 00 
+.  z  .  .  E  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:59 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 769 RemoteSeq: 643
+02 
+.  
+

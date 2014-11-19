@@ -1,0 +1,60 @@
+3 Items found 
+
+1. Data Node Locator googles
+cost : 1000
+No Org
+
+
+2. Data Siphon 1.0
+cost : 1.000.000
+Mero 
+
+3.Data Siphon 3.0
+cost : 1000
+No Org
+
+
+
+
+
+-------------------
+
+
+
+
+Client->WORLD [15:40:49 07/29/09] packet size: 34
+PSS: 7f LocalSeq: 290 RemoteSeq: 250
+02 04 01 00 2c 01 1b 81 24 49 54 44 74 00 00 00 00 00 00 00 00 19 00 ff c9 9a 3b 00 00 00 00 01 
+00 00 
+.  .  .  .  ,  .  .  .  $  I  T  D  t  .  .  .  .  .  .  .  .  .  .  .  .  .  ;  .  .  .  .  .  
+.  .  
+
+WORLD->Client [15:40:49 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 251 RemoteSeq: 290
+02 
+.  
+
+WORLD->Client [15:40:49 07/29/09] packet size: 88
+PSS: 7f LocalSeq: 252 RemoteSeq: 290
+82 b2 82 00 49 04 01 01 51 01 4d 81 25 09 00 00 00 00 00 00 42 00 a7 01 00 00 00 00 00 18 31 d0 
+12 00 e8 03 00 00 00 fb dc 6a 4a 00 f1 b7 00 00 00 00 02 10 37 d0 12 00 e8 03 00 00 00 04 dd 6a 
+4a 00 f3 b7 00 00 00 00 00 34 6d d0 12 00 40 42 0f 00 03 8c de 6a 4a 00 
+.  .  .  .  I  .  .  .  Q  .  M  .  %  .  .  .  .  .  .  .  B  .  .  .  .  .  .  .  .  .  1  .  
+.  .  .  .  .  .  .  .  .  j  J  .  .  .  .  .  .  .  .  .  7  .  .  .  .  .  .  .  .  .  .  j  
+J  .  .  .  .  .  .  .  .  4  m  .  .  .  @  B  .  .  .  .  .  j  J  .  
+
+Client->WORLD [15:40:49 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 291 RemoteSeq: 252
+02 
+.  
+
+Client->WORLD [15:40:52 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 6c dc 58 01 
+.  .  .  .  .  .  .  .  l  .  X  .  
+
+WORLD->Client [15:40:52 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 6c dc 58 01 
+.  .  .  .  .  .  .  .  l  .  X  .  
+

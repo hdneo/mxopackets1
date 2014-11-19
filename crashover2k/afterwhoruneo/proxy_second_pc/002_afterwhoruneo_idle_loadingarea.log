@@ -1,0 +1,25 @@
+WORLD->Client [15:11:56 07/29/09] packet size: 1
+PSS: ff LocalSeq: 16 RemoteSeq: 16
+02 
+.  
+
+Client->WORLD [15:11:56 07/29/09] packet size: 1
+PSS: ff LocalSeq: 17 RemoteSeq: 15
+02 
+.  
+
+Client->WORLD [15:11:57 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 18 RemoteSeq: 16
+02 
+.  
+
+WORLD->Client [15:11:57 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 17 RemoteSeq: 18
+82 6a 16 00 49 
+.  j  .  .  I  
+
+Client->WORLD [15:11:57 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 19 RemoteSeq: 17
+02 
+.  
+

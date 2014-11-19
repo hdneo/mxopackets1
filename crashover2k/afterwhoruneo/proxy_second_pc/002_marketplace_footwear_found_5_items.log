@@ -1,0 +1,62 @@
+Items found:
+
+1. Armored Orange Stripe Dada Shoes
+MALE
+Costs : 15000
+No org
+
+2. Black Kovach Leather boots 
+FEMALE
+Costs : 800
+Zion 
+
+3. Black Kovach Leather boots 
+FEMALE
+Costs : 8000
+Mero
+
+4. Magenta Avero Heeled Pumps 
+FEMALE
+Costs : 5800
+Mero 
+
+5. Shielded Green Skaver Low boots
+FEMALE
+costs : 5600
+No Org
+
+--------------------------------------------
+
+Client->WORLD [15:34:07 07/29/09] packet size: 34
+PSS: 7f LocalSeq: 229 RemoteSeq: 194
+02 04 01 00 26 01 1b 81 24 49 41 46 77 00 00 00 00 00 00 00 00 19 00 ff c9 9a 3b 00 00 00 00 01 
+00 00 
+.  .  .  .  &  .  .  .  $  I  A  F  w  .  .  .  .  .  .  .  .  .  .  .  .  .  ;  .  .  .  .  .  
+.  .  
+
+WORLD->Client [15:34:07 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 195 RemoteSeq: 229
+82 8c 69 00 49 
+.  .  i  .  I  
+
+Client->WORLD [15:34:07 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 230 RemoteSeq: 195
+02 
+.  
+
+WORLD->Client [15:34:07 07/29/09] packet size: 128
+PSS: 7f LocalSeq: 196 RemoteSeq: 229
+02 04 01 01 48 01 79 81 25 09 00 00 00 00 00 00 6e 00 87 03 00 00 00 00 00 38 87 cc 12 00 20 03 
+00 00 01 0b 0a 66 4a 00 87 03 00 00 00 00 00 34 bd cf 12 00 40 1f 00 00 03 10 db 6a 4a 00 72 1a 
+00 00 00 00 00 10 d3 d1 12 00 a8 16 00 00 03 e1 27 6e 4a 00 48 62 00 00 00 00 00 48 43 d2 12 00 
+e0 15 00 00 00 96 59 70 4a 00 27 49 00 00 00 00 00 34 45 d2 12 00 f0 3c 00 00 00 ad 59 70 4a 00 
+.  .  .  .  H  .  y  .  %  .  .  .  .  .  .  .  n  .  .  .  .  .  .  .  .  8  .  .  .  .     .  
+.  .  .  .  .  f  J  .  .  .  .  .  .  .  .  4  .  .  .  .  @  .  .  .  .  .  .  j  J  .  r  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  '  n  J  .  H  b  .  .  .  .  .  H  C  .  .  .  
+.  .  .  .  .  .  Y  p  J  .  '  I  .  .  .  .  .  4  E  .  .  .  .  <  .  .  .  .  Y  p  J  .  
+
+Client->WORLD [15:34:07 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 231 RemoteSeq: 196
+02 
+.  
+

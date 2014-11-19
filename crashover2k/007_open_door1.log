@@ -1,0 +1,69 @@
+WORLD->Client [14:43:23 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 571 RemoteSeq: 667
+02 03 02 00 02 80 80 80 40 1d 09 00 00 
+.  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:23 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 668 RemoteSeq: 571
+02 
+.  
+
+Client->WORLD [14:43:24 07/30/09] packet size: 15
+PSS: 7f LocalSeq: 669 RemoteSeq: 571
+02 04 01 00 49 01 08 80 c8 08 00 f0 34 03 00 
+.  .  .  .  I  .  .  .  .  .  .  .  4  .  .  
+
+WORLD->Client [14:43:24 07/30/09] packet size: 79
+PSS: 7f LocalSeq: 572 RemoteSeq: 669
+82 fc ef 99 45 03 02 00 02 80 80 80 40 31 09 01 00 08 a0 01 08 00 f0 34 24 cd ab 03 84 00 00 00 
+00 f3 04 35 bf 00 00 00 00 f3 04 35 3f 41 00 00 00 00 80 a6 f0 c0 00 00 00 00 00 20 62 40 00 00 
+00 00 00 b3 d0 40 34 08 00 00 08 00 00 00 00 
+.  .  .  .  E  .  .  .  .  .  .  .  @  1  .  .  .  .  .  .  .  .  .  4  $  .  .  .  .  .  .  .  
+.  .  .  5  .  .  .  .  .  .  .  5  ?  A  .  .  .  .  .  .  .  .  .  .  .  .  .     b  @  .  .  
+.  .  .  .  .  @  4  .  .  .  .  .  .  .  .  
+
+Client->WORLD [14:43:24 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 670 RemoteSeq: 572
+02 
+.  
+
+WORLD->Client [14:43:25 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 573 RemoteSeq: 670
+02 03 02 00 02 80 80 80 40 46 09 00 00 
+.  .  .  .  .  .  .  .  @  F  .  .  .  
+
+Client->WORLD [14:43:25 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 671 RemoteSeq: 573
+02 
+.  
+
+WORLD->Client [14:43:26 07/30/09] packet size: 17
+PSS: 7f LocalSeq: 574 RemoteSeq: 671
+82 fc ff 99 45 03 02 00 02 80 80 80 40 5a 09 00 00 
+.  .  .  .  E  .  .  .  .  .  .  .  @  Z  .  .  .  
+
+Client->WORLD [14:43:26 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 672 RemoteSeq: 574
+02 
+.  
+
+WORLD->Client [14:43:27 07/30/09] packet size: 13
+PSS: 7f LocalSeq: 575 RemoteSeq: 672
+02 03 02 00 02 80 80 80 40 6f 09 00 00 
+.  .  .  .  .  .  .  .  @  o  .  .  .  
+
+Client->WORLD [14:43:27 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 673 RemoteSeq: 575
+02 
+.  
+
+WORLD->Client [14:43:28 07/30/09] packet size: 17
+PSS: 7f LocalSeq: 576 RemoteSeq: 673
+82 fd 10 9a 45 03 02 00 02 80 80 80 40 83 09 00 00 
+.  .  .  .  E  .  .  .  .  .  .  .  @  .  .  .  .  
+
+Client->WORLD [14:43:28 07/30/09] packet size: 1
+PSS: 7f LocalSeq: 674 RemoteSeq: 576
+02 
+.  
+

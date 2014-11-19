@@ -1,0 +1,799 @@
+GAME->Client [17:05:21 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 323 ClientSeq: 270
+02 03 0f 00 02 0e 01 8d 3d 84 3a 47 00 20 8a c4 a6 63 31 c6 00 00 
+........=.:G. ...c1...
+
+Client->GAME [17:05:21 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 259 ClientSeq: 319
+02 
+.
+
+GAME->Client [17:05:21 07/15/09] packet size: 26 CRYPTED, Flags: 7f ServerSeq: 324 ClientSeq: 270
+82 58 62 01 49 03 0f 00 02 0e 01 8c b6 7d 3a 47 00 20 8a c4 b1 b9 31 c6 00 00 
+.Xb.I........}:G. ....1...
+
+Client->GAME [17:05:21 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 260 ClientSeq: 320
+02 
+.
+
+GAME->Client [17:05:21 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 325 ClientSeq: 256
+02 03 17 00 02 08 c1 db 34 47 00 20 8a c4 7e 0a 4c c5 00 00 
+........4G. ..~.L...
+
+Client->GAME [17:05:21 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 261 ClientSeq: 321
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 326 ClientSeq: 257
+02 03 0f 00 02 08 ff 4f 3a 47 00 20 8a c4 85 14 34 c6 00 00 
+.......O:G. ....4...
+
+Client->GAME [17:05:22 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 262 ClientSeq: 322
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 45 CRYPTED, Flags: 7f ServerSeq: 327 ClientSeq: 257
+02 03 11 00 02 0e 04 2c 05 8e 30 47 00 20 8a c4 f4 43 3e c5 0f 00 02 2a 00 40 00 00 00 10 01 ef 
+42 3a 47 00 20 8a c4 bc c0 34 c6 00 00 
+.......,..0G. ...C>....*.@......B:G. ....4...
+
+Client->GAME [17:05:22 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 263 ClientSeq: 323
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 26 CRYPTED, Flags: 7f ServerSeq: 328 ClientSeq: 258
+82 6c 62 01 49 03 11 00 02 0e 04 36 05 8e 30 47 00 20 8a c4 f4 43 3e c5 00 00 
+.lb.I......6..0G. ...C>...
+
+Client->GAME [17:05:22 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 264 ClientSeq: 324
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 37 CRYPTED, Flags: 7f ServerSeq: 329 ClientSeq: 259
+02 03 17 00 02 08 98 88 35 47 00 20 8a c4 8e e8 48 c5 11 00 02 0c 40 05 8e 30 47 00 20 8a c4 f4 
+43 3e c5 00 00 
+........5G. ....H.....@..0G. ...C>...
+
+Client->GAME [17:05:22 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 265 ClientSeq: 325
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 330 ClientSeq: 260
+02 03 11 00 02 0c 4a 05 8e 30 47 00 20 8a c4 f4 43 3e c5 00 00 
+......J..0G. ...C>...
+
+Client->GAME [17:05:22 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 266 ClientSeq: 326
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 331 ClientSeq: 261
+02 03 11 00 02 0c 54 05 8e 30 47 00 20 8a c4 f4 43 3e c5 00 00 
+......T..0G. ...C>...
+
+Client->GAME [17:05:22 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 267 ClientSeq: 327
+02 
+.
+
+GAME->Client [17:05:22 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 332 ClientSeq: 262
+02 03 11 00 02 0c 5e 05 8e 30 47 00 20 8a c4 f4 43 3e c5 00 00 
+......^..0G. ...C>...
+
+Client->GAME [17:05:23 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 268 ClientSeq: 328
+02 
+.
+
+GAME->Client [17:05:23 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 333 ClientSeq: 263
+02 03 11 00 02 0e 01 68 9d 9b 30 47 00 20 8a c4 da 61 3f c5 0f 00 02 0c 8b 03 1c 3a 47 00 20 8a 
+c4 cd c5 36 c6 00 00 
+.......h..0G. ...a?........:G. ....6...
+
+Client->GAME [17:05:23 07/15/09] packet size: 50 CRYPTED, Flags: 7f ServerSeq: 269 ClientSeq: 329
+02 04 01 00 20 01 2b 80 b9 d9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 20 e5 8e 25 00 00 00 00 08 6b 00 00 00 00 00 
+.... .+............................ ..%.....k.....
+
+GAME->Client [17:05:23 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 334 ClientSeq: 264
+02 03 11 00 02 0e 01 70 fa a4 30 47 00 20 8a c4 e4 a8 40 c5 0f 00 02 0c 8b bf 15 3a 47 00 20 8a 
+c4 39 1c 37 c6 00 00 
+.......p..0G. ....@........:G. ..9.7...
+
+Client->GAME [17:05:23 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 330
+02 
+.
+
+GAME->Client [17:05:23 07/15/09] packet size: 64 CRYPTED, Flags: 7f ServerSeq: 335 ClientSeq: 265
+02 03 02 00 03 28 01 c0 00 98 d9 00 00 30 27 47 00 20 8a c4 00 38 b1 c5 d7 8a 96 1f 80 80 80 80 
+30 1d 0a 00 28 01 00 00 04 01 01 8b 01 12 80 ac d9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 
+.....(.......0'G. ...8..........0...(..........................@
+
+Client->GAME [17:05:23 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 331
+02 03 02 00 01 20 01 00 00 
+..... ...
+
+Client->GAME [17:05:23 07/15/09] packet size: 10 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 332
+02 03 02 00 01 22 01 01 00 00 
+....."....
+
+GAME->Client [17:05:23 07/15/09] packet size: 209 CRYPTED, Flags: 7f ServerSeq: 336 ClientSeq: 266
+02 03 02 00 03 28 01 c0 00 98 d9 00 00 30 27 47 00 20 8a c4 00 38 b1 c5 54 8b 96 1f ff 01 64 01 
+00 00 00 00 00 00 00 00 00 00 00 08 41 6e 64 65 72 73 6f 6e 06 54 68 6f 6d 61 73 ff 00 00 73 1a 
+e9 88 80 60 04 00 02 8e 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ff 28 0a 32 00 f0 
+20 46 14 00 01 3a 96 1f 00 00 00 00 00 e6 e4 40 00 00 00 00 00 44 91 c0 00 00 00 00 00 27 b6 c0 
+00 ff 00 00 00 00 00 f7 00 00 00 f7 00 00 00 00 00 28 0a ff 00 31 5e 00 00 00 00 00 00 00 1d 0a 
+00 28 01 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 11 00 00 00 4b b1 00 00 71 02 
+00 00 3f 00 00 00 01 22 00 00 00 00 00 00 00 00 00 
+.....(.......0'G. ...8..T.....d.............Anderson.Thomas...s....`.......................(.2..
+ F...:.........@.....D.......'...................(...1^..........(...................?....K...q.
+..?....".........
+
+Client->GAME [17:05:23 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 333
+02 03 02 00 01 2a 01 00 00 30 27 47 00 20 8a c4 00 38 b1 c5 00 00 
+.....*...0'G. ...8....
+
+Client->GAME [17:05:23 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 256 ClientSeq: 334
+02 
+.
+
+GAME->Client [17:05:23 07/15/09] packet size: 207 CRYPTED, Flags: 7f ServerSeq: 337 ClientSeq: 267
+82 7e 62 01 49 03 02 00 03 08 00 30 27 47 00 20 8a c4 00 38 b1 c5 d1 8b 96 1f ff 01 64 01 00 00 
+00 00 00 00 00 00 00 00 00 08 41 6e 64 65 72 73 6f 6e 06 54 68 6f 6d 61 73 ff 00 00 73 1a e9 88 
+80 60 04 00 02 8e 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ff 28 0a 32 00 f0 20 46 
+14 00 01 3a 96 1f 00 00 00 00 00 e6 e4 40 00 00 00 00 00 44 91 c0 00 00 00 00 00 27 b6 c0 00 ff 
+00 00 00 00 00 f7 00 00 00 f7 00 00 00 00 00 28 0a ff 00 31 5e 00 00 00 00 00 00 00 1d 0a 00 28 
+01 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 11 00 00 00 4b b1 00 00 71 02 00 00 
+3f 00 00 00 01 22 00 00 00 00 00 00 00 00 00 
+.~b.I......0'G. ...8........d.............Anderson.Thomas...s....`.......................(.2.. F
+...:.........@.....D.......'...................(...1^..........(...................?....K...q...
+?....".........
+
+GAME->Client [17:05:23 07/15/09] packet size: 182 CRYPTED, Flags: 7f ServerSeq: 338 ClientSeq: 269
+02 03 02 00 03 08 00 30 27 47 00 20 8a c4 00 38 b1 c5 4e 8c 96 1f 80 80 80 80 80 80 0c 01 d9 00 
+00 00 01 00 0c 57 02 23 cd ab 15 8e 47 6f 6c 64 20 42 6c 6f 6f 64 20 43 68 61 6d 70 69 6f 6e 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 10 00 00 22 d5 01 05 61 1c 00 c6 01 80 d3 d7 09 00 58 4c 
+0a 00 28 0a 00 00 00 bc bb b6 e6 40 00 00 00 00 00 44 91 c0 00 00 00 d0 ec 89 c6 c0 c0 01 83 01 
+01 a8 0d ee 02 b2 04 ee 02 07 08 00 00 81 b5 02 00 00 02 03 1d 00 00 17 00 02 08 29 4b 36 47 00 
+20 8a c4 d6 61 45 c5 00 00 04 01 01 8c 01 07 80 ad d9 00 00 00 01 
+.......0'G. ...8..N..................W.#....Gold Blood Champion................."...a.........XL
+..(........@.....D.........................................)K6G. ...aE................
+
+Client->GAME [17:05:23 07/15/09] packet size: 1 CRYPTED, Flags: 7e ServerSeq: 258 ClientSeq: 335
+02 
+.
+
+GAME->Client [17:05:23 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 339 ClientSeq: 271
+02 03 08 00 02 0e 04 c1 f2 67 39 47 00 20 8a c4 60 6d a7 c4 00 00 
+.........g9G. ..`m....
+
+Client->GAME [17:05:24 07/15/09] packet size: 1 CRYPTED, Flags: 7d ServerSeq: 259 ClientSeq: 336
+02 
+.
+
+GAME->Client [17:05:24 07/15/09] packet size: 54 CRYPTED, Flags: 7f ServerSeq: 340 ClientSeq: 271
+02 03 1d 00 02 08 f0 be 35 47 00 20 8a c4 37 44 33 c6 11 00 02 08 be e0 30 47 00 20 8a c4 b2 c4 
+49 c5 08 00 02 0e 04 cb f2 67 39 47 00 20 8a c4 60 6d a7 c4 00 00 
+........5G. ..7D3.......0G. ....I........g9G. ..`m....
+
+Client->GAME [17:05:24 07/15/09] packet size: 1 CRYPTED, Flags: 7b ServerSeq: 260 ClientSeq: 337
+02 
+.
+
+GAME->Client [17:05:24 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 341 ClientSeq: 256
+02 03 08 00 02 0c d5 f2 67 39 47 00 20 8a c4 60 6d a7 c4 00 00 
+........g9G. ..`m....
+
+GAME->Client [17:05:24 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 342 ClientSeq: 257
+02 03 17 00 02 0e 05 2f 3f ac 36 47 00 20 8a c4 14 9d 43 c5 08 00 02 0c df f2 67 39 47 00 20 8a 
+c4 60 6d a7 c4 00 00 
+......./?.6G. ....C.......g9G. ..`m....
+
+Client->GAME [17:05:24 07/15/09] packet size: 1 CRYPTED, Flags: 6e ServerSeq: 262 ClientSeq: 338
+02 
+.
+
+GAME->Client [17:05:24 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 343 ClientSeq: 257
+02 03 17 00 02 0e 05 25 3f ac 36 47 00 20 8a c4 14 9d 43 c5 08 00 02 0c e9 f2 67 39 47 00 20 8a 
+c4 60 6d a7 c4 00 00 
+.......%?.6G. ....C.......g9G. ..`m....
+
+Client->GAME [17:05:24 07/15/09] packet size: 1 CRYPTED, Flags: 5d ServerSeq: 263 ClientSeq: 339
+02 
+.
+
+GAME->Client [17:05:24 07/15/09] packet size: 40 CRYPTED, Flags: 7f ServerSeq: 344 ClientSeq: 258
+02 03 17 00 02 0e 00 1b 3f ac 36 47 00 20 8a c4 14 9d 43 c5 08 00 02 0e 01 f3 65 64 39 47 00 20 
+8a c4 90 15 a6 c4 00 00 
+........?.6G. ....C.......ed9G. ........
+
+Client->GAME [17:05:24 07/15/09] packet size: 1 CRYPTED, Flags: 3b ServerSeq: 264 ClientSeq: 340
+02 
+.
+
+GAME->Client [17:05:24 07/15/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 345 ClientSeq: 260
+82 94 62 01 49 03 17 00 02 0c 10 3f ac 36 47 00 20 8a c4 14 9d 43 c5 00 00 
+..b.I......?.6G. ....C...
+
+Client->GAME [17:05:25 07/15/09] packet size: 1 CRYPTED, Flags: 77 ServerSeq: 265 ClientSeq: 341
+02 
+.
+
+GAME->Client [17:05:25 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 346 ClientSeq: 260
+02 03 11 00 02 0e 05 58 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 08 00 02 0c 02 b2 64 39 47 00 20 8a 
+c4 48 e2 9a c4 00 00 
+.......X..1G. ....P.......d9G. ..H.....
+
+Client->GAME [17:05:25 07/15/09] packet size: 1 CRYPTED, Flags: 6f ServerSeq: 266 ClientSeq: 342
+02 
+.
+
+GAME->Client [17:05:25 07/15/09] packet size: 38 CRYPTED, Flags: 7f ServerSeq: 347 ClientSeq: 261
+02 03 1d 00 02 08 2f da 35 47 00 20 8a c4 c6 21 30 c6 11 00 02 0e 05 4e 8f 0e 31 47 00 20 8a c4 
+ae f3 50 c5 00 00 
+....../.5G. ...!0......N..1G. ....P...
+
+Client->GAME [17:05:25 07/15/09] packet size: 9 CRYPTED, Flags: 5f ServerSeq: 267 ClientSeq: 343
+02 03 02 00 01 02 03 00 00 
+.........
+
+Client->GAME [17:05:25 07/15/09] packet size: 21 CRYPTED, Flags: 5f ServerSeq: 267 ClientSeq: 344
+02 03 02 00 01 0a 03 00 30 27 47 00 20 8a c4 10 b6 b1 c5 00 00 
+........0'G. ........
+
+GAME->Client [17:05:25 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 348 ClientSeq: 262
+02 03 11 00 02 0c 44 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 00 00 
+......D..1G. ....P...
+
+Client->GAME [17:05:25 07/15/09] packet size: 1 CRYPTED, Flags: 3f ServerSeq: 268 ClientSeq: 345
+02 
+.
+
+Client->GAME [17:05:25 07/15/09] packet size: 21 CRYPTED, Flags: 3f ServerSeq: 268 ClientSeq: 346
+02 03 02 00 01 0a 03 00 30 27 47 00 20 8a c4 02 b8 b3 c5 00 00 
+........0'G. ........
+
+GAME->Client [17:05:25 07/15/09] packet size: 27 CRYPTED, Flags: 7f ServerSeq: 349 ClientSeq: 263
+02 03 02 00 02 80 04 1e 11 00 02 0c 3a 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 00 00 
+............:..1G. ....P...
+
+Client->GAME [17:05:25 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 269 ClientSeq: 347
+02 03 02 00 01 08 00 30 27 47 00 20 8a c4 57 39 b5 c5 00 00 
+.......0'G. ..W9....
+
+GAME->Client [17:05:25 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 350 ClientSeq: 265
+02 03 23 00 02 0e 05 58 57 2c 33 47 00 20 8a c4 90 75 3f c5 11 00 02 0c 30 8f 0e 31 47 00 20 8a 
+c4 ae f3 50 c5 00 00 
+..#....XW,3G. ...u?.....0..1G. ....P...
+
+Client->GAME [17:05:25 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 269 ClientSeq: 348
+02 03 02 00 01 08 00 30 27 47 00 20 8a c4 19 f5 b6 c5 00 00 
+.......0'G. ........
+
+Client->GAME [17:05:25 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 349
+02 
+.
+
+Client->GAME [17:05:25 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 350
+02 03 02 00 01 0a 00 00 30 27 47 00 20 8a c4 99 f8 b8 c5 00 00 
+........0'G. ........
+
+GAME->Client [17:05:25 07/15/09] packet size: 55 CRYPTED, Flags: 7f ServerSeq: 351 ClientSeq: 267
+02 03 23 00 02 0e 05 4e 57 2c 33 47 00 20 8a c4 90 75 3f c5 11 00 02 0c 26 8f 0e 31 47 00 20 8a 
+c4 ae f3 50 c5 08 00 02 08 38 6a 39 47 00 20 8a c4 f0 d3 8c c4 00 00 
+..#....NW,3G. ...u?.....&..1G. ....P.....8j9G. ........
+
+Client->GAME [17:05:25 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 351
+02 03 02 00 01 0a 00 00 30 27 47 00 20 8a c4 4f 7a b9 c5 00 00 
+........0'G. ..Oz....
+
+GAME->Client [17:05:25 07/15/09] packet size: 56 CRYPTED, Flags: 7f ServerSeq: 352 ClientSeq: 269
+02 03 23 00 02 0c 44 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0e 04 0b f2 e7 35 47 00 20 8a 
+c4 7f 90 2e c6 11 00 02 0c 1c 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 00 00 
+..#...DW,3G. ...u?.........5G. .............1G. ....P...
+
+Client->GAME [17:05:25 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 352
+02 03 02 00 01 0a 05 00 30 27 47 00 20 8a c4 4f 7a b9 c5 00 00 
+........0'G. ..Oz....
+
+Client->GAME [17:05:25 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 256 ClientSeq: 353
+02 03 02 00 01 0e 05 7d 00 30 27 47 00 20 8a c4 4f 7a b9 c5 00 00 
+.......}.0'G. ..Oz....
+
+GAME->Client [17:05:25 07/15/09] packet size: 62 CRYPTED, Flags: 7f ServerSeq: 353 ClientSeq: 271
+02 03 02 00 02 80 04 00 23 00 02 0c 3a 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0e 04 15 f2 
+e7 35 47 00 20 8a c4 7f 90 2e c6 11 00 02 0c 12 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 00 00 
+........#...:W,3G. ...u?.........5G. .............1G. ....P...
+
+Client->GAME [17:05:25 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 256 ClientSeq: 354
+02 03 02 00 01 0e 05 78 00 30 27 47 00 20 8a c4 4f 7a b9 c5 00 00 
+.......x.0'G. ..Oz....
+
+Client->GAME [17:05:26 07/15/09] packet size: 10 CRYPTED, Flags: 7f ServerSeq: 257 ClientSeq: 355
+02 03 02 00 01 06 05 73 00 00 
+.......s..
+
+Client->GAME [17:05:26 07/15/09] packet size: 10 CRYPTED, Flags: 7f ServerSeq: 257 ClientSeq: 356
+02 03 02 00 01 06 05 6d 00 00 
+.......m..
+
+GAME->Client [17:05:26 07/15/09] packet size: 77 CRYPTED, Flags: 7f ServerSeq: 354 ClientSeq: 257
+82 a6 62 01 49 03 23 00 02 0c 30 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0c 1f f2 e7 35 47 
+00 20 8a c4 7f 90 2e c6 11 00 02 0c 08 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 0f 00 02 0e 00 af e3 
+ec 39 47 00 20 8a c4 dc 4d 39 c6 00 00 
+..b.I.#...0W,3G. ...u?........5G. .............1G. ....P.........9G. ...M9...
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 258 ClientSeq: 357
+02 03 02 00 01 04 68 00 00 
+......h..
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 258 ClientSeq: 358
+02 03 02 00 01 04 63 00 00 
+......c..
+
+GAME->Client [17:05:26 07/15/09] packet size: 74 CRYPTED, Flags: 7f ServerSeq: 355 ClientSeq: 259
+02 03 23 00 02 0c 26 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0c 29 f2 e7 35 47 00 20 8a c4 
+7f 90 2e c6 11 00 02 0e 00 fe 8f 0e 31 47 00 20 8a c4 ae f3 50 c5 0f 00 02 0e 00 af e3 ec 39 47 
+00 20 8a c4 dc 4d 39 c6 00 00 
+..#...&W,3G. ...u?.....)..5G. ..............1G. ....P.........9G. ...M9...
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 259 ClientSeq: 359
+02 03 02 00 01 04 5d 00 00 
+......]..
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 259 ClientSeq: 360
+02 03 02 00 01 04 58 00 00 
+......X..
+
+GAME->Client [17:05:26 07/15/09] packet size: 74 CRYPTED, Flags: 7f ServerSeq: 356 ClientSeq: 261
+02 03 23 00 02 0c 1c 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0c 33 f2 e7 35 47 00 20 8a c4 
+7f 90 2e c6 13 00 02 0e 01 8b b6 c4 36 47 00 20 8a c4 10 62 98 c4 11 00 02 0e 00 f4 8f 0e 31 47 
+00 20 8a c4 ae f3 50 c5 00 00 
+..#....W,3G. ...u?.....3..5G. ..............6G. ...b..........1G. ....P...
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 259 ClientSeq: 361
+02 03 02 00 01 04 53 00 00 
+......S..
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 260 ClientSeq: 362
+02 03 02 00 01 04 4e 00 00 
+......N..
+
+GAME->Client [17:05:26 07/15/09] packet size: 56 CRYPTED, Flags: 7f ServerSeq: 357 ClientSeq: 263
+02 03 23 00 02 0c 12 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0c 3d f2 e7 35 47 00 20 8a c4 
+7f 90 2e c6 13 00 02 0e 01 85 b1 c1 36 47 00 20 8a c4 e0 29 9b c4 00 00 
+..#....W,3G. ...u?.....=..5G. ..............6G. ...)....
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 260 ClientSeq: 363
+02 03 02 00 01 04 48 00 00 
+......H..
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 261 ClientSeq: 364
+02 03 02 00 01 04 43 00 00 
+......C..
+
+GAME->Client [17:05:26 07/15/09] packet size: 38 CRYPTED, Flags: 7f ServerSeq: 358 ClientSeq: 266
+02 03 23 00 02 0c 08 57 2c 33 47 00 20 8a c4 90 75 3f c5 1d 00 02 0c 47 f2 e7 35 47 00 20 8a c4 
+7f 90 2e c6 00 00 
+..#....W,3G. ...u?.....G..5G. ........
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 261 ClientSeq: 365
+02 03 02 00 01 04 3c 00 00 
+......<..
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 262 ClientSeq: 366
+02 03 02 00 01 04 37 00 00 
+......7..
+
+GAME->Client [17:05:26 07/15/09] packet size: 56 CRYPTED, Flags: 7f ServerSeq: 359 ClientSeq: 268
+02 03 23 00 02 0e 01 fe ca 2b 33 47 00 20 8a c4 b0 c1 3e c5 1d 00 02 0e 00 51 f2 e7 35 47 00 20 
+8a c4 7f 90 2e c6 08 00 02 08 0c 73 39 47 00 20 8a c4 00 bb 6c c4 00 00 
+..#......+3G. ....>......Q..5G. ...........s9G. ....l...
+
+Client->GAME [17:05:26 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 262 ClientSeq: 367
+02 03 02 00 01 04 31 00 00 
+......1..
+
+Client->GAME [17:05:26 07/15/09] packet size: 10 CRYPTED, Flags: 7f ServerSeq: 263 ClientSeq: 368
+02 03 02 00 01 06 00 2c 00 00 
+.......,..
+
+GAME->Client [17:05:26 07/15/09] packet size: 40 CRYPTED, Flags: 7f ServerSeq: 360 ClientSeq: 270
+02 03 23 00 02 0e 01 f4 9c 26 33 47 00 20 8a c4 08 64 3d c5 1d 00 02 0e 00 5b f2 e7 35 47 00 20 
+8a c4 7f 90 2e c6 00 00 
+..#......&3G. ...d=......[..5G. ........
+
+Client->GAME [17:05:26 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 264 ClientSeq: 369
+02 
+.
+
+GAME->Client [17:05:26 07/15/09] packet size: 38 CRYPTED, Flags: 7f ServerSeq: 361 ClientSeq: 256
+02 03 23 00 02 0c f1 84 1e 33 47 00 20 8a c4 60 14 3c c5 1d 00 02 0c 5e f2 e7 35 47 00 20 8a c4 
+7f 90 2e c6 00 00 
+..#......3G. ..`.<.....^..5G. ........
+
+Client->GAME [17:05:26 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 265 ClientSeq: 370
+02 
+.
+
+GAME->Client [17:05:27 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 362 ClientSeq: 258
+02 03 13 00 02 08 6a ae 36 47 00 20 8a c4 a8 b3 ae c4 00 00 
+......j.6G. ........
+
+Client->GAME [17:05:27 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 266 ClientSeq: 371
+02 
+.
+
+GAME->Client [17:05:27 07/15/09] packet size: 25 CRYPTED, Flags: 7f ServerSeq: 363 ClientSeq: 259
+82 be 62 01 49 03 13 00 02 0c 84 2e a9 36 47 00 20 8a c4 80 4a b4 c4 00 00 
+..b.I........6G. ...J....
+
+Client->GAME [17:05:27 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 267 ClientSeq: 372
+02 
+.
+
+GAME->Client [17:05:27 07/15/09] packet size: 54 CRYPTED, Flags: 7f ServerSeq: 364 ClientSeq: 260
+02 03 23 00 02 08 d6 e5 32 47 00 20 8a c4 40 e5 32 c5 0b 00 02 0e 05 9c 1d c5 25 47 00 20 8a c4 
+d0 0f 8a c4 08 00 02 08 fb 7c 39 47 00 20 8a c4 90 2b 3a c4 00 00 
+..#.....2G. ..@.2.........%G. ...........|9G. ...+:...
+
+Client->GAME [17:05:27 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 268 ClientSeq: 373
+02 
+.
+
+GAME->Client [17:05:27 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 365 ClientSeq: 260
+02 03 0b 00 02 0e 05 92 1d c5 25 47 00 20 8a c4 d0 0f 8a c4 00 00 
+..........%G. ........
+
+Client->GAME [17:05:27 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 269 ClientSeq: 374
+02 
+.
+
+GAME->Client [17:05:28 07/15/09] packet size: 38 CRYPTED, Flags: 7f ServerSeq: 366 ClientSeq: 261
+02 03 23 00 02 0c f2 e0 d5 32 47 00 20 8a c4 f8 42 30 c5 0b 00 02 0c 88 1d c5 25 47 00 20 8a c4 
+d0 0f 8a c4 00 00 
+..#......2G. ...B0........%G. ........
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 375
+02 
+.
+
+Client->GAME [17:05:28 07/15/09] packet size: 50 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 376
+02 04 01 00 21 01 2b 80 b9 d9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 20 00 00 00 78 f2 12 00 08 6b 00 00 00 00 00 
+....!.+............................ ...x....k.....
+
+GAME->Client [17:05:28 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 367 ClientSeq: 262
+02 03 0b 00 02 0c 7e 1d c5 25 47 00 20 8a c4 d0 0f 8a c4 00 00 
+......~..%G. ........
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 377
+02 
+.
+
+GAME->Client [17:05:28 07/15/09] packet size: 37 CRYPTED, Flags: 7f ServerSeq: 368 ClientSeq: 263
+02 03 13 00 02 08 4d 9a 36 47 00 20 8a c4 08 0f c5 c4 0b 00 02 0c 74 1d c5 25 47 00 20 8a c4 d0 
+0f 8a c4 00 00 
+......M.6G. ..........t..%G. ........
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 256 ClientSeq: 378
+02 
+.
+
+GAME->Client [17:05:28 07/15/09] packet size: 94 CRYPTED, Flags: 7f ServerSeq: 369 ClientSeq: 265
+02 03 02 00 03 28 02 c0 00 98 d9 00 00 30 27 47 00 20 8a c4 4f 7a b9 c5 dc 9e 96 1f 80 80 80 80 
+20 02 0b 00 02 0c 6a 1d c5 25 47 00 20 8a c4 d0 0f 8a c4 08 00 02 0c 01 3a 82 39 47 00 20 8a c4 
+b0 13 1e c4 00 00 04 01 01 8d 01 12 80 ac d9 00 00 00 00 00 00 00 00 00 00 00 00 00 00 40 
+.....(.......0'G. ..Oz.......... .....j..%G. ...........:.9G. ...............................@
+
+Client->GAME [17:05:28 07/15/09] packet size: 10 CRYPTED, Flags: 7f ServerSeq: 257 ClientSeq: 379
+02 03 02 00 01 22 02 98 00 00 
+....."....
+
+GAME->Client [17:05:28 07/15/09] packet size: 226 CRYPTED, Flags: 7f ServerSeq: 370 ClientSeq: 266
+02 03 02 00 03 28 02 c0 00 98 d9 00 00 30 27 47 00 20 8a c4 4f 7a b9 c5 59 9f 96 1f ff 01 64 01 
+00 00 00 00 00 00 00 00 00 00 00 08 41 6e 64 65 72 73 6f 6e 06 54 68 6f 6d 61 73 ff 00 00 73 1a 
+e9 88 80 60 04 00 02 8e 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ff 28 0a 32 00 f0 
+20 46 14 00 01 3a 96 1f 00 00 00 00 00 e6 e4 40 00 00 00 00 00 44 91 c0 00 00 00 00 00 27 b6 c0 
+00 ff 00 00 00 00 00 f7 00 00 00 f7 00 00 00 00 00 28 0a ff 00 31 5e 00 00 00 00 00 00 00 1d 0a 
+00 28 02 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 11 00 00 00 4b b1 00 00 71 02 
+00 00 3f 00 00 00 01 22 01 d9 00 00 00 00 00 0b 00 02 0c 60 1d c5 25 47 00 20 8a c4 d0 0f 8a c4 
+00 00 
+.....(.......0'G. ..Oz..Y.....d.............Anderson.Thomas...s....`.......................(.2..
+ F...:.........@.....D.......'...................(...1^..........(...................?....K...q.
+..?...."...........`..%G. ........
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 258 ClientSeq: 380
+02 
+.
+
+GAME->Client [17:05:28 07/15/09] packet size: 224 CRYPTED, Flags: 7f ServerSeq: 371 ClientSeq: 267
+82 d0 62 01 49 03 02 00 03 08 00 30 27 47 00 20 8a c4 4f 7a b9 c5 d6 9f 96 1f ff 01 64 01 00 00 
+00 00 00 00 00 00 00 00 00 08 41 6e 64 65 72 73 6f 6e 06 54 68 6f 6d 61 73 ff 00 00 73 1a e9 88 
+80 60 04 00 02 8e 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ff 28 0a 32 00 f0 20 46 
+14 00 01 3a 96 1f 00 00 00 00 00 e6 e4 40 00 00 00 00 00 44 91 c0 00 00 00 00 00 27 b6 c0 00 ff 
+00 00 00 00 00 f7 00 00 00 f7 00 00 00 00 00 28 0a ff 00 31 5e 00 00 00 00 00 00 00 1d 0a 00 28 
+02 00 00 00 00 ff 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 11 00 00 00 4b b1 00 00 71 02 00 00 
+3f 00 00 00 01 22 01 d9 00 00 00 00 00 0b 00 02 0c 56 1d c5 25 47 00 20 8a c4 d0 0f 8a c4 00 00 
+..b.I......0'G. ..Oz........d.............Anderson.Thomas...s....`.......................(.2.. F
+...:.........@.....D.......'...................(...1^..........(...................?....K...q...
+?...."...........V..%G. ........
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 259 ClientSeq: 381
+02 
+.
+
+GAME->Client [17:05:28 07/15/09] packet size: 53 CRYPTED, Flags: 7f ServerSeq: 372 ClientSeq: 268
+02 03 23 00 02 08 dd a6 32 47 00 20 8a c4 7a 5b 28 c5 0b 00 02 0c 4c 1d c5 25 47 00 20 8a c4 d0 
+0f 8a c4 08 00 02 08 b6 84 39 47 00 20 8a c4 00 37 0d c4 00 00 
+..#.....2G. ..z[(.....L..%G. ............9G. ...7....
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 260 ClientSeq: 382
+02 
+.
+
+GAME->Client [17:05:28 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 373 ClientSeq: 269
+02 03 0b 00 02 0c 42 1d c5 25 47 00 20 8a c4 d0 0f 8a c4 00 00 
+......B..%G. ........
+
+Client->GAME [17:05:28 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 261 ClientSeq: 383
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 40 CRYPTED, Flags: 7f ServerSeq: 374 ClientSeq: 270
+02 03 0b 00 02 0e 01 38 25 d0 25 47 00 20 8a c4 98 c9 89 c4 08 00 02 0e 05 fd 18 86 39 47 00 20 
+8a c4 c0 c7 04 c4 00 00 
+.......8%.%G. ..............9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 262 ClientSeq: 384
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 40 CRYPTED, Flags: 7f ServerSeq: 375 ClientSeq: 271
+02 03 0b 00 02 0e 01 2e 00 e5 25 47 00 20 8a c4 e8 be 88 c4 08 00 02 0e 05 f3 18 86 39 47 00 20 
+8a c4 c0 c7 04 c4 00 00 
+..........%G. ..............9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 263 ClientSeq: 385
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 38 CRYPTED, Flags: 7f ServerSeq: 376 ClientSeq: 256
+02 03 0b 00 02 0c 2d 18 f9 25 47 00 20 8a c4 40 7b 87 c4 08 00 02 0c e9 18 86 39 47 00 20 8a c4 
+c0 c7 04 c4 00 00 
+......-..%G. ..@{.........9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 264 ClientSeq: 386
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 37 CRYPTED, Flags: 7f ServerSeq: 377 ClientSeq: 257
+02 03 13 00 02 08 fc 83 36 47 00 20 8a c4 e0 36 de c4 08 00 02 0c df 18 86 39 47 00 20 8a c4 c0 
+c7 04 c4 00 00 
+........6G. ...6.........9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 265 ClientSeq: 387
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 378 ClientSeq: 258
+02 03 13 00 02 0e 04 8a 9a 82 36 47 00 20 8a c4 10 9d df c4 08 00 02 0c d5 18 86 39 47 00 20 8a 
+c4 c0 c7 04 c4 00 00 
+..........6G. .............9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 266 ClientSeq: 388
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 379 ClientSeq: 259
+02 03 13 00 02 0e 04 94 9a 82 36 47 00 20 8a c4 10 9d df c4 08 00 02 0c cb 18 86 39 47 00 20 8a 
+c4 c0 c7 04 c4 00 00 
+..........6G. .............9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 267 ClientSeq: 389
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 58 CRYPTED, Flags: 7f ServerSeq: 380 ClientSeq: 260
+82 e2 62 01 49 03 23 00 02 08 22 68 32 47 00 20 8a c4 28 cf 1d c5 13 00 02 0c 9e 9a 82 36 47 00 
+20 8a c4 10 9d df c4 08 00 02 0c c1 18 86 39 47 00 20 8a c4 c0 c7 04 c4 00 00 
+..b.I.#..."h2G. ..(..........6G. .............9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 268 ClientSeq: 390
+02 
+.
+
+GAME->Client [17:05:29 07/15/09] packet size: 56 CRYPTED, Flags: 7f ServerSeq: 381 ClientSeq: 261
+02 03 13 00 02 0c a8 9a 82 36 47 00 20 8a c4 10 9d df c4 11 00 02 0e 01 2c 7d 18 31 47 00 20 8a 
+c4 c6 9e 50 c5 08 00 02 0c b7 18 86 39 47 00 20 8a c4 c0 c7 04 c4 00 00 
+.........6G. ...........,}.1G. ....P........9G. ........
+
+Client->GAME [17:05:29 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 269 ClientSeq: 391
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 56 CRYPTED, Flags: 7f ServerSeq: 382 ClientSeq: 262
+02 03 23 00 02 0e 04 f6 45 5c 32 47 00 20 8a c4 be d6 1b c5 13 00 02 0c b2 9a 82 36 47 00 20 8a 
+c4 10 9d df c4 08 00 02 0c ad 18 86 39 47 00 20 8a c4 c0 c7 04 c4 00 00 
+..#.....E\2G. .............6G. .............9G. ........
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 392
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 91 CRYPTED, Flags: 7f ServerSeq: 383 ClientSeq: 263
+02 03 23 00 02 0e 04 00 45 5c 32 47 00 20 8a c4 be d6 1b c5 13 00 02 0e 00 bc 9a 82 36 47 00 20 
+8a c4 10 9d df c4 11 00 02 0e 04 36 53 2c 31 47 00 20 8a c4 20 f5 4f c5 0b 00 02 08 c5 85 26 47 
+00 20 8a c4 80 42 7d c4 08 00 02 0c a3 18 86 39 47 00 20 8a c4 c0 c7 04 c4 00 00 
+..#.....E\2G. ..............6G. ...........6S,1G. .. .O.......&G. ...B}........9G. ........
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 393
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 76 CRYPTED, Flags: 7f ServerSeq: 384 ClientSeq: 264
+02 03 23 00 02 0e 00 0a 45 5c 32 47 00 20 8a c4 be d6 1b c5 13 00 02 0e 00 c6 9a 82 36 47 00 20 
+8a c4 10 9d df c4 11 00 02 0e 01 40 bf 42 31 47 00 20 8a c4 f4 de 4f c5 08 00 02 0e 00 99 18 86 
+39 47 00 20 8a c4 c0 c7 04 c4 00 00 
+..#.....E\2G. ..............6G. ...........@.B1G. ....O.........9G. ........
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 256 ClientSeq: 394
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 232 CRYPTED, Flags: 7f ServerSeq: 385 ClientSeq: 265
+02 03 02 00 02 80 80 80 90 cf 00 84 ff 80 03 00 00 08 01 12 23 00 02 0e 00 11 45 5c 32 47 00 20 
+8a c4 be d6 1b c5 13 00 02 0c c9 9a 82 36 47 00 20 8a c4 10 9d df c4 11 00 02 0e 01 47 fe 58 31 
+47 00 20 8a c4 c2 13 50 c5 08 00 02 0e 00 8f 18 86 39 47 00 20 8a c4 c0 c7 04 c4 00 00 04 02 01 
+8e 04 0b 80 bd 05 d9 00 00 00 00 00 00 01 06 80 c1 01 00 c8 00 16 80 bc 19 00 88 00 00 d9 00 00 
+00 70 02 00 00 00 00 00 00 00 00 00 16 80 bc 1d 00 89 00 00 70 02 00 00 00 00 00 00 00 00 00 00 
+00 00 00 01 92 01 41 81 67 17 00 27 00 b9 01 00 7c 01 d9 00 00 00 00 00 00 00 37 00 00 08 0e 00 
+41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 0e 00 41 66 74 65 72 57 68 6f 72 75 4e 65 6f 00 02 00 
+00 00 00 00 00 00 00 00 
+....................#.....E\2G. .............6G. ...........G.X1G. ....P.........9G. ...........
+.................................p..................p.................A.g..'....|.........7.....
+AfterWhoruNeo...AfterWhoruNeo...........
+
+Client->GAME [17:05:30 07/15/09] packet size: 9 CRYPTED, Flags: 7f ServerSeq: 257 ClientSeq: 395
+02 03 02 00 01 02 00 00 00 
+.........
+
+GAME->Client [17:05:30 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 386 ClientSeq: 266
+02 03 08 00 02 0c 8b 18 86 39 47 00 20 8a c4 c0 c7 04 c4 00 00 
+.........9G. ........
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 258 ClientSeq: 396
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 387 ClientSeq: 267
+02 03 1f 00 02 0e 05 68 a6 9c 27 47 00 20 8a c4 00 00 2f c3 00 00 
+.......h..'G. ..../...
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 259 ClientSeq: 397
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 388 ClientSeq: 268
+02 03 1f 00 02 0e 05 5e a6 9c 27 47 00 20 8a c4 00 00 2f c3 00 00 
+.......^..'G. ..../...
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 260 ClientSeq: 398
+02 
+.
+
+GAME->Client [17:05:30 07/15/09] packet size: 26 CRYPTED, Flags: 7f ServerSeq: 389 ClientSeq: 269
+82 f4 62 01 49 03 1f 00 02 0e 00 54 a6 9c 27 47 00 20 8a c4 00 00 2f c3 00 00 
+..b.I......T..'G. ..../...
+
+Client->GAME [17:05:30 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 261 ClientSeq: 399
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 38 CRYPTED, Flags: 7f ServerSeq: 390 ClientSeq: 270
+02 03 1f 00 02 0e 00 4d a6 9c 27 47 00 20 8a c4 00 00 2f c3 11 00 02 08 d5 c7 31 47 00 20 8a c4 
+7e 47 51 c5 00 00 
+.......M..'G. ..../.......1G. ..~GQ...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 262 ClientSeq: 400
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 391 ClientSeq: 271
+02 03 0b 00 02 08 8b 26 27 47 00 20 8a c4 20 07 69 c4 00 00 
+.......&'G. .. .i...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 263 ClientSeq: 401
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 31 CRYPTED, Flags: 7f ServerSeq: 392 ClientSeq: 257
+02 03 02 00 02 80 80 80 10 d2 00 17 00 02 0e 05 06 3f ac 36 47 00 20 8a c4 14 9d 43 c5 00 00 
+.................?.6G. ....C...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 264 ClientSeq: 402
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 393 ClientSeq: 257
+02 03 17 00 02 0e 05 fc 3f ac 36 47 00 20 8a c4 14 9d 43 c5 00 00 
+........?.6G. ....C...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 265 ClientSeq: 403
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 394 ClientSeq: 258
+02 03 17 00 02 0c f2 3f ac 36 47 00 20 8a c4 14 9d 43 c5 00 00 
+.......?.6G. ....C...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 266 ClientSeq: 404
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 395 ClientSeq: 259
+02 03 17 00 02 0c e8 3f ac 36 47 00 20 8a c4 14 9d 43 c5 00 00 
+.......?.6G. ....C...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 267 ClientSeq: 405
+02 
+.
+
+GAME->Client [17:05:31 07/15/09] packet size: 39 CRYPTED, Flags: 7f ServerSeq: 396 ClientSeq: 260
+02 03 1d 00 02 0e 01 54 11 fb 35 47 00 20 8a c4 a0 bf 2e c6 17 00 02 0c de 3f ac 36 47 00 20 8a 
+c4 14 9d 43 c5 00 00 
+.......T..5G. ...........?.6G. ....C...
+
+Client->GAME [17:05:31 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 268 ClientSeq: 406
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 59 CRYPTED, Flags: 7f ServerSeq: 397 ClientSeq: 261
+82 06 63 01 49 03 1d 00 02 0e 01 4d 3e 10 36 47 00 20 8a c4 f1 dd 2e c6 17 00 02 0c d4 3f ac 36 
+47 00 20 8a c4 14 9d 43 c5 11 00 02 08 2c 79 32 47 00 20 8a c4 da 33 53 c5 00 00 
+..c.I......M>.6G. ...........?.6G. ....C.....,y2G. ...3S...
+
+Client->GAME [17:05:32 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 269 ClientSeq: 407
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 37 CRYPTED, Flags: 7f ServerSeq: 398 ClientSeq: 262
+02 03 17 00 02 0c ca 3f ac 36 47 00 20 8a c4 14 9d 43 c5 0b 00 02 08 62 c7 27 47 00 20 8a c4 e0 
+c9 54 c4 00 00 
+.......?.6G. ....C.....b.'G. ....T...
+
+Client->GAME [17:05:32 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 270 ClientSeq: 408
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 22 CRYPTED, Flags: 7f ServerSeq: 399 ClientSeq: 263
+02 03 17 00 02 0e 01 c0 fe a0 36 47 00 20 8a c4 14 9d 43 c5 00 00 
+..........6G. ....C...
+
+Client->GAME [17:05:32 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 271 ClientSeq: 409
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 31 CRYPTED, Flags: 7f ServerSeq: 400 ClientSeq: 264
+02 03 02 00 02 80 80 80 10 d6 00 17 00 02 0e 01 b6 dc 8a 36 47 00 20 8a c4 14 df 43 c5 00 00 
+...................6G. ....C...
+
+Client->GAME [17:05:32 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 256 ClientSeq: 410
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 21 CRYPTED, Flags: 7f ServerSeq: 401 ClientSeq: 265
+02 03 17 00 02 0c b2 bc 75 36 47 00 20 8a c4 04 58 44 c5 00 00 
+........u6G. ...XD...
+
+Client->GAME [17:05:32 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 257 ClientSeq: 411
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 402 ClientSeq: 267
+02 03 1d 00 02 08 c7 a5 36 47 00 20 8a c4 8b a3 2f c6 00 00 
+........6G. ..../...
+
+Client->GAME [17:05:32 07/15/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 258 ClientSeq: 412
+02 
+.
+
+GAME->Client [17:05:32 07/15/09] packet size: 20 CRYPTED, Flags: 7f ServerSeq: 403 ClientSeq: 267
+02 03 11 00 02 08 83 2a 33 47 00 20 8a c4 30 20 55 c5 00 00 
+.......*3G. ..0 U...
+

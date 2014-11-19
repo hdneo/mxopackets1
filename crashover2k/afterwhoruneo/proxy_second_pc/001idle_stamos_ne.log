@@ -1,0 +1,35 @@
+Client->WORLD [14:23:25 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 d3 f6 11 01 
+.  .  .  .  .  .  .  .  .  .  .  .  
+
+WORLD->Client [14:23:25 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 d3 f6 11 01 
+.  .  .  .  .  .  .  .  .  .  .  .  
+
+Client->WORLD [14:23:26 07/29/09] packet size: 1
+PSS: ff LocalSeq: 556 RemoteSeq: 513
+02 
+.  
+
+WORLD->Client [14:23:26 07/29/09] packet size: 1
+PSS: ff LocalSeq: 514 RemoteSeq: 555
+02 
+.  
+
+Client->WORLD [14:23:26 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 557 RemoteSeq: 514
+02 
+.  
+
+WORLD->Client [14:23:26 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 515 RemoteSeq: 556
+82 78 c0 fe 48 
+.  x  .  .  H  
+
+Client->WORLD [14:23:26 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 558 RemoteSeq: 515
+02 
+.  
+

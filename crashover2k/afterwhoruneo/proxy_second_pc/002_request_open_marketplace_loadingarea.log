@@ -1,0 +1,17 @@
+Client->WORLD [15:23:28 07/29/09] packet size: 14
+PSS: 7f LocalSeq: 136 RemoteSeq: 113
+02 04 01 00 19 01 07 81 29 00 00 00 00 01 
+.  .  .  .  .  .  .  .  )  .  .  .  .  .  
+
+WORLD->Client [15:23:29 07/29/09] packet size: 42
+PSS: 7f LocalSeq: 114 RemoteSeq: 136
+02 04 01 01 35 01 23 81 2a 09 00 00 00 00 00 00 18 00 f0 9a 00 00 00 00 04 00 86 d1 12 00 80 84 
+1e 00 a0 86 01 00 30 08 6e 4a 
+.  .  .  .  5  .  #  .  *  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  0  .  n  J  
+
+Client->WORLD [15:23:29 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 137 RemoteSeq: 114
+02 
+.  
+

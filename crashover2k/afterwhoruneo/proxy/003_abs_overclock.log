@@ -1,0 +1,69 @@
+Client->WORLD [19:27:31 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 0b e7 ba 00 
+.  .  .  .  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:27:31 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 0b e7 ba 00 
+.  .  .  .  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:27:34 07/29/09] packet size: 50
+PSS: 7f LocalSeq: 2105 RemoteSeq: 1772
+02 04 01 00 65 01 2b 80 b9 47 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 f9 55 41 08 6b 00 00 00 00 00 
+.  .  .  .  e  .  +  .  .  G  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  U  A  .  k  .  .  .  .  .  
+
+WORLD->Client [19:27:35 07/29/09] packet size: 25
+PSS: 7f LocalSeq: 1773 RemoteSeq: 2105
+02 04 01 03 8d 01 12 80 ac 47 01 00 00 00 00 00 00 00 00 00 00 00 00 00 40 
+.  .  .  .  .  .  .  .  .  G  .  .  .  .  .  .  .  .  .  .  .  .  .  .  @  
+
+Client->WORLD [19:27:35 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 2106 RemoteSeq: 1773
+02 
+.  
+
+WORLD->Client [19:27:37 07/29/09] packet size: 34
+PSS: 7f LocalSeq: 1774 RemoteSeq: 2106
+82 e8 d4 03 49 03 02 00 02 80 80 80 10 e3 00 00 00 04 01 03 8e 01 0b 80 bd 01 47 01 04 00 00 b4 
+42 01 
+.  .  .  .  I  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  G  .  .  .  .  .  
+B  .  
+
+Client->WORLD [19:27:37 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 2107 RemoteSeq: 1774
+02 
+.  
+
+WORLD->Client [19:27:37 07/29/09] packet size: 29
+PSS: 7f LocalSeq: 1775 RemoteSeq: 2106
+02 04 01 03 8f 01 16 80 bc 15 00 f0 03 00 47 01 00 00 ac 00 2c 00 00 00 00 00 00 a0 41 
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  G  .  .  .  .  .  ,  .  .  .  .  .  .  .  A  
+
+Client->WORLD [19:27:37 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 2108 RemoteSeq: 1775
+02 
+.  
+
+WORLD->Client [19:27:38 07/29/09] packet size: 13
+PSS: 7f LocalSeq: 1776 RemoteSeq: 2108
+02 03 02 00 02 80 80 80 10 e6 00 00 00 
+.  .  .  .  .  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:27:38 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 2109 RemoteSeq: 1776
+02 
+.  
+
+WORLD->Client [19:27:39 07/29/09] packet size: 17
+PSS: 7f LocalSeq: 1777 RemoteSeq: 2109
+82 0a d5 03 49 03 02 00 02 80 80 80 10 ea 00 00 00 
+.  .  .  .  I  .  .  .  .  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:27:39 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 2110 RemoteSeq: 1777
+02 
+.  
+

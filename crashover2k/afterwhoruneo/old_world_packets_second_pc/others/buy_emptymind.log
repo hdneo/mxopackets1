@@ -1,0 +1,9 @@
+Client->GAME [12:02:14 07/17/09] packet size: 14 CRYPTED, Flags: 7f ServerSeq: 523 ClientSeq: 830
+02 04 01 00 58 01 07 81 0e 00 20 00 80 00 
+....X..... ...
+
+GAME->Client [12:02:15 07/17/09] packet size: 61 CRYPTED, Flags: 7f ServerSeq: 668 ClientSeq: 782
+02 04 01 03 aa 04 0c 5e 58 00 2e 00 00 00 00 20 00 80 01 0e 80 e7 c0 63 ff ff ff ff ff ff 08 00 
+00 00 0a 80 e4 a3 44 7a 00 08 00 00 00 0f 81 0f 2e 00 00 00 00 20 00 80 40 9c 00 00 00 
+.......^X...... .......c..............Dz............. ..@....
+

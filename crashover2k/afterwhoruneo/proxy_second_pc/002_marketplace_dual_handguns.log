@@ -1,0 +1,38 @@
+1 Item found
+
+
+Enchanced Twin FM-900 Magnums
+Costs : 12.500.000
+Machines
+
+--------------------------------------------------
+
+Client->WORLD [15:46:52 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 39 5b 5e 01 
+.  .  .  .  .  .  .  .  9  [  ^  .  
+
+WORLD->Client [15:46:52 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 39 5b 5e 01 
+.  .  .  .  .  .  .  .  9  [  ^  .  
+
+Client->WORLD [15:46:53 07/29/09] packet size: 34
+PSS: 7f LocalSeq: 345 RemoteSeq: 301
+02 04 01 00 33 01 1b 81 24 49 57 44 48 00 00 00 00 00 00 00 00 19 00 ff c9 9a 3b 00 00 00 00 01 
+00 00 
+.  .  .  .  3  .  .  .  $  I  W  D  H  .  .  .  .  .  .  .  .  .  .  .  .  .  ;  .  .  .  .  .  
+.  .  
+
+WORLD->Client [15:46:53 07/29/09] packet size: 40
+PSS: 7f LocalSeq: 302 RemoteSeq: 345
+02 04 01 01 59 01 21 81 25 09 00 00 00 00 00 00 16 00 a7 22 00 00 00 00 00 14 f6 d1 12 00 20 bc 
+be 00 02 1f 52 6e 4a 00 
+.  .  .  .  Y  .  !  .  %  .  .  .  .  .  .  .  .  .  .  "  .  .  .  .  .  .  .  .  .  .     .  
+.  .  .  .  R  n  J  .  
+
+Client->WORLD [15:46:53 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 346 RemoteSeq: 302
+02 
+.  
+

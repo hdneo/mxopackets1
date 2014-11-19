@@ -1,0 +1,58 @@
+Client->GAME [12:08:47 07/17/09] packet size: 16 CRYPTED, Flags: 7f ServerSeq: 770 ClientSeq: 969
+02 04 01 00 66 01 09 80 98 07 00 00 00 01 01 00 
+....f...........
+
+GAME->Client [12:08:47 07/17/09] packet size: 5 CRYPTED, Flags: 7f ServerSeq: 787 ClientSeq: 777
+82 5e 73 97 47 
+.^s.G
+
+Client->GAME [12:08:47 07/17/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 771 ClientSeq: 970
+02 
+.
+
+GAME->Client [12:08:48 07/17/09] packet size: 103 CRYPTED, Flags: 7f ServerSeq: 788 ClientSeq: 778
+02 04 01 03 fd 01 60 80 99 00 00 00 00 07 00 2f 00 01 00 00 00 01 99 e8 17 46 ce b0 cb 46 00 32 
+00 38 00 3c 00 00 00 d0 07 00 00 31 00 00 b4 c0 0c 00 28 42 00 00 01 00 00 02 00 0d 00 13 00 02 
+00 02 03 02 00 ff ff fd ff 1c 00 45 6c 69 6d 69 6e 61 74 65 20 61 6e 20 65 6e 65 6d 79 20 6f 66 
+20 5a 69 6f 6e 2e 00 
+......`......../.........F...F.2.8.<.......1......(B.......................Eliminate an enemy of
+ Zion..
+
+Client->GAME [12:08:49 07/17/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 772 ClientSeq: 971
+02 
+.
+
+Client->GAME [12:08:51 07/17/09] packet size: 12 CRYPTED, Flags: 7f ServerSeq: 772 ClientSeq: 972
+02 04 01 00 67 01 05 80 9b 08 00 01 
+....g.......
+
+GAME->Client [12:08:51 07/17/09] packet size: 571 CRYPTED, Flags: 7f ServerSeq: 789 ClientSeq: 780
+02 03 02 00 02 80 40 00 2f 00 02 00 00 04 01 03 fe 05 4c 80 9c 00 00 00 00 08 00 2b 00 01 00 2f 
+00 02 d0 07 00 00 31 00 00 b4 c0 0c 00 28 14 00 00 26 70 0a 00 28 01 00 00 3e 00 3b 00 00 0e 00 
+41 73 73 61 73 73 69 6e 61 74 69 6f 6e 00 01 00 00 03 00 aa 06 00 00 9c 07 00 00 dc 05 00 00 81 
+64 80 a3 30 00 03 00 78 00 1a 00 00 00 03 00 00 00 3c 00 00 10 ef 46 00 00 7f c3 00 20 e4 c5 00 
+88 db 46 00 00 7f c3 00 e0 ab c5 00 00 00 00 00 00 32 01 57 68 69 6c 65 20 6f 76 65 72 74 20 63 
+6f 6e 66 6c 69 63 74 20 73 65 72 76 65 73 20 69 74 73 20 70 75 72 70 6f 73 65 2c 20 73 6f 6d 65 
+74 69 6d 65 73 20 61 20 6d 6f 72 65 20 73 75 62 74 6c 65 20 61 70 70 72 6f 61 63 68 20 69 73 20 
+72 65 71 75 69 72 65 64 2e 20 49 6e 20 74 68 69 73 20 63 61 73 65 2c 20 61 6e 20 61 73 73 61 73 
+73 69 6e 61 74 69 6f 6e 2e 0d 0a 0d 0a 49 6e 20 6f 72 64 65 72 20 74 6f 20 72 65 61 63 68 20 42 
+65 6e 67 74 2c 20 79 6f 75 20 77 69 6c 6c 20 66 69 72 73 74 20 6e 65 65 64 20 74 6f 20 61 63 71 
+75 69 72 65 20 61 20 63 65 72 74 69 6e 20 44 61 74 61 20 44 69 73 6b 20 74 68 61 74 20 68 6f 6c 
+64 73 20 64 65 74 61 69 6c 73 20 6f 6e 20 42 65 6e 67 74 27 73 20 70 6f 73 69 74 69 6f 6e 2e 20 
+4d 79 20 73 6f 75 72 63 65 73 20 73 61 79 20 69 74 20 63 61 6e 20 62 65 20 66 6f 75 6e 64 20 61 
+74 20 74 68 65 20 61 64 64 72 65 73 73 20 49 20 6a 75 73 74 20 6d 61 72 6b 65 64 20 66 6f 72 20 
+79 6f 75 2e 00 23 80 9e 00 00 00 00 00 00 26 db 40 00 00 00 00 80 78 c1 40 00 00 00 00 00 f8 b1 
+c0 01 00 00 00 22 01 80 07 23 80 9e 01 00 00 00 00 00 26 db 40 00 00 00 00 80 78 c1 40 00 00 00 
+00 00 50 b4 c0 01 00 00 00 27 01 80 07 2d 80 a0 00 06 00 00 25 00 47 65 74 20 74 68 65 20 44 61 
+74 61 20 44 69 73 6b 20 66 72 6f 6d 20 74 68 65 20 6d 61 69 6e 66 72 61 6d 65 00 
+......@./.........L........+.../......1......(...&p..(...>.;....Assassination...................
+d..0...x.........<....F..... .....F..............2.While overt conflict serves its purpose, some
+times a more subtle approach is required. In this case, an assassination.....In order to reach B
+engt, you will first need to acquire a certin Data Disk that holds details on Bengt's position. 
+My sources say it can be found at the address I just marked for you..#........&.@.....x.@.......
+....."...#........&.@.....x.@.....P......'...-......%.Get the Data Disk from the mainframe.
+
+Client->GAME [12:08:51 07/17/09] packet size: 1 CRYPTED, Flags: 7f ServerSeq: 773 ClientSeq: 973
+02 
+.
+

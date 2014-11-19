@@ -1,0 +1,25 @@
+Client->WORLD [15:14:31 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 ec bd 40 01 
+.  .  .  .  .  .  .  .  .  .  @  .  
+
+Client->WORLD [15:14:31 07/29/09] packet size: 28
+PSS: 5f LocalSeq: 43 RemoteSeq: 38
+02 04 01 00 05 01 15 80 ae 00 00 00 00 00 00 0a 00 01 00 00 30 00 0c 00 00 00 32 00 
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  0  .  .  .  .  .  2  .  
+
+WORLD->Client [15:14:31 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 ec bd 40 01 
+.  .  .  .  .  .  .  .  .  .  @  .  
+
+WORLD->Client [15:14:31 07/29/09] packet size: 15
+PSS: 7f LocalSeq: 39 RemoteSeq: 43
+02 04 01 01 1f 01 08 80 b2 0c 00 32 00 30 00 
+.  .  .  .  .  .  .  .  .  .  .  2  .  0  .  
+
+Client->WORLD [15:14:31 07/29/09] packet size: 1
+PSS: 3f LocalSeq: 44 RemoteSeq: 39
+02 
+.  
+

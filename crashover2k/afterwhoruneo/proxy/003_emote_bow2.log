@@ -1,0 +1,417 @@
+Client->WORLD [19:11:11 07/29/09] packet size: 16
+PSS: 7f LocalSeq: 179 RemoteSeq: 163
+02 04 01 00 32 01 09 30 e7 02 00 58 00 00 00 00 
+.  .  .  .  2  .  .  0  .  .  .  X  .  .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 36
+PSS: 7f LocalSeq: 164 RemoteSeq: 179
+82 5a 97 03 49 03 02 00 01 28 08 40 00 25 03 00 00 10 ae 88 84 c7 00 00 be 42 a9 c0 7d 46 6b 73 
+20 20 00 00 
+.  Z  .  .  I  .  .  .  .  (  .  @  .  %  .  .  .  .  .  .  .  .  .  .  .  B  .  .  }  F  k  s  
+      .  .  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 180 RemoteSeq: 164
+02 03 02 00 01 20 08 00 00 
+.  .  .  .  .     .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 32
+PSS: 7f LocalSeq: 165 RemoteSeq: 179
+02 03 02 00 01 28 08 40 00 25 03 00 00 10 ae 88 84 c7 00 00 be 42 a9 c0 7d 46 e8 73 20 20 00 00 
+.  .  .  .  .  (  .  @  .  %  .  .  .  .  .  .  .  .  .  .  .  B  .  .  }  F  .  s        .  .  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 10
+PSS: 7f LocalSeq: 181 RemoteSeq: 165
+02 03 02 00 01 22 08 00 00 00 
+.  .  .  .  .  "  .  .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 24
+PSS: 7f LocalSeq: 166 RemoteSeq: 180
+02 03 02 00 01 08 ae 88 84 c7 00 00 be 42 a9 c0 7d 46 65 74 20 20 00 00 
+.  .  .  .  .  .  .  .  .  .  .  .  .  B  .  .  }  F  e  t        .  .  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 182 RemoteSeq: 166
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 167 RemoteSeq: 181
+02 
+.  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 183 RemoteSeq: 167
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 168 RemoteSeq: 182
+02 
+.  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 184 RemoteSeq: 168
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 169 RemoteSeq: 183
+02 
+.  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 185 RemoteSeq: 169
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:12 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 170 RemoteSeq: 184
+02 
+.  
+
+Client->WORLD [19:11:12 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 186 RemoteSeq: 169
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 171 RemoteSeq: 185
+02 
+.  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 187 RemoteSeq: 170
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 172 RemoteSeq: 186
+02 
+.  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 188 RemoteSeq: 171
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 173 RemoteSeq: 187
+82 6c 97 03 49 
+.  l  .  .  I  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 189 RemoteSeq: 172
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 190 RemoteSeq: 173
+02 
+.  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 174 RemoteSeq: 188
+02 
+.  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 191 RemoteSeq: 174
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 175 RemoteSeq: 189
+02 
+.  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 192 RemoteSeq: 175
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 176 RemoteSeq: 191
+02 
+.  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 193 RemoteSeq: 176
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 177 RemoteSeq: 192
+02 
+.  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 194 RemoteSeq: 176
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:11:13 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 195 RemoteSeq: 177
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:13 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 178 RemoteSeq: 193
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 196 RemoteSeq: 178
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 179 RemoteSeq: 194
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 197 RemoteSeq: 179
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 180 RemoteSeq: 195
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 198 RemoteSeq: 180
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 181 RemoteSeq: 196
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 199 RemoteSeq: 181
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 182 RemoteSeq: 197
+82 7e 97 03 49 
+.  ~  .  .  I  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 200 RemoteSeq: 182
+02 
+.  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 183 RemoteSeq: 198
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 201 RemoteSeq: 182
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 184 RemoteSeq: 200
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 202 RemoteSeq: 183
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 185 RemoteSeq: 201
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 203 RemoteSeq: 184
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:14 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 186 RemoteSeq: 202
+02 
+.  
+
+Client->WORLD [19:11:14 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 204 RemoteSeq: 185
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 187 RemoteSeq: 203
+02 
+.  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 205 RemoteSeq: 186
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 206 RemoteSeq: 187
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 188 RemoteSeq: 204
+02 
+.  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 207 RemoteSeq: 188
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 189 RemoteSeq: 205
+02 
+.  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 208 RemoteSeq: 189
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 190 RemoteSeq: 206
+02 
+.  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 209 RemoteSeq: 190
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 191 RemoteSeq: 207
+82 90 97 03 49 
+.  .  .  .  I  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 210 RemoteSeq: 191
+02 
+.  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 192 RemoteSeq: 208
+02 
+.  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 211 RemoteSeq: 191
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 193 RemoteSeq: 210
+02 
+.  
+
+Client->WORLD [19:11:15 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 212 RemoteSeq: 192
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:15 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 194 RemoteSeq: 211
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 213 RemoteSeq: 194
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 195 RemoteSeq: 212
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 214 RemoteSeq: 195
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 196 RemoteSeq: 213
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 215 RemoteSeq: 195
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 197 RemoteSeq: 214
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 216 RemoteSeq: 196
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 198 RemoteSeq: 215
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 217 RemoteSeq: 197
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 199 RemoteSeq: 216
+82 a2 97 03 49 
+.  .  .  .  I  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 218 RemoteSeq: 198
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 219 RemoteSeq: 199
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 220 RemoteSeq: 199
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 200 RemoteSeq: 217
+02 
+.  
+
+Client->WORLD [19:11:16 07/29/09] packet size: 9
+PSS: 7f LocalSeq: 221 RemoteSeq: 200
+02 03 02 00 01 02 00 00 00 
+.  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:11:16 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 201 RemoteSeq: 219
+02 
+.  
+
+WORLD->Client [19:11:17 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 202 RemoteSeq: 220
+02 
+.  
+
+WORLD->Client [19:11:17 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 203 RemoteSeq: 221
+02 
+.  
+

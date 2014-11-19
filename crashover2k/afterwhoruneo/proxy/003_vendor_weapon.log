@@ -1,0 +1,44 @@
+Client->WORLD [19:38:29 07/29/09] packet size: 14
+PSS: 7f LocalSeq: 3307 RemoteSeq: 2782
+02 04 01 00 90 01 07 81 10 00 00 00 00 01 
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:38:29 07/29/09] packet size: 5
+PSS: 7f LocalSeq: 2783 RemoteSeq: 3307
+82 ac fd 03 49 
+.  .  .  .  I  
+
+Client->WORLD [19:38:29 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 3308 RemoteSeq: 2783
+02 
+.  
+
+Client->WORLD [19:38:30 07/29/09] packet size: 15
+PSS: 7f LocalSeq: 3309 RemoteSeq: 2783
+02 04 01 00 91 01 08 80 c7 0d 00 7f 00 02 00 
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:38:30 07/29/09] packet size: 85
+PSS: 7f LocalSeq: 2784 RemoteSeq: 3309
+02 04 02 04 9c 01 0c 81 9c 9b 08 f0 34 24 06 00 50 01 00 04 9d 01 3e 81 0d 7c ad d9 43 00 00 00 
+00 dd c8 ef c0 00 00 00 00 00 c0 57 40 00 00 00 e0 45 a8 d2 40 20 00 07 00 c1 1e 00 00 c1 09 00 
+00 cb 1e 00 00 c6 1e 00 00 d3 1e 00 00 d8 1e 00 00 dd 1e 00 00 
+.  .  .  .  .  .  .  .  .  .  .  .  4  $  .  .  P  .  .  .  .  .  >  .  .  |  .  .  C  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  W  @  .  .  .  .  E  .  .  @     .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+
+Client->WORLD [19:38:30 07/29/09] packet size: 1
+PSS: 7f LocalSeq: 3310 RemoteSeq: 2784
+02 
+.  
+
+Client->WORLD [19:38:31 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 db fb c4 00 
+.  .  .  .  .  .  .  .  .  .  .  .  
+
+WORLD->Client [19:38:31 07/29/09] packet size: 12
+Not Encrypted
+00 00 00 00 00 01 04 08 db fb c4 00 
+.  .  .  .  .  .  .  .  .  .  .  .  
+
